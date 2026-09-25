@@ -75,7 +75,7 @@ against an edition you name. A citation you did not check is not a receipt
 ### 6. Lint
 
 ```bash
-python3 _brain/skills/tools/neutrality-lint.py _brain/knowledge/<branch>/<page>.md
+python3 _implant/skills/tools/neutrality-lint.py _implant/knowledge/<branch>/<page>.md
 ```
 
 Every hit is a verdict word without an owner. Attribute it, quote it, or

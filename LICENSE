@@ -2,7 +2,7 @@ This repository contains material under two licenses.
 
 ## Article content (CC BY-SA 4.0)
 
-Every markdown page under `_brain/` — knowledge, skills, conventions, vision,
+Every markdown page under `_implant/` — knowledge, skills, conventions, vision,
 plans, journals and the excerpts under `raw/` authored here — is licensed
 under the Creative Commons Attribution-ShareAlike 4.0 International License
 (CC BY-SA 4.0). You may share and adapt it for any purpose, including
@@ -16,7 +16,7 @@ may move in both directions with attribution.
 
 ## Tooling and configuration (MIT)
 
-Scripts under `_brain/skills/tools/`, henxels checks, and configuration files
+Scripts under `_implant/skills/tools/`, henxels checks, and configuration files
 (`henxels.yaml`, `henxels_checks.py`, `brainpick.toml`) are licensed under
 the MIT License.
 
@@ -47,4 +47,4 @@ the ordinary right of quotation, attributed to work, section, edition and
 canonical locator. Public-domain editions are marked as such. Works under
 active copyright are never reproduced in substance; they are excerpted to the
 minimum needed to support a claim and cited by reference — see
-`_brain/conventions/raw-holds-excerpts-not-copies.md`.
+`_implant/conventions/raw-holds-excerpts-not-copies.md`.

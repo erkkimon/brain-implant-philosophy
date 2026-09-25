@@ -50,7 +50,7 @@ following; validity is then reported as "valid under reconstruction R
 ### 4. Check validity with the tool — never by eye
 
 ```bash
-python3 _brain/skills/tools/logic.py check --premises "P -> Q" "P" --conclusion "Q"
+python3 _implant/skills/tools/logic.py check --premises "P -> Q" "P" --conclusion "Q"
 ```
 
 or save the argument as JSON and run `logic.py check argument.json`. The
