@@ -71,4 +71,4 @@ source says it does.
 
 ## Techniques
 
-* (none yet)
+* [Appeal to authority](appeal-to-authority.md) — a source's standing offered as the reason; Aristotle's ethos, Locke's *ad verecundiam*, the standard treatment, Walton's scheme and pragma-dialectics side by side.

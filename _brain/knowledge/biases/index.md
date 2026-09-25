@@ -58,4 +58,4 @@ this bias.
 
 ## Biases
 
-* (none yet)
+* [Anchoring](anchoring.md) — estimates pulled toward an exposed starting value; Tversky & Kahneman 1974, replicated 36/36 in Many Labs 1, Gigerenzer's critique attributed.

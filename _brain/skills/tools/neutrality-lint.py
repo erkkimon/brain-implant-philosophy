@@ -71,6 +71,7 @@ ATTRIBUTION_MARKERS = [
     "says", "said", "claims", "claimed", "objects", "in the words of", "per ",
     "classes", "classed", "treats", "treated", "counts as", "count as",
     "regards", "regarded", "ranks", "ranked", "labels", "labelled", "labeled",
+    "quoted", "quoting", "reports", "reported",
 ]
 _ATTRIB_RE = re.compile(
     "|".join(r"\b" + re.escape(m.rstrip()) + (r"\s" if m.endswith(" ") else r"\b")
