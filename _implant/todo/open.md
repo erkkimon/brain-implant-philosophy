@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-25T23:59:00Z
+timestamp: 2026-09-25T23:59:59Z
 ---
 
 # Open
@@ -63,24 +63,42 @@ implants together. Write each page with
 - [ ] README "Quick start" followed top to bottom on a clean machine
 - [ ] tag `v0.1` with the agent-distilled disclaimer in the release note
 
-## Post-MVP — incremental breadth (commit + push each increment)
+## Post-MVP → MLP (see [MLP plan](../plans/mlp.md))
 
-### Consciousness cluster follow-ups
+### Breadth for real questions (MLP §2)
 
-- [ ] primary-text excerpts for the Buddhist, Advaita and Chinese rows (now
-      SEP-only); Metzinger, Schneider (ACT), Shanahan, Lau, Michel for the AI
-      table; Levine 1983 as its own argument page; a citable primary source
-      for the Kyle Fish credence figure or drop the mention
-- [ ] the exemplar problem not chosen for v0.1 (free will or induction)
+- [ ] free will and determinism cluster: problem + compatibilism + hard
+      incompatibilism + Frankfurt cases (argument, `logic.py`) + consequence
+      argument (argument, `logic.py`) + Frankfurt and Anscombe (thinkers)
+- [ ] problem of induction cluster: problem + Hume's argument concerning
+      induction (argument, `logic.py`) + Hume (thinker) + *Treatise* (work)
+- [ ] works: five+ landmark texts (*Meditations*, *The Conscious Mind*,
+      *Consciousness Explained*, *The Edge of Sentience*, one non-Western
+      anchor)
+- [ ] schools: three+ spanning eras/traditions (Stoicism, Nyāya, logical
+      positivism)
+- [ ] thinkers: ten+ spanning eras/traditions (add Hume, Nāgārjuna, Kant,
+      Frankfurt, Anscombe, plus one non-Western not yet covered)
+- [ ] persuasion: ten+ pages with full primary-source quotations (currently 3)
+- [ ] biases: ten+ pages with replication records (currently 3)
 
-### Remaining Phase 1 exemplars (one to three pages per branch)
+### Quality that survives scrutiny (MLP §3)
 
-- [ ] problems: the Gettier problem; the problem of intrinsic nature
-- [ ] positions: Madhyamaka emptiness (as a position on intrinsic nature)
-- [ ] thinkers: Hume; Nāgārjuna; Kant; Frankfurt; Anscombe
-- [ ] works: *Treatise of Human Nature*; *Mūlamadhyamakakārikā*; *Critique of
-      Pure Reason*
-- [ ] schools: Nyāya; Stoicism; logical positivism (beyond the two in v0.1)
+- [ ] consciousness cluster follow-ups: primary-text excerpts for Buddhist,
+      Advaita, Chinese rows (now SEP-only); Metzinger, Schneider (ACT),
+      Shanahan, Lau, Michel for AI table; Levine 1983 as its own argument
+      page; citable source for Kyle Fish credence or drop mention
+- [ ] coverage ledger (`todo/coverage.md`): created and updated against
+      Wikipedia's lists; implant beats Wikipedia on at least one benchmark
+      in at least one branch
+
+### Usability beyond the maintainer (MLP §4–5)
+
+- [ ] README "Quick start" followed on a clean machine by someone new
+- [ ] at least one external user has mounted the implant and reported feedback
+- [ ] cognitive-tools registered alongside philosophy on an external machine
+- [ ] contributing guide tested by an external contributor
+- [ ] tag `v0.2`; announce with changelog from v0.1
 
 ### Tooling
 
@@ -100,5 +118,6 @@ implants together. Write each page with
 
 ## Related implants (cross-repo, not this repo's pages)
 
-- [ ] mount cognitive-tools in stem / apologetics / theology implants
+- [ ] mount cognitive-tools in apologetics and theology implants (stem already
+      uses it via stemlib/appraise.py shim)
 - [ ] possible psychology implant (biases would move or cross-link there)
