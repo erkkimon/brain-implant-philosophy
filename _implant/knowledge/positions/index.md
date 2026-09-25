@@ -64,4 +64,7 @@ Which senses of the contract terms this position uses.
 
 ## Positions
 
-* (none yet)
+Positions on [consciousness](../problems/consciousness.md):
+
+* [Dualism](dualism.md) · [Physicalism](physicalism.md) · [Functionalism](functionalism.md) · [Panpsychism](panpsychism.md) · [Illusionism](illusionism.md)
+* Scientific theories: [Global workspace](global-workspace.md) · [Higher-order thought](higher-order-thought.md) · [Integrated information theory](integrated-information-theory.md) · [Biological naturalism](biological-naturalism.md)

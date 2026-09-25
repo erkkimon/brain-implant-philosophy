@@ -56,4 +56,9 @@ Contract terms the argument turns on.
 
 ## Arguments
 
-* (none yet)
+On [consciousness](../problems/consciousness.md):
+
+* [The knowledge argument](knowledge-argument.md) — Jackson's Mary; Levine's explanatory gap as its epistemic form.
+* [The zombie argument](zombie-argument.md) — Kripke, Chalmers; the survey's three-way split.
+* [The Chinese room](chinese-room.md) — Searle against Turing; the octopus and the indicator report as descendants.
+* [Leibniz's mill](leibniz-mill.md) — *Monadology* §17; the ancestor of the explanatory gap.

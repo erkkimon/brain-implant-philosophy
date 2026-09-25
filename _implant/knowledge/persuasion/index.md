@@ -72,3 +72,5 @@ source says it does.
 ## Techniques
 
 * [Appeal to authority](appeal-to-authority.md) — a source's standing offered as the reason; Aristotle's ethos, Locke's *ad verecundiam*, the standard treatment, Walton's scheme and pragma-dialectics side by side.
+* [Framing](framing.md) — the same facts under a chosen description; Tversky & Kahneman's decision frame and the Asian-disease reversal, the Levin typology, Entman's media sense, and the reframe-and-compare counter-move.
+* [Straw man](straw-man.md) — answering a distorted, weakest or invented version of the other side; the SEP definition, Talisse & Aikin's weak man, Aikin & Casey's hollow man, and charity as the counter-rule.

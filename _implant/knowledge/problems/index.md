@@ -53,4 +53,5 @@ The terms whose contract this page depends on, each linked.
 
 ## Problems
 
-* (none yet)
+* [What is consciousness, and how does it relate to the physical?](consciousness.md) — the mind–body hub: Descartes to the 2025 adversarial test on one table.
+* [Could an AI be conscious?](ai-consciousness.md) — the machine case: philosophers, neuroscientists, the 2020 survey and the 2022–2026 AI-lab statements, each with its own hedge.

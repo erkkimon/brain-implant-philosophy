@@ -21,6 +21,10 @@ Retrieved: 2026-09-25
 >  character, so to say, constitutes the most effective means of proof."
 >  (I.2.4, 1356a4–13)
 
+> "Rhetoric then may be defined as the faculty of discovering the possible
+>  means of persuasion in reference to any subject whatever."  (I.2.1,
+>  1355b25–26; added 2026-09-25)
+
 Relied on for: the textual claim that Aristotle counts the speaker's
 character (ēthos) as one of the three artistic proofs and calls it, in this
 translation, "the most effective means of proof"; and for the attributive

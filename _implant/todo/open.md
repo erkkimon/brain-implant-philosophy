@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-09-25T20:00:00Z
+timestamp: 2026-09-25T23:40:00Z
 ---
 
 # Open
@@ -14,14 +14,12 @@ YYYY-MM-DD)` and move it to `archive/YYYY-MM-DD.md` the same or the next day
 
 ## Phase 1 — exemplars (one to three pages per branch, fully verified)
 
-- [ ] problems: the problem of induction; the Gettier problem; free will and determinism
-- [ ] positions: compatibilism; hard incompatibilism; Madhyamaka emptiness (as a position on the problem of intrinsic nature)
-- [ ] arguments: Frankfurt cases; the consequence argument; Hume's argument concerning induction — each with `logic.py` output
-- [ ] thinkers: Hume; Nāgārjuna; Kant; Frankfurt; Anscombe — hubs of links, reception attributed
+- [ ] problems: the problem of induction; the Gettier problem; free will and determinism — consciousness and AI consciousness done, see `knowledge/problems/consciousness.md`
+- [ ] positions: compatibilism; hard incompatibilism; Madhyamaka emptiness (as a position on the problem of intrinsic nature) — nine positions on consciousness done, see `knowledge/positions/index.md`
+- [ ] arguments: Frankfurt cases; the consequence argument; Hume's argument concerning induction — each with `logic.py` output; knowledge argument, zombies, Chinese room, Leibniz's mill done
+- [ ] thinkers: Hume; Nāgārjuna; Kant; Frankfurt; Anscombe — hubs of links, reception attributed; Descartes, Nagel, Chalmers, Dennett done
 - [ ] works: *Treatise of Human Nature*; *Mūlamadhyamakakārikā*; *Critique of Pure Reason*
 - [ ] schools: Nyāya; Stoicism; logical positivism
-- [ ] persuasion: framing; the straw man — appeal to authority done, see `knowledge/persuasion/appeal-to-authority.md`
-- [ ] biases: confirmation bias; availability — each with canonical DOI, replication record, ecological-rationality critique; anchoring done, see `knowledge/biases/anchoring.md`
 - [ ] vocabulary: argument; validity; knowledge; persuasion / rhetoric / dialectic / argumentation (the spectrum split); fallacy
 - [ ] methods: classical logic (working logic, G1); Bayesian updating with the case against; reflective equilibrium
 
@@ -29,7 +27,12 @@ YYYY-MM-DD)` and move it to `archive/YYYY-MM-DD.md` the same or the next day
 
 - [ ] `todo/coverage.md`: the coverage ledger — per branch, count of pages here vs Wikipedia's lists of philosophers, unsolved problems in philosophy, fallacies, cognitive biases; date of last comparison
 - [ ] extend `logic.py` schema matching beyond the seven named forms; consider a first-order fragment
-- [ ] confirm that `exclude = ["raw/*"]` in brainpick.toml keeps raw/ out of search now that it has files
+
+## Consciousness cluster — follow-ups
+
+- [ ] consciousness: primary-text excerpts for the Buddhist, Advaita and Chinese rows (now SEP-only); Metzinger, Schneider (ACT), Shanahan, Lau, Michel for the AI table; Levine 1983 as its own argument page; a citable primary source for the Kyle Fish credence figure or drop the mention
+- [ ] vocabulary: consciousness (phenomenal / access), qualia, sentience, moral patient, computational functionalism — the terms the cluster leans on
+- [ ] works: *Meditations*, *The Conscious Mind*, *Consciousness Explained*, *The Edge of Sentience*
 
 ## Phase 2 — core canon
 

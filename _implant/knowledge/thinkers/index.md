@@ -53,4 +53,4 @@ normative definition, with a pointer to the descriptive entry.
 
 ## Thinkers
 
-* (none yet)
+* [Descartes](descartes.md) · [Nagel](nagel.md) · [Chalmers](chalmers.md) · [Dennett](dennett.md) — the first four, all hubs on [consciousness](../problems/consciousness.md).
