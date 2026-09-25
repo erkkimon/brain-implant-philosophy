@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-25T23:56:00Z
+timestamp: 2026-09-25T23:59:00Z
 ---
 
 # Open
@@ -26,12 +26,6 @@ implants together. Write each page with
 
 ### Fill the empty branches
 
-- [ ] vocabulary (load-bearing terms the graph leans on): argument; validity;
-      knowledge; *fallacy*; persuasion / rhetoric / dialectic / argumentation (the
-      spectrum split); consciousness (phenomenal / access); qualia; sentience;
-      moral patient; computational functionalism
-- [ ] methods: classical logic as the working logic (G1); reflective
-      equilibrium; Bayesian updating with the case against
 - [ ] works: *Meditations*; *The Conscious Mind*; *Consciousness Explained*;
       *The Edge of Sentience*; one non-Western anchor (*Mūlamadhyamakakārikā*
       or the *Abhidharma*)

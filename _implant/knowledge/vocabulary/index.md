@@ -45,4 +45,13 @@ Linked, with the boundary between them stated.
 
 ## Terms
 
-* (none yet)
+* [Argument](argument.md) — a set of premises offered as reasons for a conclusion, distinguished from explanation, assertion, and persuasion.
+* [Validity](validity.md) — the property of an argument whose form guarantees truth-preservation, checked mechanically by logic.py.
+* [Knowledge](knowledge.md) — the epistemic target of inquiry, defined here as a pointer to the debate rather than as any particular analysis.
+* [*Fallacy*](fallacy.md) — a pattern of reasoning classified as defective by some authority; classifications are always attributed. # lint: allow
+* [Persuasion, rhetoric, dialectic, argumentation](persuasion-rhetoric-dialectic.md) — the spectrum of communicative practices, kept distinct so that validity checking and persuasion inventorying are independent.
+* [Consciousness (phenomenal / access)](consciousness.md) — the P/A distinction that keeps the hard problem separate from the easy problems.
+* [Qualia](qualia.md) — the qualitative properties of phenomenal experiences, affirmed by realists and denied by eliminativists.
+* [Sentience](sentience.md) — the capacity for phenomenal experience, distinguished from sapience, intelligence, and access consciousness.
+* [Moral patient](moral-patient.md) — an entity whose interests matter morally for their own sake; grounds of patiency are contested.
+* [Computational functionalism](computational-functionalism.md) — the view that mental states are substrate-independent functional roles; the assumption behind most AI consciousness research and the target of its strongest objections.

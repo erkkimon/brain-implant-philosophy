@@ -46,4 +46,6 @@ Skills and tools that apply it, linked.
 
 ## Methods
 
-* (none yet)
+* [Classical logic](classical-logic.md) — the working logic of this implant (G1); propositional and first-order with bivalence, excluded middle, non-contradiction; documented with its presuppositions and objections.
+* [Reflective equilibrium](reflective-equilibrium.md) — mutual adjustment of principles and judgements until they cohere; documented as a method used by many philosophers, not adopted as the implant's own justificatory method.
+* [Bayesian updating with the case against](bayesian-updating.md) — credence revision by conditionalisation, presented alongside the problem of the priors, frequentist and likelihoodist alternatives, and computational intractability; implemented via the cognitive-tools implant's estimate-a-credence skill.

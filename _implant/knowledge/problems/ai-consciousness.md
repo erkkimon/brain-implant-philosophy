@@ -4,7 +4,7 @@ about: concept
 title: Could an AI be conscious?
 description: "The machine case of the consciousness problem, with every party on one table — Descartes' two tests, Turing's imitation game, Searle's room, Chalmers' credences, the Butlin–Long indicator report, Seth's biological naturalism, Birch's sentience candidates, the PhilPapers 2020 figures, and the 2022–2026 statements of Google, OpenAI, Anthropic and Microsoft AI — each quoted with its own hedges, none ranked, plus the tools for forming a credence."
 tags: [problem, philosophy-of-mind, consciousness, ai, ethics, moral-status]
-timestamp: 2026-09-25T23:20:00Z
+timestamp: 2026-09-25T23:59:00Z
 ---
 
 # Could an AI be conscious?
@@ -177,8 +177,8 @@ implant's. The implant supplies the tools:
 ## Vocabulary
 
 *Consciousness* (phenomenal / access), *sentience* (Birch: "the capacity
-to have valenced experiences"), *moral patient*, *computational
-functionalism* (Butlin et al.: "performing computations of the right kind
+to have valenced experiences"), *moral patient*, [*computational
+functionalism*](../vocabulary/computational-functionalism.md) (Butlin et al.: "performing computations of the right kind
 is necessary and sufficient for consciousness"), *biological naturalism*
 (Seth's sense versus Searle's — see the position page), *seemingly
 conscious AI* (Suleyman). All open work in [vocabulary](../vocabulary/index.md).
