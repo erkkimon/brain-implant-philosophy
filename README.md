@@ -149,6 +149,25 @@ evaluated by individuals; the admission test for a thought is that a
 stranger can check it. Opinions — including the maintainers' — do not enter;
 they belong to the reader.
 
+## How the content is produced — and a disclaimer
+
+All information in this repository is **distilled by AI agents** from the
+cited sources, under the contract above, and reviewed by humans only to the
+extent the maintainers and contributors have had time for. The contract
+checks what can be checked mechanically — that links land, that citations
+are present, that no verdict is uttered in the implant's own voice — but it
+cannot check that a source was read correctly or that a quotation is
+accurate. Errors of transcription, attribution and interpretation are
+therefore possible on any page, and every receipt is there precisely so
+that you can verify the claim yourself before relying on it.
+
+The content is provided **as is**, without warranty of any kind, express or
+implied. Nothing here is professional advice of any kind, and nothing here
+is a statement of the maintainers' own views: the implant reports what named
+sources have said, and any error in such a report is an error of the
+implant, not a claim of the source. If you find one, open an issue or a pull
+request.
+
 ## Licensing
 
 Content is **CC BY-SA 4.0**; tooling and configuration are **MIT**. Quoted
