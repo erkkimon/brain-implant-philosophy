@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-26T12:09:04Z
 ---
 
 # Open
@@ -19,8 +19,8 @@ committed-and-pushed increment at a time.
 
 ## To v0.1 — clear the bar (see [MVP plan](../plans/mvp.md))
 
-What remains: the MCP cross-implant check, the unverified citations, and
-the ship checklist. Write each page with
+What remains: the unverified citations, the README Quick start on a clean
+machine, and the tag. Write each page with
 [Write a page](../skills/write-a-page.md) through its review checklist.
 
 ### Fill the empty branches
@@ -29,10 +29,6 @@ All ten branches are non-empty since 2026-09-26 ([archive](archive/2026-09-26.md
 
 ### Make the README claims checkable
 
-- [ ] cross-implant reach through the MCP server: `brain_search` with scope
-      `cognitive-tools` timed out (-32001) on 2026-09-26 while the CLI search
-      found `skills/estimate-a-credence.md`; re-test after upgrading brainpick
-      0.8.1 → 0.8.6 and restarting the server
 - [ ] verify or flag the from-memory citations in the 13 vocabulary/methods
       pages (Copi/Cohen/Flage, van Eemeren & Grootendorst, Hempel 1965,
       C. I. Lewis 1929, Singer 2005, Williamson 2023, Nisbett et al. 2001,
@@ -47,9 +43,7 @@ free will and induction move to post-MVP below.
 
 ### Ship checklist (all must pass to tag v0.1)
 
-- [ ] compile fresh on both repos, 0 ghosts / 0 orphans
 - [ ] neutrality lint clean; `selftest.py` green
-- [ ] cross-implant skill reach confirmed through the MCP server (CLI: confirmed)
 - [ ] README "Quick start" followed top to bottom on a clean machine
 - [ ] tag `v0.1` with the agent-distilled disclaimer in the release note
 
