@@ -2,7 +2,7 @@
 type: skill
 title: Write persuasively
 description: "Use when the user asks for text meant to move a reader — a pitch, an op-ed, a letter, a speech, a defence of a position. Before writing, presents the user with the persuasion techniques the implant catalogues and asks which are allowed, so that the persuasion is transparent and chosen; then writes with only those, annotates where each was used, and hands over a version the user can audit with spot-persuasion-and-bias."
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 depends_on: [using-the-brain-implant.md, spot-persuasion-and-bias.md]
 export: agent-skill
 ---
@@ -10,7 +10,7 @@ export: agent-skill
 # Write persuasively
 
 Every text persuades — laying down facts is persuasion too, and so is the
-order they are laid in ([journal](../journals/2026-09-25.md)). The implant
+order they are laid in ([journal](../journals/archive/2026/09/2026-09-25.md)). The implant
 takes no view on which techniques are legitimate
 ([Reporting, not endorsing](../conventions/reporting-not-endorsing.md)). The
 user does, for their own text, and this skill exists to make that choice

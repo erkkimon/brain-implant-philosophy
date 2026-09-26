@@ -4,7 +4,7 @@ about: process
 title: "Classical logic"
 description: "The working logic of this implant — classical propositional and first-order logic with bivalence, excluded middle, and non-contradiction — adopted as a given (G1) because any defence of it would already use it, and documented here so that its presuppositions and its limits are visible."
 tags: [method, logic]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Classical logic
@@ -31,7 +31,7 @@ is not currently implemented; arguments requiring it are flagged.
 
 - **Aristotle:** *Prior Analytics* (c. 350 BCE) — the syllogistic, the first
   formal system of valid inference. Standard edition Bekker 24a–70b.
-- **Stoics:** Chrysippus developed propositional logic (conditionals,
+- **[Stoics](../schools/stoicism.md):** Chrysippus developed propositional logic (conditionals,
   disjunctions); fragments in Diogenes Laertius VII.76–81 and Sextus
   Empiricus, *Against the Logicians*.
 - **Frege 1879:** *Begriffsschrift* — modern quantificational logic.

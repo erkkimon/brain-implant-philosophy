@@ -4,7 +4,7 @@ about: concept
 title: "Knowledge"
 description: "The epistemic state that arguments and evidence aim to produce or undermine — defined here as the target of inquiry rather than as any particular analysis, because every proposed analysis (JTB, reliabilism, virtue epistemology, knowledge-first) is itself a contested position in epistemology."
 tags: [vocabulary, epistemology]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Knowledge
@@ -26,7 +26,7 @@ would be taking a side on the Gettier problem and its descendants, which
 violates G3 ([manifest](../../vision/manifest.md)). The term is kept as a
 pointer to the debate, not as a concept whose analysis is decided here.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 
 ## Descriptive definitions
 
@@ -90,3 +90,7 @@ Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
 - [Reflective equilibrium](../methods/reflective-equilibrium.md) — a method
   of mutual adjustment between principles and judgements, used by many
   epistemologists to justify analyses of knowledge.
+- *Analytic* / *a priori* knowledge. The [Vienna Circle](../schools/vienna-circle.md)
+  denied "that any principle or claim was synthetic a priori" and held
+  logic and mathematics "to be analytic" (Uebel, SEP "Vienna Circle", Fall
+  2024, preamble and §2.3).

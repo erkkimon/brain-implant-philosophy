@@ -4,7 +4,7 @@ about: person
 title: David J. Chalmers
 description: "Chalmers on consciousness: the hard problem (1995), credences on LLM consciousness (2023), the 2020 PhilPapers survey co-authored with Bourget, and his role in the AI welfare debate as described by Anthropic."
 tags: [thinker, philosophy-of-mind, consciousness, chalmers]
-timestamp: 2026-09-25T23:55:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # David J. Chalmers
@@ -27,7 +27,7 @@ background; not established from the excerpts held.
 - "Facing Up to the Problem of Consciousness", *Journal of Consciousness
   Studies* 2(3), 1995. No Crossref DOI for the JCS article; reprints have
   DOIs. Excerpt: `raw/chalmers-1995-facing-up-hard-problem.md`.
-- *The Conscious Mind* (OUP, 1996). Bibliographic only in the excerpts
+- [*The Conscious Mind*](../works/the-conscious-mind.md) (OUP, 1996). Bibliographic only in the excerpts
   held (ISBN recorded in the chalmers-1995 raw file).
 - "Could a Large Language Model be Conscious?", arXiv:2303.07103, 2023.
   Excerpt: `raw/chalmers-2023-could-an-llm-be-conscious.md`.

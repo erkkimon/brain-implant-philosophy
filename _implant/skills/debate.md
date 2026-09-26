@@ -2,7 +2,7 @@
 type: skill
 title: Debate
 description: "Use when the user wants to practise defending a position, wants their argument's holes found, or wants to work out the most defensible position on a question. The user picks the format (sparring partner, hole-poker, or search for the most defensible position) and — explicitly — how dirty the agent may fight, from strict logos to every technique in the catalogue; the agent argues within those limits, keeps a cited scorecard of every move, and at the end discloses everything it did and where the user's position held or gave."
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 depends_on: [using-the-brain-implant.md, spot-persuasion-and-bias.md, analyse-an-argument.md, steelman-a-position.md]
 export: agent-skill
 ---
@@ -12,7 +12,7 @@ export: agent-skill
 The implant does not tell the user what is true. It can, however, be the
 opponent that finds out how well the user's position survives contact — and
 it can do so with the whole catalogue of persuasion techniques, or none of
-them, as the user chooses ([journal](../journals/2026-09-25.md)). The limits
+them, as the user chooses ([journal](../journals/archive/2026/09/2026-09-25.md)). The limits
 are set before the first move, every move is logged against its page, and
 the log is disclosed at the end. A debate here is a training exercise with
 a receipt, never a trick.

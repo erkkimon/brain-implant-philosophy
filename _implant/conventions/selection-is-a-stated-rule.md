@@ -4,14 +4,14 @@ about: concept
 title: Selection is a stated rule
 description: "What gets told biases as much as how it is told, so what enters this implant is decided by a mechanical admission rule — a named proponent or source in a citable published place — and never by an editor's judgement of importance, respectability or mainstream standing; how widely a view is held is reported as data with its source, and is never a reason to leave it out or to treat it with less care. The same rule admits every tradition, region and period."
 tags: [convention, neutrality, npov, selection, scope, coverage]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Selection is a stated rule
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it is given G5 of the
+([journal](../journals/archive/2026/09/2026-09-25.md)); it is given G5 of the
 [manifest](../vision/manifest.md).
 
 ## The problem it addresses

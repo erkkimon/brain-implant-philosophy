@@ -4,7 +4,7 @@ about: person
 title: Daniel C. Dennett
 description: "Dennett on consciousness: the Multiple Drafts Model, denial of qualia and the Cartesian Theater, 'cerebral celebrity', and 'no probe-independent fact of the matter' — all reported via SEP, since the implant holds no primary text."
 tags: [thinker, philosophy-of-mind, consciousness, dennett]
-timestamp: 2026-09-25T23:55:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Daniel C. Dennett
@@ -23,7 +23,7 @@ via SEP, not his text. This limitation is stated prominently.
 
 ## Works
 
-- *Consciousness Explained* (Little, Brown, 1991). ISBN 9780316180658.
+- [*Consciousness Explained*](../works/consciousness-explained.md) (Little, Brown, 1991). ISBN 9780316180658.
   Précis DOI: [10.2307/2108259](https://doi.org/10.2307/2108259). Excerpt:
   `raw/dennett-1991-consciousness-explained-via-sep.md` (SEP summary only).
 - Works pages are not yet written.

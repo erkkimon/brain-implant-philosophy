@@ -4,7 +4,7 @@ about: concept
 title: Availability heuristic
 description: "Judging frequency or probability by the ease with which instances come to mind — Tversky & Kahneman's 1973 definition and their own statement that it is ecologically valid in general and biased where ease and frequency come apart; the fame-and-frequency study, the lethal-events field study, Schwarz's ease-of-retrieval reinterpretation, the markers for spotting it, and what the sources say about correcting it."
 tags: [bias, heuristic, judgement, probability, frequency, memory, risk]
-timestamp: 2026-09-25T21:40:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Availability heuristic
@@ -150,7 +150,7 @@ Markers the sources give:
   enumerated or its base rate looked up, do that instead of assessing
   ease (the 1973 paper's own contrast between an "objective procedure for
   enumerating instances" and the heuristic, p. 175). The
-  [estimate-a-credence](../../skills/index.md) skill in the cognitive-tools
+  [estimate-a-credence](https://github.com/erkkimon/brain-implant-cognitive-tools/blob/main/_implant/skills/estimate-a-credence.md) skill in the cognitive-tools
   implant is built to force this step.
 - **Attribute the ease.** Schwarz et al.'s Experiment 3: when the
   experienced difficulty is credited to an external cause, the effect

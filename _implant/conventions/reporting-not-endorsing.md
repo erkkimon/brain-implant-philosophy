@@ -4,14 +4,14 @@ about: concept
 title: Reporting, not endorsing
 description: "The neutrality rule that lets every position in philosophy share one repository: a page proves that a named thinker, school or text said something — a claim that is checkable and either true or false — and never asserts, in the implant's own voice, that what they said is correct, mistaken, fallacious, fringe or settled. Evaluative predicates occur only inside attributed reports, and a lint flags them anywhere else; every position page carries a case for and a case against that a proponent and an opponent would each accept as fair."
 tags: [convention, neutrality, npov, reporting, steelman, lint]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Reporting, not endorsing
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it follows from givens G3 and G4 of
+([journal](../journals/archive/2026/09/2026-09-25.md)); it follows from givens G3 and G4 of
 the [manifest](../vision/manifest.md): nobody — including us — knows what is
 true on a contested question, and only logic or an attributed report may
 enter the implant.

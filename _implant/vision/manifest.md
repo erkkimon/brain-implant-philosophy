@@ -4,7 +4,7 @@ about: concept
 title: "Manifest: the givens of this implant"
 description: "The axioms this brain implant stands on — what it assumes (logic), what it refuses to assume (that anyone, including its authors, knows what is true on a contested question), the two kinds of sentence it admits, and why it is built to make a reader's judgement more educated rather than to replace it. Everything else in the implant should be derivable from this page; if it is not, the page or the implant is wrong."
 tags: [vision, manifest, givens, neutrality, npov, epistemics]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
@@ -17,7 +17,7 @@ short: a given that is not needed is a bias waiting to happen. Each is marked
 **unavoidable** (denying it would use it) or **a choice** (a decision this
 implant made and could have made otherwise, recorded as such).
 
-Founded by erkkimon on 2026-09-25 ([journal](../journals/2026-09-25.md)).
+Founded by erkkimon on 2026-09-25 ([journal](../journals/archive/2026/09/2026-09-25.md)).
 The wording is the implant's; the givens are the founder's.
 
 ## G1. Logic is trusted — *unavoidable*

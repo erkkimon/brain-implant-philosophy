@@ -4,7 +4,7 @@ about: concept
 title: "Argument"
 description: "A set of sentences (premises) offered as reasons for another sentence (the conclusion), distinguished here from explanation, assertion, and persuasion — the unit that logic evaluates and that the analyse-an-argument skill reconstructs."
 tags: [vocabulary, logic]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Argument
@@ -27,7 +27,7 @@ depend on audience response; a definition that conflates it with explanation
 would make every causal account an argument. This sense is the one standard
 in formal logic and in the reconstruction literature this implant follows.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)). The normative
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)). The normative
 choice is recorded as a decision, not a claim that other uses are wrong.
 
 ## Descriptive definitions

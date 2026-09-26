@@ -42,4 +42,5 @@ Attributed assessments only.
 
 ## Schools
 
-* (none yet)
+* [Stoicism](stoicism.md) — Hellenistic, founded ca 300 BCE by Zeno of Citium; physics–logic–ethics system, propositional logic, "living in agreement with nature".
+* [Vienna Circle](vienna-circle.md) — Vienna, 1924–1936, under Schlick; logical empiricism / positivism: meaning criterion, logicism, no synthetic a priori.

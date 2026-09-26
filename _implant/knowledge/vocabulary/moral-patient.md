@@ -4,7 +4,7 @@ about: concept
 title: "Moral patient"
 description: "An entity whose interests matter morally for their own sake — distinguished here from moral agent (one who can act morally) and from mere instrument, because the grounds of patiency are contested and the implant reports the contestation rather than settling it."
 tags: [vocabulary, ethics]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Moral patient
@@ -28,7 +28,7 @@ sense would take a side in normative ethics. The implant uses "moral
 patient" as a pointer to the debate and reports each proposed ground with
 its proponents and critics.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 
 ## Descriptive definitions
 

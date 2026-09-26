@@ -4,14 +4,14 @@ about: concept
 title: Raw holds excerpts, not copies
 description: What may be stored under raw/ — only the minimum excerpt needed to support a citation with enough context to check it, always beside a canonical locator or link to the original where the full text can be fetched; never a wholesale copy of a copyrighted work or translation, because this repository is public and redistributing source material is a legal exposure the implant does not need.
 tags: [convention, raw, copyright, legal, sources, public, translations]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Raw holds excerpts, not copies
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it follows from the manifest's
+([journal](../journals/archive/2026/09/2026-09-25.md)); it follows from the manifest's
 ninth given, that the repository is public from its first commit (manifest
 [G9](../vision/manifest.md)).
 
@@ -140,7 +140,7 @@ still the right default: it keeps `raw/` small, greppable and
 ## How this is enforced
 
 Two layers, both described in the
-[founding of this rule](../journals/2026-09-25.md):
+[founding of this rule](../journals/archive/2026/09/2026-09-25.md):
 
 - The standing [raw/ is orderly source material](../conventions/index.md)
   henxel keeps `raw/` named and indexed.

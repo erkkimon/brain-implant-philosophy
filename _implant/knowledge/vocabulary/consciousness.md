@@ -4,7 +4,7 @@ about: concept
 title: "Consciousness (phenomenal / access)"
 description: "The distinction between phenomenal consciousness (what it is like to have an experience) and access consciousness (information available for reasoning and report) — the split this implant uses when discussing consciousness, because conflating them collapses the hard problem into the easy problems."
 tags: [vocabulary, consciousness]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Consciousness (phenomenal / access)
@@ -28,7 +28,7 @@ and [AI consciousness hub](../problems/ai-consciousness.md) use this
 distinction throughout; pages that do not specify which sense they mean are
 flagged as ambiguous.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)). The normative
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)). The normative
 choice follows Block and Chalmers; other splits exist and are recorded below.
 
 ## Descriptive definitions

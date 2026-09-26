@@ -4,14 +4,14 @@ about: concept
 title: Evidence before authority
 description: "Weight goes to the argument and never to the arguer — a canonical thinker's thesis and an unknown graduate student's paper are reported on the same terms, criticism lands on a claim rather than a person, consensus among philosophers is reported as data with its source and never used as a reason, and a position's provenance (who first held it, provably) is a separate question from its soundness (what the arguments for and against are)."
 tags: [convention, epistemics, bias, authority, reception, provenance]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Evidence before authority
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it is the manifest's eighth given
+([journal](../journals/archive/2026/09/2026-09-25.md)); it is the manifest's eighth given
 written out (manifest [G8](../vision/manifest.md)). This implant exists to
 lay arguments in front of a reader — premises, conclusion, the case for and
 the case against — so that the reader's own judgement becomes more

@@ -5,7 +5,7 @@ thought experiments, reflective equilibrium, conceptual analysis,
 transcendental arguments, phenomenological reduction, genealogy. Each is
 presented with its **case against**, so the implant is neutral about its own
 methods too: Bayesian updating is the method the
-[cognitive-tools implant](../../conventions/index.md) offers for making a gut
+[cognitive-tools implant](https://github.com/erkkimon/brain-implant-cognitive-tools) offers for making a gut
 feeling educated and replayable, and the objections to Bayesianism (the
 problem of the priors, frequentist and likelihoodist alternatives) sit beside
 it, attributed.

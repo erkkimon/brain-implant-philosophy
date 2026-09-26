@@ -4,7 +4,7 @@ about: concept
 title: What is consciousness, and how does it relate to the physical?
 description: "The mind–body problem in its modern form — why there is something it is like to be a system, whether that can be explained by physical or functional facts, and how one would tell in a bat, a patient, or a language model — with every position, argument and thinker from Descartes to the 2025 adversarial test and the 2024–2026 AI-lab statements on one table, none ranked."
 tags: [problem, philosophy-of-mind, consciousness, hard-problem, ai, neuroscience]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # What is consciousness, and how does it relate to the physical?
@@ -162,7 +162,9 @@ possible 24.41 %, conceivable but not possible 36.52 %, inconceivable
 One table, chronological, every tradition and era in which the implant
 holds a verified excerpt. The three non-Western rows rest on the SEP
 entries named (Fall 2024 archive), not on the primary texts — a coverage
-gap recorded on the [todo](../../todo/open.md).
+gap recorded on the [todo](../../todo/open.md). The root text of the
+Madhyamaka school, the [*Mūlamadhyamakakārikā*](../works/mulamadhyamakakarika.md),
+now has its own work page.
 
 | When | Who | Answer, in their terms | Where |
 |---|---|---|---|
@@ -170,7 +172,7 @@ gap recorded on the [todo](../../todo/open.md).
 | Warring States → | Chinese *xin* 心 | The "heart-mind" is the seat of thinking, knowing, intention, emotion and desire at once; its *qi* "can interact with both the body's qi and the wider qi" — on the SEP author's reading "a genuine alternative to substance dualism". | Wong, SEP "Mind (Heart-Mind) in Chinese Philosophy" (Fall 2024), preamble, §1.2; excerpt: `raw/sep-chinese-mind-fall-2024-heart-mind-and-body.md` |
 | 8th c. | Śaṅkara (Advaita Vedānta) | Consciousness is "a witnessing presence (*sākṣin*)", "not an emergent property of the brain and body … because that which is inert cannot give rise to sentiency"; in the absolute order it is identical with *brahman*. | Dalal, SEP "Śaṅkara" (Fall 2024), §3, §3.1; excerpt: `raw/sep-shankara-fall-2024-witnessing-consciousness.md` |
 | 1637 | [Descartes](../thinkers/descartes.md) | Two tests separate a thinking being from any machine: flexible language, and reason as "an universal instrument" versus organs that "need a particular arrangement for each particular action"; animals fall with the machines. | *Discourse* V (Veitch) |
-| 1641 | Descartes | "I am a thinking thing"; mind and body are really distinct. | *Meditations* II, VI (AT VII 27–28, 78) |
+| 1641 | Descartes | "I am a thinking thing"; mind and body are really distinct. | [*Meditations*](../works/meditations-on-first-philosophy.md) II, VI (AT VII 27–28, 78) |
 | 1690 | Locke | Consciousness is "inseparable from thinking" — "impossible for any one to perceive without perceiving that he does perceive" — and constitutes personal identity. | *Essay* II.xxvii.9 |
 | 1714 | Leibniz | Perception "must be sought for" in a simple substance, "not in a compound or in a machine". | *Monadology* §17 |
 | 1874 | Huxley | Consciousness is "a collateral product" of the body's working, "as … the steam-whistle which accompanies the work of a locomotive engine is without influence upon its machinery"; "we are conscious automata". | *Collected Essays* I, pp. 240, 243–244 |

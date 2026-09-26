@@ -4,14 +4,14 @@ about: concept
 title: How claims are graded
 description: "The claim taxonomy every statement in this implant belongs to — textual, interpretive, attributive, empirical, logical, or evaluative — and what each kind needs before it may appear: a locator, a named scholar, a source, a graded study with its replication record, a checkable reconstruction, or an attribution; chosen so that a small model can apply it mechanically and so that the one kind the implant never asserts in its own voice — the evaluative — is visible as a kind and not as a tone."
 tags: [convention, evidence, grading, claims, taxonomy, replication, epistemics]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # How claims are graded
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it operationalises given G4 of the
+([journal](../journals/archive/2026/09/2026-09-25.md)); it operationalises given G4 of the
 [manifest](../vision/manifest.md) — only logic and attributed reports enter
 — by naming what kind of thing each sentence is, so that the test can be
 applied one sentence at a time.

@@ -4,14 +4,14 @@ about: concept
 title: Words are contracts
 description: "Every term this implant relies on has a normative definition — how the term is used here, and why it is split from its neighbours the way it is — set transparently beside the descriptive definitions of how others use it, each cited; a normative choice is a recorded decision for coherence and granularity, never a claim that other uses are wrong, and a page that uses a term in a sense other than the contract's says so."
 tags: [convention, vocabulary, definitions, normative, descriptive, coherence]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Words are contracts
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it is given G6 of the
+([journal](../journals/archive/2026/09/2026-09-25.md)); it is given G6 of the
 [manifest](../vision/manifest.md).
 
 ## The idea

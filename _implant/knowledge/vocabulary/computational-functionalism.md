@@ -4,7 +4,7 @@ about: concept
 title: "Computational functionalism"
 description: "The view that mental states are defined by their causal-functional roles in a computational system, independent of the physical substrate that realises them — the position that makes AI consciousness a live question rather than a category error, and whose presuppositions are contested by biological naturalists, dualists, and embodied cognition theorists."
 tags: [vocabulary, philosophy-of-mind, ai]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Computational functionalism
@@ -29,7 +29,7 @@ The implant uses the term to name the position under debate, not to endorse
 it. Pages in [positions](../positions/index.md) state their stance
 explicitly.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 
 ## Descriptive definitions
 

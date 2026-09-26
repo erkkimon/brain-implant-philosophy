@@ -2,7 +2,7 @@
 type: skill
 title: Spot persuasion and bias
 description: "Use when asked to analyse a text, speech, argument or conversation for the persuasion techniques it uses and the cognitive biases it exploits or exhibits — and when you are about to say 'this is an appeal to emotion' from memory. Produces an annotated, neutral inventory in which every technique and bias is a link to its implant page carrying the receipts: who classifies it, under which theory, what the critique is. Systematic and cited, which a language model alone is not."
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 depends_on: [using-the-brain-implant.md]
 export: agent-skill
 ---
@@ -14,7 +14,7 @@ appeal to authority and exploits the availability heuristic". What it cannot
 do alone is do it *systematically* — every technique in the passage, not the
 three that came to mind — or *with receipts* — who says this is a technique,
 under which theory it counts as a fallacy, and who disagrees. That is the
-gap this implant fills ([journal](../journals/2026-09-25.md)). The output is
+gap this implant fills ([journal](../journals/archive/2026/09/2026-09-25.md)). The output is
 an inventory, not a verdict: the implant never says a technique is illegitimate,
 only who classifies it so and who does not
 ([Reporting, not endorsing](../conventions/reporting-not-endorsing.md)).
@@ -80,7 +80,7 @@ The report has three parts and no fourth:
 No overall verdict on the text — whether it is manipulative, honest, good
 or bad. That is the user's judgement and their cortex's entry. If the user
 asks for it, say that the inventory is the material and the judgement is
-theirs, and offer [estimate-a-credence](index.md) from the cognitive-tools
+theirs, and offer [estimate-a-credence](https://github.com/erkkimon/brain-implant-cognitive-tools/blob/main/_implant/skills/estimate-a-credence.md) from the cognitive-tools
 implant if they want to weigh it.
 
 ## What never happens here

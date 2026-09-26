@@ -4,14 +4,14 @@ about: concept
 title: Written to be public
 description: This implant is public from its first commit and written for the open internet — every page is addressed to a stranger with no access to the machine it was written on, so no host names, internal paths, personal details or credentials ever enter it; pull requests are welcome, and the only handle that appears is the maintainer's chosen public one.
 tags: [convention, publishing, privacy, scope]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Written to be public
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)); it is what the manifest's ninth
+([journal](../journals/archive/2026/09/2026-09-25.md)); it is what the manifest's ninth
 given, *written for a stranger*, spells out (manifest
 [G9](../vision/manifest.md)). This repository is public from its first
 commit, and every agent that writes into it must know that — now and in the

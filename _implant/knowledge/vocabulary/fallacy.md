@@ -4,7 +4,7 @@ about: concept
 title: "Fallacy"
 description: "A pattern of reasoning that some authority has classified as defective — the classification is always attributed to a named classifier with a date and locator, because whether a pattern is defective is itself a contested philosophical question."
 tags: [vocabulary, logic, argumentation]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Fallacy
@@ -26,7 +26,7 @@ at a location. "This is a fallacy" in the implant's voice would be neither;
 kind 2. Every page in [persuasion](../persuasion/index.md) follows this
 rule: classifications are attributed, never asserted.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 
 ## Descriptive definitions
 

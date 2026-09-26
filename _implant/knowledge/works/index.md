@@ -47,4 +47,8 @@ Named scholarly readings that disagree, attributed and cited.
 
 ## Works
 
-* (none yet)
+* [*Meditations on First Philosophy*](meditations-on-first-philosophy.md) — Descartes 1641; the "thinking thing" and the real distinction; editions, objections and replies, AT locators.
+* [*Mūlamadhyamakakārikā*](mulamadhyamakakarika.md) — Nāgārjuna, ca 150–250 CE; the root text of Madhyamaka; emptiness of svabhāva; nihilist and middle-way readings.
+* [*The Conscious Mind*](the-conscious-mind.md) — Chalmers 1996; the zombie argument (held bibliographically; reported via SEP and Chalmers 1995).
+* [*Consciousness Explained*](consciousness-explained.md) — Dennett 1991; the Multiple Drafts Model and the "Cartesian Theater" (held bibliographically; reported via SEP).
+* [*The Edge of Sentience*](the-edge-of-sentience.md) — Birch 2024, open access; sentience candidates, precaution, the run-ahead principle.

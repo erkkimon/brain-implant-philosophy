@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-25T23:59:59Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Open
@@ -19,29 +19,26 @@ committed-and-pushed increment at a time.
 
 ## To v0.1 — clear the bar (see [MVP plan](../plans/mvp.md))
 
-The binding constraint is four empty branches (`works/ schools/ vocabulary/
-methods/`) plus making the "amount" claim a number and wiring the two
-implants together. Write each page with
+What remains: one more exemplar problem, the MCP cross-implant check, the
+unverified citations, and the ship checklist. Write each page with
 [Write a page](../skills/write-a-page.md) through its review checklist.
 
 ### Fill the empty branches
 
-- [ ] works: *Meditations*; *The Conscious Mind*; *Consciousness Explained*;
-      *The Edge of Sentience*; one non-Western anchor (*Mūlamadhyamakakārikā*
-      or the *Abhidharma*)
-- [ ] schools: at least two — one ancient (Stoicism or Nyāya), one modern
-      (logical positivism, or functionalism as a school) — each listing the
-      thinkers it holds
+All ten branches are non-empty since 2026-09-26 ([archive](archive/2026-09-26.md)).
 
 ### Make the README claims checkable
 
-- [ ] `todo/coverage.md`: the coverage ledger — per branch, count of pages
-      here vs Wikipedia's lists of philosophers, unsolved problems in
-      philosophy, fallacies, cognitive biases; date of last comparison (this
-      is what makes "amount" a number, not an impression)
-- [ ] `brainpick register` **both** repos (philosophy + cognitive-tools) on one
-      machine; confirm a philosophy page can reach a cognitive-tools skill
-      (`estimate-a-credence`); record the result in the journal
+- [ ] cross-implant reach through the MCP server: `brain_search` with scope
+      `cognitive-tools` timed out (-32001) on 2026-09-26 while the CLI search
+      found `skills/estimate-a-credence.md`; re-test after upgrading brainpick
+      0.8.1 → 0.8.6 and restarting the server
+- [ ] verify or flag the from-memory citations in the 13 vocabulary/methods
+      pages (Copi/Cohen/Flage, van Eemeren & Grootendorst, Hempel 1965,
+      C. I. Lewis 1929, Singer 2005, Williamson 2023, Nisbett et al. 2001,
+      Fine, Plumwood 1993, Block p. 230, Birch p. 3, Butlin pp. 2, 4, the SEP
+      "fallacy" quote, *The Conscious Mind* locators): add a raw/ excerpt or
+      a DOI check, or mark the locator "unverified"
 
 ### One more exemplar problem (so the graph is not single-topic)
 
@@ -57,9 +54,7 @@ implants together. Write each page with
 
 - [ ] compile fresh on both repos, 0 ghosts / 0 orphans
 - [ ] neutrality lint clean; `selftest.py` green
-- [ ] all ten `knowledge/` branches non-empty and listed in their index
-- [ ] `todo/coverage.md` exists with a dated first count
-- [ ] both implants registered together; cross-implant skill reach confirmed
+- [ ] cross-implant skill reach confirmed through the MCP server (CLI: confirmed)
 - [ ] README "Quick start" followed top to bottom on a clean machine
 - [ ] tag `v0.1` with the agent-distilled disclaimer in the release note
 

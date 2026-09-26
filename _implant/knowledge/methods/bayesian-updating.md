@@ -4,7 +4,7 @@ about: process
 title: "Bayesian updating with the case against"
 description: "The method of revising credences by conditionalising on new evidence, presented here alongside its objections (the problem of the priors, frequentist and likelihoodist alternatives, computational intractability) so that the implant's use of Bayesian tools is transparent about what it assumes and what it does not."
 tags: [method, epistemology, probability]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Bayesian updating with the case against
@@ -24,7 +24,7 @@ a normative model for rational belief revision.
 
 This implant uses Bayesian updating via the companion
 [cognitive-tools implant](https://github.com/erkkimon/brain-implant-cognitive-tools),
-specifically the [estimate-a-credence](../../skills/index.md) skill. The
+specifically the [estimate-a-credence](https://github.com/erkkimon/brain-implant-cognitive-tools/blob/main/_implant/skills/estimate-a-credence.md) skill. The
 skill decomposes a gut feeling into factors, priors, and likelihood ratios,
 runs a Monte Carlo range, and reports whether evidence or prior is carrying
 the result. The decomposition is the contribution; the numbers are inputs
@@ -124,7 +124,7 @@ the user can change.
 
 ## Where it is used in this implant
 
-- [Estimate-a-credence](../../skills/index.md) — the cognitive-tools skill
+- [Estimate-a-credence](https://github.com/erkkimon/brain-implant-cognitive-tools/blob/main/_implant/skills/estimate-a-credence.md) — the cognitive-tools skill
   that implements Bayesian decomposition for this implant's users.
 - [Biases](../biases/index.md) pages cite Bayesian norms when discussing
   deviations (base-rate neglect, confirmation bias).

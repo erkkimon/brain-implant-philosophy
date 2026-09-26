@@ -4,7 +4,7 @@ about: concept
 title: "Validity"
 description: "The property of an argument whose form guarantees that if all premises are true, the conclusion must be true — a mechanical relation between sentences, independent of whether anyone believes them or whether the premises are in fact true."
 tags: [vocabulary, logic]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Validity
@@ -27,7 +27,7 @@ audience response, the tool could not decide it. This sense is the one
 [classical logic](../methods/classical-logic.md) implements and the one
 the implant's G1 trusts ([manifest](../../vision/manifest.md)).
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 
 ## Descriptive definitions
 

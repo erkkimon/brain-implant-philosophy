@@ -4,7 +4,7 @@ about: person
 title: René Descartes
 description: "Descartes on consciousness: the two tests for machines (Discourse V), 'a thinking thing' and the real distinction of mind and body (Meditations II & VI), his reception by Ryle, Strawson, Oizumi et al., and the Chinese xin as contrast."
 tags: [thinker, philosophy-of-mind, consciousness, descartes]
-timestamp: 2026-09-25T23:55:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # René Descartes
@@ -26,6 +26,8 @@ background, not as grounded claims.
   `raw/descartes-1637-discourse-two-tests-for-machines.md`.
 
 ## Works
+
+Work page: [*Meditations on First Philosophy*](../works/meditations-on-first-philosophy.md).
 
 - *Discourse on Method* (1637; Veitch tr., Gutenberg #59). Excerpt:
   `raw/descartes-1637-discourse-two-tests-for-machines.md`.

@@ -4,7 +4,7 @@ about: concept
 title: Anchoring
 description: "The effect, first named by Tversky and Kahneman in 1974, in which numerical estimates are pulled toward a starting value the estimator was exposed to — even an arbitrary one produced by a wheel of fortune — with the replication record, the boundary conditions, the two competing mechanism accounts, the ecological-rationality critique of calling it a bias, the markers by which to spot it, and the one debiasing intervention with published support."
 tags: [bias, judgement, heuristics-and-biases, anchoring, numerical-estimation, replicated]
-timestamp: 2026-09-25T20:00:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Anchoring
@@ -84,7 +84,7 @@ direction across 36 samples).
 
 A reader who wants a credence on "anchoring is a real effect" has, in the
 above, a strong-grade base; the cognitive-tools implant's
-[estimate-a-credence](../../skills/index.md) skill takes such a record as
+[estimate-a-credence](https://github.com/erkkimon/brain-implant-cognitive-tools/blob/main/_implant/skills/estimate-a-credence.md) skill takes such a record as
 one input, never as the answer.
 
 ## Boundary conditions

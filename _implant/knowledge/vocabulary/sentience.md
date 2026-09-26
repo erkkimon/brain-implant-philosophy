@@ -4,7 +4,7 @@ about: concept
 title: "Sentience"
 description: "The capacity for phenomenal experience — the property that makes an entity a candidate for moral patiency on welfare-based accounts, distinguished here from sapience (reason), consciousness (which may be access-only), and intelligence."
 tags: [vocabulary, consciousness, ethics]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-26T09:54:50Z
 ---
 
 # Sentience
@@ -20,14 +20,14 @@ intelligence (problem-solving capacity regardless of experience).
 
 Why this definition: sentience is the term at stake in debates about animal
 ethics, AI moral status, and the scope of moral concern. Birch (2024) uses
-it as the threshold for moral patiency in *The Edge of Sentience*; Butlin et
+it as the threshold for moral patiency in [*The Edge of Sentience*](../works/the-edge-of-sentience.md); Butlin et
 al. (2023) use it as the target of their AI consciousness indicators;
 Singer's utilitarianism grounds moral consideration in sentience (*Animal
 Liberation*, 1975). The implant keeps sentience narrow (phenomenal capacity)
 so that claims about AI sentience are not conflated with claims about AI
 intelligence or sophistication.
 
-Fixed 2026-09-25 ([journal](../../journals/2026-09-25.md)).
+Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 
 ## Descriptive definitions
 

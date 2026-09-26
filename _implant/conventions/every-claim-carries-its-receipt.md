@@ -4,14 +4,14 @@ about: concept
 title: Every claim carries its receipt
 description: No statement enters this implant without a resolvable, verifiable citation attached to that specific statement — a canonical locator such as a Stephanus, Bekker or Akademie number, a DOI, a survey's published dataset, an encyclopedia entry pinned to its archive edition — because the value this implant adds over a model's own memory is not the claim but the source, and a claim whose source cannot be checked is indistinguishable from a fluent guess.
 tags: [convention, grounding, citation, traceability, provenance, locators]
-timestamp: 2026-09-25T18:30:00Z
+timestamp: 2026-09-26T09:54:50Z
 half_life: 0
 ---
 
 # Every claim carries its receipt
 
 Decided by erkkimon on 2026-09-25, founding the philosophy implant
-([journal](../journals/2026-09-25.md)). It is the second half of the
+([journal](../journals/archive/2026/09/2026-09-25.md)). It is the second half of the
 manifest's fourth given (manifest [G4](../vision/manifest.md)): the only
 sentence this implant admits besides verifiable logic is *a report that
 someone said something, at a location* — and the location is the receipt.
