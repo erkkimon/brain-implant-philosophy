@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-26T12:00:19Z
 ---
 
 # Open
@@ -19,8 +19,8 @@ committed-and-pushed increment at a time.
 
 ## To v0.1 — clear the bar (see [MVP plan](../plans/mvp.md))
 
-What remains: one more exemplar problem, the MCP cross-implant check, the
-unverified citations, and the ship checklist. Write each page with
+What remains: the MCP cross-implant check, the unverified citations, and
+the ship checklist. Write each page with
 [Write a page](../skills/write-a-page.md) through its review checklist.
 
 ### Fill the empty branches
@@ -42,13 +42,8 @@ All ten branches are non-empty since 2026-09-26 ([archive](archive/2026-09-26.md
 
 ### One more exemplar problem (so the graph is not single-topic)
 
-- [ ] free will and determinism **or** the problem of induction — pick one for
-      v0.1, the other is the first post-MVP item:
-  - free will: problem + compatibilism + hard incompatibilism + Frankfurt
-    cases (argument, with `logic.py`) + the consequence argument (argument,
-    with `logic.py`) + Frankfurt and Anscombe (thinkers)
-  - induction: problem + Hume's argument concerning induction (argument, with
-    `logic.py`) + Hume (thinker) + *Treatise* (work)
+Closed 2026-09-26 by the ethics and paradox clusters ([archive](archive/2026-09-26.md));
+free will and induction move to post-MVP below.
 
 ### Ship checklist (all must pass to tag v0.1)
 
@@ -57,6 +52,41 @@ All ten branches are non-empty since 2026-09-26 ([archive](archive/2026-09-26.md
 - [ ] cross-implant skill reach confirmed through the MCP server (CLI: confirmed)
 - [ ] README "Quick start" followed top to bottom on a clean machine
 - [ ] tag `v0.1` with the agent-distilled disclaimer in the release note
+
+## Priority breadth: oxymorons, paradoxes, dilemmas, ethical problems
+
+Requested by erkkimon on 2026-09-26 ([journal](../journals/2026-09-26.md)) as
+the first breadth after v0.1. Started the same day with the vocabulary pages
+[oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
+[dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
+
+- [ ] coverage count against Wikipedia's "List of paradoxes", "List of
+      oxymorons" and "Outline of ethics"/"List of ethical problems" (pin
+      revision ids in [coverage](coverage.md))
+- [ ] paradoxes: Zeno's (Achilles, dichotomy, arrow), Russell's, Curry's,
+      the surprise examination, Newcomb's problem, the preface and lottery
+      paradoxes, Moore's paradox, Fitch's knowability, the Ship of Theseus,
+      Meno's paradox, the paradox of the ravens, Simpson's paradox,
+      St Petersburg — one page each from SEP/IEP excerpts, `logic.py`
+      where propositional
+- [ ] dilemmas: Euthyphro, prisoner's dilemma, Buridan's ass, the
+      Münchhausen (Agrippa) trilemma, the Epicurean trilemma (problem of
+      evil), Heinz, dirty hands, Jim and the Indians (Williams), the ticking
+      bomb
+- [ ] ethical problems: abortion (Thomson's violinist), euthanasia, moral
+      status of animals, Singer's drowning child and famine relief, the
+      non-identity problem, the repugnant conclusion, moral luck, the
+      experience machine, lying (Kant's murderer at the door), punishment,
+      just war, the demandingness objection
+- [ ] oxymorons: a curated examples page (rhetorical sense, each example
+      with its literary source and locator) + the "contradiction in terms"
+      disputes as reported claims
+- [ ] 2020 PhilPapers trolley figures (results site returned a bot
+      challenge on 2026-09-26; retry or use Bourget & Chalmers 2023)
+- [ ] argument pages for the double-effect conditions (Mangan 1949) and the
+      two consistency arguments against moral dilemmas
+- [ ] thinker pages: Foot, Thomson, Anscombe, Williams, Marcus, Eubulides,
+      Tarski, Priest, Williamson
 
 ## Post-MVP → MLP (see [MLP plan](../plans/mlp.md))
 

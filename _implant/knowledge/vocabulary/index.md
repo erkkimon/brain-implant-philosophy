@@ -21,7 +21,7 @@ about: concept
 title: <the term>
 description: "<one sentence: the normative sense, in brief>"
 tags: [vocabulary, <field>]
-timestamp: <ISO 8601>
+timestamp: 2026-09-26T12:00:19Z
 ---
 
 # <term>
@@ -55,3 +55,6 @@ Linked, with the boundary between them stated.
 * [Sentience](sentience.md) — the capacity for phenomenal experience, distinguished from sapience, intelligence, and access consciousness.
 * [Moral patient](moral-patient.md) — an entity whose interests matter morally for their own sake; grounds of patiency are contested.
 * [Computational functionalism](computational-functionalism.md) — the view that mental states are substrate-independent functional roles; the assumption behind most AI consciousness research and the target of its strongest objections.
+* [Oxymoron](oxymoron.md) — the deliberate figure ("darkness visible"), kept apart from the loose "contradiction in terms" and from a paradox.
+* [Paradox](paradox.md) — plausible premises, plausible reasoning, unacceptable conclusion; the older "against common opinion" and rhetorical senses recorded.
+* [Dilemma](dilemma.md) — the argument form (constructive/destructive, checked by logic.py), the loose hard choice, and the moral dilemma of ethics.

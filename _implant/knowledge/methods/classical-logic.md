@@ -4,7 +4,7 @@ about: process
 title: "Classical logic"
 description: "The working logic of this implant — classical propositional and first-order logic with bivalence, excluded middle, and non-contradiction — adopted as a given (G1) because any defence of it would already use it, and documented here so that its presuppositions and its limits are visible."
 tags: [method, logic]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-26T12:00:19Z
 ---
 
 # Classical logic
@@ -105,5 +105,10 @@ Pages whose arguments depend on non-classical logic say so explicitly.
 - [Argument](../vocabulary/argument.md) — the unit evaluated.
 - All [arguments](../arguments/index.md) pages include a `logic.py`
   reconstruction where the form is propositional.
+- [The sorites paradox](../problems/sorites-paradox.md) and [the liar
+  paradox](../problems/liar-paradox.md) — the two paradoxes on which
+  several published solutions revise classical logic (bivalence, EFQ).
+- [Dilemma](../vocabulary/dilemma.md) — constructive and destructive
+  dilemma as `logic.py` recognises them.
 - [Bayesian updating](bayesian-updating.md) — an alternative to classical
   logic for reasoning under uncertainty; documented with its case against.

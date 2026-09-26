@@ -4,7 +4,7 @@ about: concept
 title: "Validity"
 description: "The property of an argument whose form guarantees that if all premises are true, the conclusion must be true — a mechanical relation between sentences, independent of whether anyone believes them or whether the premises are in fact true."
 tags: [vocabulary, logic]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-26T12:00:19Z
 ---
 
 # Validity
@@ -73,6 +73,8 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 ## Related terms
 
 - [Argument](argument.md) — the unit whose validity is evaluated.
+- [Paradox](paradox.md) — valid reasoning from plausible premises to an
+  unacceptable conclusion; the sorites chain is valid classically.
 - [Classical logic](../methods/classical-logic.md) — the working logic that
   defines validity for this implant (G1).
 - [*Fallacy*](fallacy.md) — patterns classified as defective; some are invalid # lint: allow

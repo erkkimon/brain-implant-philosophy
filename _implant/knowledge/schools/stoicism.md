@@ -4,7 +4,7 @@ about: organization
 title: Stoicism
 description: "Hellenistic school founded at Athens around 300 BCE by Zeno of Citium, named for the Painted Porch (stoa poikilê); members shared a three-part system of physics, logic and ethics, a propositional logic, and the end 'living in agreement with nature', and the school continued into the Roman imperial period."
 tags: [school, western, ancient, hellenistic, logic, ethics]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-26T12:00:19Z
 ---
 
 # Stoicism
@@ -74,7 +74,10 @@ No thinker pages exist yet for these figures (todo).
 Durand's section headings name them. In physics: causes and determinism
 (§2.8). In logic: propositions, modality, paradoxes and epistemology
 (§3.3–3.7). In ethics: the telos, virtue, indifferents and the passions
-(§4). The implant has no problem pages for these yet. Free will and
+(§4). Of these, the implant has a page on one paradox the school faced
+from outside: the [sorites](../problems/sorites-paradox.md), which Hyde &
+Raffman report was used "by the Sceptics against the Stoics’ claims to
+knowledge" (SEP "Sorites Paradox", §1). Free will and
 determinism is on the [MLP plan](../../plans/mlp.md).
 
 ## Contrasts and exchanges

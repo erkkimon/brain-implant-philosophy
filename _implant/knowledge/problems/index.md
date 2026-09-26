@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: <ISO 8601>
+timestamp: 2026-09-26T12:00:19Z
 ---
 
 # <title>
@@ -55,3 +55,13 @@ The terms whose contract this page depends on, each linked.
 
 * [What is consciousness, and how does it relate to the physical?](consciousness.md) — the mind–body hub: Descartes to the 2025 adversarial test on one table.
 * [Could an AI be conscious?](ai-consciousness.md) — the machine case: philosophers, neuroscientists, the 2020 survey and the 2022–2026 AI-lab statements, each with its own hedge.
+
+Ethics and dilemmas:
+
+* [The trolley problem](trolley-problem.md) — Foot's pair, Thomson's bystander and reversal; doing/allowing vs. double effect; the 2009 survey.
+* [Can there be genuine moral dilemmas?](moral-dilemmas.md) — Plato to *Sophie's Choice*; the two consistency arguments and which premise each side gives up.
+
+Paradoxes:
+
+* [The sorites paradox](sorites-paradox.md) — Eubulides' heap; epistemicism, supervaluationism, degree theories, contextualism, embracing it.
+* [The liar paradox](liar-paradox.md) — "This sentence is false"; bivalence, paracomplete, paraconsistent, Tarski.
