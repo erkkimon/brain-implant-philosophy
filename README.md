@@ -199,6 +199,12 @@ accurate. Errors of transcription, attribution and interpretation are
 therefore possible on any page, and every receipt is there precisely so
 that you can verify the claim yourself before relying on it.
 
+Pages written before the excerpt rule existed carry a visible **"Citation
+status: unverified"** notice: some of their page numbers and quotations were
+cited from the drafting model's memory and have not yet been checked against
+the source. Pages without that notice ground each quotation in an excerpt
+under `_implant/raw/` or a resolvable link.
+
 The content is provided **as is**, without warranty of any kind, express or
 implied. Nothing here is professional advice of any kind, and nothing here
 is a statement of the maintainers' own views: the implant reports what named

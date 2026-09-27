@@ -4,10 +4,16 @@ about: concept
 title: "Sentience"
 description: "The capacity for phenomenal experience — the property that makes an entity a candidate for moral patiency on welfare-based accounts, distinguished here from sapience (reason), consciousness (which may be access-only), and intelligence."
 tags: [vocabulary, consciousness, ethics]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Sentience
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 

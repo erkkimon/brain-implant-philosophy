@@ -4,10 +4,16 @@ about: concept
 title: "Knowledge"
 description: "The epistemic state that arguments and evidence aim to produce or undermine — defined here as the target of inquiry rather than as any particular analysis, because every proposed analysis (JTB, reliabilism, virtue epistemology, knowledge-first) is itself a contested position in epistemology."
 tags: [vocabulary, epistemology]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Knowledge
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 

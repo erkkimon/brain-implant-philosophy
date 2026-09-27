@@ -4,10 +4,16 @@ about: process
 title: "Classical logic"
 description: "The working logic of this implant — classical propositional and first-order logic with bivalence, excluded middle, and non-contradiction — adopted as a given (G1) because any defence of it would already use it, and documented here so that its presuppositions and its limits are visible."
 tags: [method, logic]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Classical logic
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## What it does
 

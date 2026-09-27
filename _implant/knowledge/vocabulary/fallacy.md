@@ -4,10 +4,16 @@ about: concept
 title: "Fallacy"
 description: "A pattern of reasoning that some authority has classified as defective — the classification is always attributed to a named classifier with a date and locator, because whether a pattern is defective is itself a contested philosophical question."
 tags: [vocabulary, logic, argumentation]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Fallacy
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 

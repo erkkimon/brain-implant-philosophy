@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-26T12:09:04Z
+timestamp: 2026-09-27T12:10:06Z
 ---
 
 # Open
@@ -19,8 +19,7 @@ committed-and-pushed increment at a time.
 
 ## To v0.1 — clear the bar (see [MVP plan](../plans/mvp.md))
 
-What remains: the unverified citations, the README Quick start on a clean
-machine, and the tag. Write each page with
+v0.1 is out; the sections below are the next increments. Write each page with
 [Write a page](../skills/write-a-page.md) through its review checklist.
 
 ### Fill the empty branches
@@ -29,23 +28,19 @@ All ten branches are non-empty since 2026-09-26 ([archive](archive/2026-09-26.md
 
 ### Make the README claims checkable
 
-- [ ] verify or flag the from-memory citations in the 13 vocabulary/methods
-      pages (Copi/Cohen/Flage, van Eemeren & Grootendorst, Hempel 1965,
-      C. I. Lewis 1929, Singer 2005, Williamson 2023, Nisbett et al. 2001,
-      Fine, Plumwood 1993, Block p. 230, Birch p. 3, Butlin pp. 2, 4, the SEP
-      "fallacy" quote, *The Conscious Mind* locators): add a raw/ excerpt or
-      a DOI check, or mark the locator "unverified"
+The from-memory citations in the 13 older vocabulary/methods pages are
+flagged on each page with a "Citation status: unverified" notice (closed
+2026-09-26, [archive](archive/2026-09-26.md)); verifying them is post-MVP
+below.
 
 ### One more exemplar problem (so the graph is not single-topic)
 
 Closed 2026-09-26 by the ethics and paradox clusters ([archive](archive/2026-09-26.md));
 free will and induction move to post-MVP below.
 
-### Ship checklist (all must pass to tag v0.1)
+### Ship checklist
 
-- [ ] neutrality lint clean; `selftest.py` green
-- [ ] README "Quick start" followed top to bottom on a clean machine
-- [ ] tag `v0.1` with the agent-distilled disclaimer in the release note
+All passed; `v0.1` tagged 2026-09-26 ([archive](archive/2026-09-26.md)).
 
 ## Priority breadth: oxymorons, paradoxes, dilemmas, ethical problems
 
@@ -102,6 +97,17 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 - [ ] biases: ten+ pages with replication records (currently 3)
 
 ### Quality that survives scrutiny (MLP §3)
+
+- [ ] verify the from-memory citations and remove the "unverified" notice
+      page by page: argument, validity, knowledge, fallacy,
+      persuasion-rhetoric-dialectic, consciousness, qualia, sentience,
+      moral-patient, computational-functionalism (vocabulary);
+      classical-logic, bayesian-updating, reflective-equilibrium (methods).
+      Known leads: Copi/Cohen/Flage p. 7, van Eemeren & Grootendorst,
+      Hempel 1965, C. I. Lewis 1929, Singer 1975/2005, Williamson,
+      Nisbett et al. 2001, Fine, Plumwood 1993, Block 1995 p. 230, Birch
+      p. 3, Butlin et al. pp. 2, 4, the SEP "fallacy" quote, *The Conscious
+      Mind* pp. xii–xiii and ch. 3 — each gets a raw/ excerpt or DOI check
 
 - [ ] consciousness cluster follow-ups: primary-text excerpts for Buddhist,
       Advaita, Chinese rows (now SEP-only); Metzinger, Schneider (ACT),

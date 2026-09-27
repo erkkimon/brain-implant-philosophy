@@ -4,10 +4,16 @@ about: concept
 title: "Qualia"
 description: "The qualitative properties of phenomenal experiences — what makes a pain feel like pain rather than itch, or red look like red rather than green — the term whose existence is affirmed by realists and denied by illusionists and eliminativists."
 tags: [vocabulary, consciousness]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Qualia
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 

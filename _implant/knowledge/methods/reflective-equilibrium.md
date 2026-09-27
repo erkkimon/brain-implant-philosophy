@@ -4,10 +4,16 @@ about: process
 title: "Reflective equilibrium"
 description: "The method of adjusting general principles and particular judgements until they cohere — adopted here as a descriptive account of how ethical and epistemic reasoning actually proceeds, with its presuppositions and objections recorded so that the method itself is subject to the same scrutiny it applies to other methods."
 tags: [method, ethics, epistemology]
-timestamp: 2026-09-25T23:58:00Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Reflective equilibrium
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## What it does
 

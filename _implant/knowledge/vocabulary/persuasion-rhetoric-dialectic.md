@@ -4,10 +4,16 @@ about: concept
 title: "Persuasion, rhetoric, dialectic, argumentation"
 description: "A spectrum of communicative practices distinguished here by their aim and their relation to truth — persuasion aims at belief change, rhetoric at effective communication, dialectic at testing claims through structured exchange, and argumentation at the normative study of all three — because conflating them collapses the distinction between what convinces and what justifies."
 tags: [vocabulary, argumentation, rhetoric]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Persuasion, rhetoric, dialectic, argumentation
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 

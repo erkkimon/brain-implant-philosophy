@@ -4,10 +4,16 @@ about: concept
 title: "Validity"
 description: "The property of an argument whose form guarantees that if all premises are true, the conclusion must be true — a mechanical relation between sentences, independent of whether anyone believes them or whether the premises are in fact true."
 tags: [vocabulary, logic]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Validity
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 

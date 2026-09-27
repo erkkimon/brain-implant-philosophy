@@ -4,10 +4,16 @@ about: process
 title: "Bayesian updating with the case against"
 description: "The method of revising credences by conditionalising on new evidence, presented here alongside its objections (the problem of the priors, frequentist and likelihoodist alternatives, computational intractability) so that the implant's use of Bayesian tools is transparent about what it assumes and what it does not."
 tags: [method, epistemology, probability]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Bayesian updating with the case against
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## What it does
 

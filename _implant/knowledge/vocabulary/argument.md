@@ -4,10 +4,16 @@ about: concept
 title: "Argument"
 description: "A set of sentences (premises) offered as reasons for another sentence (the conclusion), distinguished here from explanation, assertion, and persuasion — the unit that logic evaluates and that the analyse-an-argument skill reconstructs."
 tags: [vocabulary, logic]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:09:48Z
 ---
 
 # Argument
+
+> **Citation status: unverified.** Some sources on this page were cited
+> from the drafting model's memory, before the implant required a raw/
+> excerpt for every citation. Page numbers and quotations without a link or
+> a `raw/` excerpt have not yet been checked against the source; treat them
+> as leads, not receipts. The check is an [open task](../../todo/open.md).
 
 ## Normative definition (this implant)
 
