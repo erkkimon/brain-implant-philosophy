@@ -3,7 +3,7 @@ type: todo
 title: Coverage ledger — this implant vs Wikipedia's lists
 description: "The ledger that turns the README's 'more than Wikipedia' amount claim into a number: per branch, pages held here against the entries of a named, revision-pinned Wikipedia list, with the date counted. First count 2026-09-26: the implant is far behind on amount in every branch."
 tags: [todo, coverage, benchmark, wikipedia, amount]
-timestamp: 2026-09-27T12:19:44Z
+timestamp: 2026-09-27T13:17:25Z
 ---
 
 # Coverage ledger
@@ -25,6 +25,14 @@ receipts in `raw/`.
   `index.md`.
 - A match is counted only if the implant has a page for the same topic.
   Mentions inside other pages do not count.
+
+## Interim note: 2026-09-27
+
+Not a recount (the next full count follows the paradox, dilemma and
+ethics batches, per [next steps](../plans/next-steps.md)). Problems held:
+11. The paradoxes added today — Zeno's paradoxes of motion, Russell's,
+Curry's, the surprise examination, Newcomb's problem — are to be matched
+against Wikipedia's "List of paradoxes", which is not yet pinned or counted.
 
 ## First count: 2026-09-26
 

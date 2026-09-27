@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-09-27T12:22:42Z
+timestamp: 2026-09-27T13:17:25Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -25,15 +25,20 @@ Last updated: 2026-09-27.
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-09-27): problems 6, positions 9,
+- **Pages per `knowledge/` branch** (2026-09-27): problems 11, positions 9,
   arguments 4, thinkers 4, works 5, schools 2, persuasion 3, biases 3,
-  vocabulary 13, methods 3. `raw/` holds 75 excerpt files. Compiled: 100
-  docs (this page included), 0 ghosts, 0 orphans.
+  vocabulary 13, methods 3. `raw/` holds 96 excerpt files. Compiled: 107
+  docs, 0 ghosts, 0 orphans.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
   [sorites](../knowledge/problems/sorites-paradox.md),
-  [liar](../knowledge/problems/liar-paradox.md), with the vocabulary
+  [liar](../knowledge/problems/liar-paradox.md), and paradoxes batch 1 —
+  [Zeno](../knowledge/problems/zenos-paradoxes.md),
+  [Russell](../knowledge/problems/russells-paradox.md),
+  [Curry](../knowledge/problems/currys-paradox.md),
+  [surprise examination](../knowledge/problems/surprise-examination-paradox.md),
+  [Newcomb](../knowledge/problems/newcombs-problem.md) — with the vocabulary
   contracts [oxymoron](../knowledge/vocabulary/oxymoron.md),
   [paradox](../knowledge/vocabulary/paradox.md) and
   [dilemma](../knowledge/vocabulary/dilemma.md).
@@ -53,13 +58,13 @@ dilemmas and ethical problems, as soon as possible.** The itemised lists are
 in [todo/open.md](../todo/open.md), section "Priority breadth"; work them in
 this order, one committed-and-pushed batch of 3–5 pages at a time:
 
-1. **Paradoxes batch 1** — Zeno's paradoxes (Achilles, dichotomy, arrow),
-   Russell's paradox, Curry's paradox, the surprise examination, Newcomb's
-   problem. Sources: SEP Fall 2024 archive entries (`zeno-paradoxes`,
-   `russell-paradox`, `curry-paradox`, `epistemic-paradoxes` for the surprise
-   exam, `decision-causal` for Newcomb), plus primary texts by canonical
-   locator (Aristotle, *Physics* VI.9, 239b; Russell's 1902 letter to Frege).
-2. **Paradoxes batch 2** — preface and lottery, Moore's paradox, Fitch's
+1. ~~**Paradoxes batch 1**~~ — done 2026-09-27 (Zeno, Russell, Curry,
+   surprise examination, Newcomb; see the
+   [todo archive](../todo/archive/2026-09-27.md)). How it was done, reusable
+   for every later batch: [Write a batch of pages with parallel agents](../skills/write-a-batch-with-agents.md)
+   — one agent per page under that skill's brief, then the review pass
+   before commit.
+2. **Paradoxes batch 2 — NEXT** — preface and lottery, Moore's paradox, Fitch's
    knowability paradox, the Ship of Theseus, Meno's paradox (*Meno* 80d–e),
    the raven paradox, Simpson's paradox, the St Petersburg paradox.
 3. **Dilemmas** — Euthyphro (*Euthyphro* 10a), the prisoner's dilemma,

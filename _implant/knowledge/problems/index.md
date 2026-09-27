@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T13:17:25Z
 ---
 
 # <title>
@@ -65,3 +65,8 @@ Paradoxes:
 
 * [The sorites paradox](sorites-paradox.md) — Eubulides' heap; epistemicism, supervaluationism, degree theories, contextualism, embracing it.
 * [The liar paradox](liar-paradox.md) — "This sentence is false"; bivalence, paracomplete, paraconsistent, Tarski.
+* [Zeno's paradoxes of motion](zenos-paradoxes.md) — Dichotomy, Achilles, Arrow, Stadium; Aristotle's two replies, the Russell–Grünbaum–Salmon received view, at-at motion, Bergson's indivisible movement, supertasks.
+* [Russell's paradox](russells-paradox.md) — the set of all non-self-membered sets; Russell 1901 / Zermelo, the 1902 letter to Frege and Basic Law V; types, Separation, von Neumann, NF, paraconsistency; the Barber.
+* [Curry's paradox](currys-paradox.md) — "If this sentence is true, then P": no negation needed; contraction-free, detachment-free and restriction responses, and why paraconsistent liar solutions do not block it.
+* [The surprise examination paradox](surprise-examination-paradox.md) — a surprise test is announced, backward elimination rules out every day, yet the test can still surprise; self-defeating announcement, the knower, blindspots, KK failure.
+* [Newcomb's problem](newcombs-problem.md) — Nozick's (1969) two boxes and a predictor; dominance vs. expected utility; causal vs. evidential decision theory, the tickle defence, ratification, "why ain'cha rich?"; the 2009 and 2020 surveys.

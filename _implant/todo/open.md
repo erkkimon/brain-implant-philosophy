@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-27T12:22:42Z
+timestamp: 2026-09-27T13:17:25Z
 ---
 
 # Open
@@ -55,8 +55,7 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 - [ ] coverage count against Wikipedia's "List of paradoxes", "List of
       oxymorons" and "Outline of ethics"/"List of ethical problems" (pin
       revision ids in [coverage](coverage.md))
-- [ ] paradoxes: Zeno's (Achilles, dichotomy, arrow), Russell's, Curry's,
-      the surprise examination, Newcomb's problem, the preface and lottery
+- [ ] paradoxes batch 2: the preface and lottery
       paradoxes, Moore's paradox, Fitch's knowability, the Ship of Theseus,
       Meno's paradox, the paradox of the ravens, Simpson's paradox,
       St Petersburg — one page each from SEP/IEP excerpts, `logic.py`

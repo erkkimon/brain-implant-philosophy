@@ -43,6 +43,10 @@ plus the implants mounted beside it, and opinions go to the cortex
 * [Write a page](write-a-page.md) — the one procedure for every knowledge
   page: admission rule, template, six claim kinds, verified receipts,
   neutrality lint, graph links, coverage count.
+* [Write a batch of pages with parallel agents](write-a-batch-with-agents.md)
+  — one sub-agent per page under a fixed brief (nothing from memory, raw
+  excerpt format, page rules), then the coordinator's integration and
+  review pass before commit.
 
 ## Credences
 

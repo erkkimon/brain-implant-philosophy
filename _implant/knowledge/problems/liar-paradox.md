@@ -4,7 +4,7 @@ about: concept
 title: "The liar paradox: is 'This sentence is false' true or false?"
 description: "The sentence that says of itself that it is false — true if false, false if true — from the Megarians and Epimenides through the medieval insolubilia to Tarski, Kripke and Priest, with the families of solution (deny bivalence, paracomplete, paraconsistent, substructural, Tarski's hierarchy, contextualism) and who holds each."
 tags: [problem, logic, philosophy-of-language, truth, paradox]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T13:17:25Z
 ---
 
 # The liar paradox
@@ -98,6 +98,12 @@ No survey figure is recorded.
 - **Not about lying.** "what’s puzzling about sentences like the first one of
   this essay isn’t essentially tied to intentions, social norms, or anything
   like that. Rather, it seems to have something to do with truth" (preamble).
+
+- **Related paradoxes** (listed as neighbours, not as a claim about their
+  logical kinship): [Curry's paradox](currys-paradox.md), which needs no
+  negation; [Russell's paradox](russells-paradox.md) for sets; and
+  [the surprise examination](surprise-examination-paradox.md), whose knower
+  sentence is self-referential.
 
 ## Vocabulary
 

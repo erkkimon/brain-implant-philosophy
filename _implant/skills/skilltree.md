@@ -20,6 +20,9 @@ skills, never this file._
   - needs [Using the brain implant](using-the-brain-implant.md)
   - needs [Analyse an argument](analyse-an-argument.md)
 - [Using the brain implant](using-the-brain-implant.md) — Use when reading from or writing to this brain implant — before answering from memory, before grepping, and before adding or changing any doc in _implant/. Explains what an implant is (one half of a brain, the other half being the agent's own cortex), where opinions go (the cortex, never here), and the read and write discipline the contract enforces.
+- [Write a batch of pages with parallel agents](write-a-batch-with-agents.md) — Use when adding several knowledge pages at once (a batch of 3–5 from plans/next-steps.md) by delegating one page per sub-agent. Gives the brief every sub-agent receives — nothing from memory, raw excerpt file format, the page rules — and the integration and review pass the coordinating agent runs before committing: index entries, inbound links, unsourced characterisations, arithmetic, bookkeeping.
+  - needs [Write a page](write-a-page.md)
+  - tools: `tools/neutrality-lint.py`, `tools/logic.py`
 - [Write a page](write-a-page.md) — Use before adding or substantially changing any page under knowledge/ — a problem, position, argument, thinker, work, school, persuasion technique, bias, vocabulary term or method. The one authoring procedure: check the admission rule, take the branch's template, type every sentence against the six claim kinds, cite primary sources by canonical locator, verify that every receipt resolves, run the neutrality lint, run the ideological Turing test on any case-for/case-against, link the page into the graph, and record the coverage count.
   - needs [Using the brain implant](using-the-brain-implant.md)
   - needs [Steelman a position](steelman-a-position.md)
