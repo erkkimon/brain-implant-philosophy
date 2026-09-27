@@ -177,7 +177,10 @@ henxels check --all
 
 Contributions arrive as pull requests. Before writing a page, read
 [`_implant/skills/write-a-page.md`](_implant/skills/write-a-page.md); it is
-the whole procedure, ending in a review checklist. In one line: admitted by
+the whole procedure, ending in a review checklist. Where the work stands,
+what comes next and the per-batch routine are in
+[`_implant/plans/next-steps.md`](_implant/plans/next-steps.md) — start there
+when picking the work up. In one line: admitted by
 the stated rule, every sentence one of the six claim kinds with what that
 kind needs, every receipt verified to resolve, lint clean, case-for and
 case-against each passing the ideological Turing test, linked in and out.

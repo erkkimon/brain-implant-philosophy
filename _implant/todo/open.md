@@ -2,10 +2,13 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-27T12:19:44Z
+timestamp: 2026-09-27T12:22:42Z
 ---
 
 # Open
+
+**Resuming after a break?** Read [Next steps](../plans/next-steps.md) first:
+it says which item below comes next and how to work a batch.
 
 Tasks that surface mid-work land here instead of derailing the task at hand.
 Check this list before planning new work. Tick an item as `- [x] … (done:

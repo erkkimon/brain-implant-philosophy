@@ -79,3 +79,13 @@ Need a check that genuinely doesn't exist? `henxels create-new-statement <name>`
 other repos, not tied to this one — contribute it upstream with `henxels contribute`.
 We're in the agentic era: send a ready-to-merge PR instead of opening an issue.
 <!-- henxels:end -->
+
+## Resuming work (maintainer notes, outside the generated block)
+
+Start every session by reading `_implant/plans/next-steps.md`: the current
+state, the next batch to write, the per-batch routine with commands, and the
+boundaries. Update its section 1 and "Last updated" line before the final
+commit of the session. The maintainer (erkkimon) has authorised agents to
+`git add`, commit and push to this repository freely and incrementally,
+through the henxels gates (`henxels bless push` before commit and push);
+this overrides the generic etiquette line in the generated block above.
