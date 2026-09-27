@@ -3,7 +3,7 @@ type: todo
 title: Coverage ledger — this implant vs Wikipedia's lists
 description: "The ledger that turns the README's 'more than Wikipedia' amount claim into a number: per branch, pages held here against the entries of a named, revision-pinned Wikipedia list, with the date counted. First count 2026-09-26: the implant is far behind on amount in every branch."
 tags: [todo, coverage, benchmark, wikipedia, amount]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-09-27T12:19:44Z
 ---
 
 # Coverage ledger
@@ -28,7 +28,7 @@ receipts in `raw/`.
 
 ## First count: 2026-09-26
 
-Counted in the session recorded in the [journal of 2026-09-26](../journals/2026-09-26.md).
+Counted in the session recorded in the [journal of 2026-09-26](../journals/archive/2026/09/2026-09-26.md).
 
 | Branch | Here | Wikipedia list (revision) | Entries | Matched here |
 |---|---|---|---|---|

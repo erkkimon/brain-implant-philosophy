@@ -106,7 +106,7 @@ on the problem of induction" and gets the problem page, its neighbours and
 the skills that apply — in one call, mid-task, without knowing the file
 layout. Skills are listed first and boosted in search, so the right
 procedure reaches the agent before it decides anything. Several implants
-and the agent's own brain federate into one address space.
+and the agent's cortex federate into one address space.
 
 ```bash
 uv tool install "brainpick[vectors]"      # or: pipx install "brainpick[vectors]"

@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-27T12:10:06Z
+timestamp: 2026-09-27T12:19:44Z
 ---
 
 # Open
@@ -44,7 +44,7 @@ All passed; `v0.1` tagged 2026-09-26 ([archive](archive/2026-09-26.md)).
 
 ## Priority breadth: oxymorons, paradoxes, dilemmas, ethical problems
 
-Requested by erkkimon on 2026-09-26 ([journal](../journals/2026-09-26.md)) as
+Requested by erkkimon on 2026-09-26 ([journal](../journals/archive/2026/09/2026-09-26.md)) as
 the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.

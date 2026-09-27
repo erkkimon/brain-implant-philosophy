@@ -47,3 +47,6 @@ Read these first — a rule constrains what every other read is for.
   `raw/` stores only the minimum excerpt needed to support a citation,
   beside a resolvable pointer to the original; translations are
   separately copyrighted even when the original is not.
+* [An implant is not a brain](an-implant-is-not-a-brain.md) — a brain is
+  the cortex (one repo registered `--cortex`) plus implants; this repo is an
+  implant, its root is `_implant/`, and nothing here calls it "the brain".

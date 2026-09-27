@@ -4,7 +4,7 @@ about: concept
 title: "Oxymoron"
 description: "A figure of speech that joins two ordinarily opposed terms for effect (\"darkness visible\", \"make haste slowly\") — kept apart from a contradiction in terms, the loose sense some writers reject, and from a paradox, which is an argument or claim rather than a figure."
 tags: [vocabulary, rhetoric, logic]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T12:19:44Z
 ---
 
 # Oxymoron
@@ -27,7 +27,7 @@ logical relation is written "contradiction" (the conjunction of a
 proposition and its negation, which [classical logic](../methods/classical-logic.md)
 counts as false in every row; checkable with `logic.py`). A phrase used
 loosely as "an oxymoron" is reported in its source's own word, with the
-sense stated. Fixed 2026-09-26 ([journal](../../journals/2026-09-26.md)).
+sense stated. Fixed 2026-09-26 ([journal](../../journals/archive/2026/09/2026-09-26.md)).
 
 ## Descriptive definitions
 

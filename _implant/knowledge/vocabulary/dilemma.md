@@ -4,7 +4,7 @@ about: concept
 title: "Dilemma"
 description: "Three senses kept apart — the logical argument form with two horns (constructive/destructive dilemma), the loose everyday 'choice between two bad options', and the moral dilemma of ethics, where an agent is required to do each of two acts but cannot do both and neither requirement is overridden."
 tags: [vocabulary, logic, ethics, dilemma]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T12:19:44Z
 ---
 
 # Dilemma
@@ -36,7 +36,7 @@ Why these: the loose sense (a hard choice) and the moral sense (a choice in
 which every option is wrong) come apart, and much of the literature is about
 whether the second ever occurs. A page that says "dilemma" without the
 qualifier would silently take sides. Fixed 2026-09-26
-([journal](../../journals/2026-09-26.md)).
+([journal](../../journals/archive/2026/09/2026-09-26.md)).
 
 ## Descriptive definitions
 

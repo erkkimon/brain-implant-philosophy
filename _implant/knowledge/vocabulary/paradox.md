@@ -4,7 +4,7 @@ about: concept
 title: "Paradox"
 description: "An argument that proceeds by apparently acceptable reasoning from apparently acceptable premises to an apparently unacceptable conclusion — the sense of the sorites and the liar — kept apart from the older 'contrary to common opinion' sense, from the rhetorical figure, and from a mere surprise."
 tags: [vocabulary, logic, paradox]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-27T12:19:44Z
 ---
 
 # Paradox
@@ -28,7 +28,7 @@ and [the liar paradox](../problems/liar-paradox.md)), and they map onto
 the premise-by-premise structure of [analyse-an-argument](../../skills/analyse-an-argument.md).
 Whether the premises are acceptable, whether the conclusion is, and which
 to give up, is what the literature disputes; this implant reports each
-party. Fixed 2026-09-26 ([journal](../../journals/2026-09-26.md)).
+party. Fixed 2026-09-26 ([journal](../../journals/archive/2026/09/2026-09-26.md)).
 
 ## Descriptive definitions
 
