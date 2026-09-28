@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: <ISO 8601>
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # <name>
@@ -54,3 +54,18 @@ normative definition, with a pointer to the descriptive entry.
 ## Thinkers
 
 * [Descartes](descartes.md) · [Nagel](nagel.md) · [Chalmers](chalmers.md) · [Dennett](dennett.md) — the first four, all hubs on [consciousness](../problems/consciousness.md).
+
+On ethics and dilemmas:
+
+* [Foot](foot.md) — the trolley case (1967), doing/allowing and double effect, abortion, euthanasia (1977), virtue and *Natural Goodness* (2001).
+* [Thomson](thomson.md) — the violinist (1971), the bystander case and the name "trolley problem" (1976, 1985) and her 2008 reversal; privacy (1975) and self-defense (1991).
+* [Anscombe](anscombe.md) — "Modern Moral Philosophy" (1958) and the coinage of "consequentialism"; intended and foreseen, double effect and just war (Truman 1956, "War and Murder" 1961); *Intention* (1957).
+* [Williams](williams.md) — integrity and Jim and the Indians (1973), moral luck (1976/1981), moral conflict and agglomeration (1965), personal identity (1970), internal reasons (1981).
+* [Ruth Barcan Marcus](marcus.md) — quantified modal logic and the Barcan formula (1946); "Moral Dilemmas and Consistency" (1980).
+
+On paradoxes and logic:
+
+* [Eubulides of Miletus](eubulides.md) — the seven arguments Diogenes Laertius lists (Liar, Sorites, Bald Head, Horned, Veiled/Electra), and whom else the sources credit with them.
+* [Tarski](tarski.md) — Convention T, the object-language/metalanguage hierarchy and the undefinability theorem (1933/1935) on the liar; model-theoretic consequence (1936).
+* [Priest](priest.md) — dialetheism; LP (1979), *In Contradiction* (1987), the inclosure schema; a hub on the liar, Curry's and Russell's paradoxes.
+* [Williamson](williamson.md) — epistemicism about the sorites (1994), knowledge first and anti-luminosity (2000), Fitch's paradox, the KK diagnosis of the surprise examination.

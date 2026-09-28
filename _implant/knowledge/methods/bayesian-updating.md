@@ -4,7 +4,7 @@ about: process
 title: "Bayesian updating with the case against"
 description: "The method of revising credences by conditionalising on new evidence, presented here alongside its objections (the problem of the priors, frequentist and likelihoodist alternatives, computational intractability) so that the implant's use of Bayesian tools is transparent about what it assumes and what it does not."
 tags: [method, epistemology, probability]
-timestamp: 2026-09-27T12:09:48Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Bayesian updating with the case against
@@ -137,6 +137,13 @@ the user can change.
 - [Persuasion](../persuasion/index.md) pages cite Bayesian reanalyses of
   traditionally classified fallacies (appeal to authority, argument from
   ignorance).
+- Problem pages where probabilistic reasoning is in play (Bayesian
+  confirmation, probability thresholds, expected utility):
+  [the raven paradox](../problems/raven-paradox.md),
+  [the lottery and preface](../problems/lottery-and-preface-paradoxes.md),
+  [Simpson's paradox](../problems/simpsons-paradox.md),
+  [the St Petersburg paradox](../problems/st-petersburg-paradox.md) and
+  [Newcomb's problem](../problems/newcombs-problem.md).
 - The implant itself does not assign credences; it provides the factors,
   base rates, and bias pages that make a user's credence model educated.
   The decision stays with the user.

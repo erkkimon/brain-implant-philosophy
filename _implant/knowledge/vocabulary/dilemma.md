@@ -4,7 +4,7 @@ about: concept
 title: "Dilemma"
 description: "Three senses kept apart — the logical argument form with two horns (constructive/destructive dilemma), the loose everyday 'choice between two bad options', and the moral dilemma of ethics, where an agent is required to do each of two acts but cannot do both and neither requirement is overridden."
 tags: [vocabulary, logic, ethics, dilemma]
-timestamp: 2026-09-27T12:19:44Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Dilemma
@@ -84,3 +84,17 @@ qualifier would silently take sides. Fixed 2026-09-26
   paradox; neither is a kind of the other.
 - [Validity](validity.md) — what makes the argument-form sense mechanical.
 - [Oxymoron](oxymoron.md) — unrelated beyond the two-part structure.
+- Dilemma pages held (named dilemmas and trilemmas; the name is the
+  tradition's, not a claim that each is a dilemma in the argument-form
+  sense): [Euthyphro](../problems/euthyphro-dilemma.md),
+  [prisoner's dilemma](../problems/prisoners-dilemma.md),
+  [Buridan's ass](../problems/buridans-ass.md),
+  [Agrippan trilemma](../problems/agrippan-trilemma.md),
+  [Epicurean trilemma](../problems/epicurean-trilemma.md),
+  [Heinz](../problems/heinz-dilemma.md),
+  [dirty hands](../problems/dirty-hands.md),
+  [Jim and the Indians](../problems/jim-and-the-indians.md),
+  [ticking bomb](../problems/ticking-bomb.md), and the general question of
+  [moral dilemmas](../problems/moral-dilemmas.md).
+- [The consistency arguments against moral dilemmas](../arguments/consistency-arguments-against-moral-dilemmas.md)
+  — whether a moral dilemma in the first sense is logically possible.

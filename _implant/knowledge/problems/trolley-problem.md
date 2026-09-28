@@ -4,7 +4,7 @@ about: concept
 title: "The trolley problem: why may one divert the trolley but not push?"
 description: "Foot's 1967 pair of cases, Thomson's naming and bystander version, and the question they pose — what explains the difference people report between turning a runaway trolley onto one person and other ways of killing one to save five — with doing/allowing, double effect, Thomson's reversal and the 2009 survey figures on one table."
 tags: [problem, ethics, normative-ethics, trolley-problem, double-effect, doing-allowing]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # The trolley problem
@@ -121,26 +121,39 @@ switch 68.2 %, don't switch 7.6 %, other 24.2 % (Bourget & Chalmers,
 [PhilPapers Surveys results](https://philpapers.org/surveys/results.pl),
 2009; excerpt: `raw/philpapers-2009-survey-trolley-and-ethics.md`). The
 question describes only the switch case. A survey reports what
-respondents said, not which answer is right. The 2020 figures could not be
-retrieved on 2026-09-26 (the results site returned a bot challenge); they
-are an open todo.
+respondents said, not which answer is right.
+
+**Survey (2020).** Asked the same switch question ("…: don't switch or
+switch?"), the 2020 target group answered accept or lean toward switch
+63.42 %, accept or lean toward don't switch 13.31 %, agnostic/undecided
+7.66 %, no fact of the matter 6.16 %, too unclear 5.13 %, other answers the
+rest (N = 1736). A separate 2020 question, "Footbridge (pushing man off
+bridge will save five on track below, what ought one do?): push or don't
+push?", drew push 21.95 %, don't push 56.03 %, agnostic/undecided 8.56 %
+(N = 1740) (Bourget & Chalmers, 2020 PhilPapers Survey, results
+[4922](https://survey2020.philpeople.org/survey/results/4922) and
+[4946](https://survey2020.philpeople.org/survey/results/4946); excerpt:
+`raw/philpapers-2020-survey-trolley-and-footbridge.md`). The results pages
+state that they "should not be used for comparison to 2009 results due to
+different populations and parameters".
 
 ## Arguments in play
 
-(none recorded as separate argument pages yet). The double-effect
-conditions (Mangan 1949, p. 43, quoted in McIntyre §1) and Thomson's 2008
-self-sacrifice argument are the candidates for the first two pages.
+- [The doctrine of double effect (the four conditions)](../arguments/double-effect-conditions.md)
+  — Aquinas, Gury, Mangan's 1949 conditions, the closeness problem and the
+  intention/foresight critics. Thomson's 2008 self-sacrifice argument has
+  no page yet.
 
 ## Thinkers who addressed it
 
 - **Thomas Aquinas** (13th c.) — credited with the principle of double
   effect, *Summa Theologiae* II-II q. 64 a. 7 (McIntyre §1). Not a trolley
   author; the ancestor of one family of answers.
-- **Philippa Foot** — the original pair and the doing/allowing explanation,
+- **[Philippa Foot](../thinkers/foot.md)** — the original pair and the doing/allowing explanation,
   1967.
-- **Judith Jarvis Thomson** — the name, the bystander version (1976, 1985,
+- **[Judith Jarvis Thomson](../thinkers/thomson.md)** — the name, the bystander version (1976, 1985,
   1986) and the 2008 reversal.
-- **G. E. M. Anscombe** — absolutist double effect denying a permission to
+- **[G. E. M. Anscombe](../thinkers/anscombe.md)** — absolutist double effect denying a permission to
   swerve (1982, as placed by McIntyre §4.5).
 - **Alison McIntyre** — double effect does not explain the switch case
   (2001).
@@ -158,6 +171,13 @@ self-sacrifice argument are the candidates for the first two pages.
   "context-less" cases elicit reliable judgments (§4.5); Thomson 2008
   suggests "people’s willingness to view it as permissible is a result of
   inadequate reflection" (McIntyre §4.5, reporting Thomson).
+- **Neighbouring problems about killing, letting die and the good.** Pages
+  held: [euthanasia](euthanasia.md), [abortion](abortion.md),
+  [just war](just-war.md), [the ticking bomb](ticking-bomb.md),
+  [Jim and the Indians](jim-and-the-indians.md),
+  [the demandingness objection](demandingness-objection.md),
+  [moral luck](moral-luck.md) and
+  [famine relief](famine-affluence-and-morality.md).
 
 ## Vocabulary
 

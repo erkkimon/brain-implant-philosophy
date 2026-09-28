@@ -29,7 +29,7 @@ about: process
 title: <the technique's usual name>
 description: "<one sentence: what the move does to the audience>"
 tags: [persuasion, <family: emotional|authority|structural|framing|…>]
-timestamp: <ISO 8601>
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # <title>
@@ -73,4 +73,5 @@ source says it does.
 
 * [Appeal to authority](appeal-to-authority.md) — a source's standing offered as the reason; Aristotle's ethos, Locke's *ad verecundiam*, the standard treatment, Walton's scheme and pragma-dialectics side by side.
 * [Framing](framing.md) — the same facts under a chosen description; Tversky & Kahneman's decision frame and the Asian-disease reversal, the Levin typology, Entman's media sense, and the reframe-and-compare counter-move.
+* [Oxymoron (the figure of speech)](oxymoron-figure.md) — two ordinarily opposed terms joined on purpose; Puttenham's Crosse-couple, synoeciosis and antithesis, Jebb's "paradox with a point", Fowler, an 18-row table of read instances from Horace to Tennyson, and the loose "contradiction in terms" use reported as its users' claim.
 * [Straw man](straw-man.md) — answering a distorted, weakest or invented version of the other side; the SEP definition, Talisse & Aikin's weak man, Aikin & Casey's hollow man, and charity as the counter-rule.

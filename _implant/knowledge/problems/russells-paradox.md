@@ -4,7 +4,7 @@ about: concept
 title: "Russell's paradox: is the set of all sets that are not members of themselves a member of itself?"
 description: "The set R of all sets that are not members of themselves is a member of itself if and only if it is not — the contradiction Russell (1901) and Zermelo found in naive comprehension and Russell sent to Frege in 1902, with every response family the sources record (types, Separation, von Neumann's classes, Quine's stratification, paraconsistency) and the Barber as its disputed analogue."
 tags: [problem, paradox, logic, philosophy-of-mathematics, set-theory]
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Russell's paradox
@@ -127,7 +127,7 @@ checked in propositional form only; compare the same pattern in the
 - **W. V. Quine** (1937, 1966) — stratified comprehension; the "antinomy"
   reading and the Barber contrast (SEP §4).
 - **Dana Scott** (1974) — "not to be regarded as a disaster" (SEP §4).
-- **Graham Priest** (2006, ch. 18), **Brady** (1989; 2006), **Zach Weber** —
+- **[Graham Priest](../thinkers/priest.md)** (2006, ch. 18), **Brady** (1989; 2006), **Zach Weber** —
   paraconsistent set theory (SEP §4; SEP "Paraconsistent Logic" §2.3.2).
 - **Nathan Salmon** (2013) — the Barber is closer to Russell's paradox than
   Quine allowed (SEP §4).

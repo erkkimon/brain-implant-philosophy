@@ -4,7 +4,7 @@ about: concept
 title: "The surprise examination paradox"
 description: "A teacher announces a surprise test next week; the students eliminate the last day, then the one before, and conclude no surprise test is possible, while common sense says one can be given. The families of response on record (self-defeating announcement, the students cannot know it, self-reference and the knower, knowledge retention and blindspots, KK failure) and who holds each."
 tags: [problem, paradox, epistemology, logic]
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # The surprise examination paradox
@@ -118,7 +118,7 @@ Kindred decision puzzle: [Newcomb's problem](newcombs-problem.md).
 - **Crispin Wright & Aidan Sudbury** (1977, AJP 55: 41–58) — knowledge
   retention (per Murzi et al. 2021).
 - **Roy Sorensen** (1982, 1984, 1988) — designated student; blindspots.
-- **Timothy Williamson** (1992; 2000, ch. 6) — KK failure, the Glimpse.
+- **[Timothy Williamson](../thinkers/williamson.md)** (1992; 2000, ch. 6) — KK failure, the Glimpse.
 - **Timothy Chow** (1998) — logical vs. epistemological schools.
 - **Shira Kritchman & Ran Raz** (2010) — second incompleteness theorem.
 - **Daniel Immerman** (2017) — question closure (§1; Synthese 194).
@@ -127,7 +127,7 @@ Kindred decision puzzle: [Newcomb's problem](newcombs-problem.md).
 ## Framings and reframings
 
 - **Epistemic, not semantic.** Sorensen: a liar-like mock-up "is not an epistemic paradox. For the paradoxes turn on the semantic concept of truth rather than an epistemic concept" (§5.1). Chow likewise "decided that the Kaplan–Montague paradox of the knower was distinct from the surprise examination paradox" (bibliography preface, arXiv p. 14).
-- **A Moorean sentence.** Chow reports the view that the surprise exam is "a more intricate version" of a "“Moore paradox” or a “blindspot,”" seen by shrinking the week to one day (1998, §3, p. 9).
+- **A Moorean sentence.** Chow reports the view that the surprise exam is "a more intricate version" of a "“Moore paradox” or a “blindspot,”" seen by shrinking the week to one day (1998, §3, p. 9; see [Moore's paradox](moores-paradox.md)).
 - **Two schools, both reasonable.** Chow describes an "epistemological
   school" and a "logical school" and holds that "both approaches are
   reasonable and neither is guilty of evasion" (1998, §1, p. 3).

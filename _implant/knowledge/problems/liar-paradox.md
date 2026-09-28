@@ -4,7 +4,7 @@ about: concept
 title: "The liar paradox: is 'This sentence is false' true or false?"
 description: "The sentence that says of itself that it is false — true if false, false if true — from the Megarians and Epimenides through the medieval insolubilia to Tarski, Kripke and Priest, with the families of solution (deny bivalence, paracomplete, paraconsistent, substructural, Tarski's hierarchy, contextualism) and who holds each."
 tags: [problem, logic, philosophy-of-language, truth, paradox]
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # The liar paradox
@@ -79,13 +79,13 @@ No survey figure is recorded.
 
 ## Thinkers who addressed it
 
-- **Eubulides / the Megarians** (4th c. BCE) — Cantini credits "the
+- **[Eubulides / the Megarians](../thinkers/eubulides.md)** (4th c. BCE) — Cantini credits "the
   arguments entangling the notions of truth and vagueness" to "the Megarian
   School, and Eubulides of Miletus" (preamble).
 - **Aristotle, Cicero** — mention it (Beall et al., preamble).
 - **Jean Buridan** (14th c.) — the insolubilia (preamble).
-- **Alfred Tarski** (1935) — the hierarchy of languages (§4.3.1).
-- **F. G. Asenjo** (1966), **Saul Kripke** (1975), **Graham Priest** (1984,
+- **[Alfred Tarski](../thinkers/tarski.md)** (1935) — the hierarchy of languages (§4.3.1).
+- **F. G. Asenjo** (1966), **Saul Kripke** (1975), **[Graham Priest](../thinkers/priest.md)** (1984,
   2006), **Hartry Field** (2008), **David Ripley** (2013) — positions as
   above.
 

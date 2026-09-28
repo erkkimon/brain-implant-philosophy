@@ -4,7 +4,7 @@ about: concept
 title: "Curry's paradox"
 description: "A sentence that says 'if I am true, then P' seems to prove any P, with no negation involved — Curry 1942, the principles it uses (modus ponens, conditional proof, contraction, naive truth or comprehension), and the families of response the SEP records (restrict naive principles; contraction-free; detachment-free), each with its proponents."
 tags: [problem, paradox, logic, philosophy-of-language, truth]
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Curry's paradox
@@ -175,7 +175,7 @@ No survey figure is recorded in the excerpts held.
 - **A. N. Prior** (1955, [doi:10.1080/00048405585200201](https://doi.org/10.1080/00048405585200201)) — shared structure with Russell (§5.2).
 - **Meyer, Routley & Dunn** (1979, [doi:10.1093/analys/39.3.124](https://doi.org/10.1093/analys/39.3.124)) — paraconsistency frustrated (§5.1.1).
 - **Saul Kripke** (1975, [doi:10.2307/2024634](https://doi.org/10.2307/2024634)) — as read in the supplement.
-- **Graham Priest** (1994, [doi:10.1093/mind/103.409.25](https://doi.org/10.1093/mind/103.409.25); 2006) — uniform solution; per §5.2 he "rejects the claim that Curry sentences are true".
+- **[Graham Priest](../thinkers/priest.md)** (1994, [doi:10.1093/mind/103.409.25](https://doi.org/10.1093/mind/103.409.25); 2006) — uniform solution; per §5.2 he "rejects the claim that Curry sentences are true".
 - **Hartry Field** (2008, [doi:10.1093/acprof:oso/9780199230747.001.0001](https://doi.org/10.1093/acprof:oso/9780199230747.001.0001)) — weakly contraction-free.
 - **Jc Beall** (2009; 2015, [doi:10.1111/nous.12029](https://doi.org/10.1111/nous.12029)) — weakly contraction-free, then strongly detachment-free.
 - **Elia Zardini** (2011, [doi:10.1017/S1755020311000177](https://doi.org/10.1017/S1755020311000177)) — strongly contraction-free.

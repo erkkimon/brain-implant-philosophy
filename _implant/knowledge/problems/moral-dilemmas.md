@@ -4,7 +4,7 @@ about: concept
 title: "Can there be genuine moral dilemmas?"
 description: "Whether an agent can be morally required to do each of two acts that cannot both be done, with neither requirement overridden — the examples (Plato, Sartre, Agamemnon, Antigone, Sophie's Choice), the two consistency arguments whose premises make dilemmas impossible, and which premise each side gives up."
 tags: [problem, ethics, metaethics, deontic-logic, dilemma]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Can there be genuine moral dilemmas?
@@ -126,9 +126,9 @@ did not ask it; see `raw/philpapers-2009-survey-trolley-and-ethics.md`).
 
 ## Arguments in play
 
-(none recorded as separate argument pages yet). The two consistency
-arguments above are stated in full on this page; they are candidates for
-their own argument pages.
+- [The consistency arguments against moral dilemmas](../arguments/consistency-arguments-against-moral-dilemmas.md)
+  — both reductios with a propositional check and, per premise, who rejects
+  it. The summary above stays on this page.
 
 ## Thinkers who addressed it
 
@@ -140,9 +140,9 @@ their own argument pages.
   need not be inconsistent" yet "would be disturbed if their own theories
   allowed for such predicaments" (McConnell's own "speculation", §4).
 - **Jean-Paul Sartre** — the student (1957 edition, as cited).
-- **E. J. Lemmon** (1962, 1965), **Bernard Williams** (1965, "Ethical
+- **E. J. Lemmon** (1962, 1965), **[Bernard Williams](../thinkers/williams.md)** (1965, "Ethical
   Consistency", *PAS Supp.* 39: 103–124), **Bas van Fraassen** (1973),
-  **Ruth Barcan Marcus** (1980), **Earl Conee** (1982), **Walter
+  **[Ruth Barcan Marcus](../thinkers/marcus.md)** (1980), **Earl Conee** (1982), **Walter
   Sinnott-Armstrong** (1988), **David Brink** (1994), **Michael Zimmerman**
   (1996), **John Holbo** (2002) — positions as above.
 
@@ -153,6 +153,11 @@ their own argument pages.
   does not show that none does" (§5).
 - **Multiple moralities.** McConnell's §8 treats conflicts between different
   moral codes; not yet excerpted.
+- **Named cases with their own pages.** [Dirty hands](dirty-hands.md) (the
+  politician's case, which McConnell's §8 discusses under Walzer),
+  [Jim and the Indians](jim-and-the-indians.md),
+  [the ticking bomb](ticking-bomb.md), [the Heinz dilemma](heinz-dilemma.md)
+  and [the trolley problem](trolley-problem.md).
 
 ## Vocabulary
 

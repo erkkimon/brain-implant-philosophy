@@ -4,7 +4,7 @@ about: concept
 title: "The sorites paradox: how can one grain make no difference, yet a million make a heap?"
 description: "Eubulides' heap — one grain is not a heap; adding one grain never turns a non-heap into a heap; so a million grains are not a heap — and the four families of response the SEP lists (deny that logic applies, reject a premise, reject the logic, embrace the conclusion), each with its proponents."
 tags: [problem, logic, philosophy-of-language, vagueness, paradox]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # The sorites paradox
@@ -100,14 +100,14 @@ stated in full above.
 
 ## Thinkers who addressed it
 
-- **Eubulides of Miletus** (4th c. BCE) — first formulation, as usually
+- **[Eubulides of Miletus](../thinkers/eubulides.md)** (4th c. BCE) — first formulation, as usually
   credited (§1).
 - **Academic Sceptics vs. the Stoics** — the sorites as a dialectical weapon
   (§1).
 - **G. V. Plekhanov** (1908) — cited the paradox as evidence for the "‘logic
   of contradiction’" (§1).
 - **Michael Dummett** (1975), **Kit Fine** (1975), **Hans Kamp** (1981),
-  **Roy Sorensen** (1988), **Michael Tye** (1994), **Timothy Williamson**
+  **Roy Sorensen** (1988), **Michael Tye** (1994), **[Timothy Williamson](../thinkers/williamson.md)**
   (1994), **Dorothy Edgington** (1996, 1997), **Rosanna Keefe** (2000),
   **Delia Graff Fara** (2000, 2008) — positions as above.
 

@@ -4,7 +4,7 @@ about: concept
 title: "Paradox"
 description: "An argument that proceeds by apparently acceptable reasoning from apparently acceptable premises to an apparently unacceptable conclusion — the sense of the sorites and the liar — kept apart from the older 'contrary to common opinion' sense, from the rhetorical figure, and from a mere surprise."
 tags: [vocabulary, logic, paradox]
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Paradox
@@ -76,11 +76,23 @@ party. Fixed 2026-09-26 ([journal](../../journals/archive/2026/09/2026-09-26.md)
   argument.
 - [Oxymoron](oxymoron.md) — the rhetorical cousin.
 - [Dilemma](dilemma.md).
+- Thinker pages on paradoxes: [Eubulides](../thinkers/eubulides.md) (to
+  whom Diogenes Laertius credits the liar and the sorites),
+  [Tarski](../thinkers/tarski.md), [Priest](../thinkers/priest.md),
+  [Williamson](../thinkers/williamson.md).
 - Paradox pages held: [sorites](../problems/sorites-paradox.md),
   [liar](../problems/liar-paradox.md), [Zeno's paradoxes of motion](../problems/zenos-paradoxes.md),
   [Russell's paradox](../problems/russells-paradox.md),
   [Curry's paradox](../problems/currys-paradox.md) (the case needing no
   negation), [the surprise examination](../problems/surprise-examination-paradox.md),
+  [the lottery and preface](../problems/lottery-and-preface-paradoxes.md),
+  [Moore's paradox](../problems/moores-paradox.md),
+  [Fitch's knowability](../problems/fitchs-paradox-of-knowability.md),
+  [the Ship of Theseus](../problems/ship-of-theseus.md),
+  [Meno's paradox](../problems/menos-paradox.md),
+  [the ravens](../problems/raven-paradox.md),
+  [Simpson's paradox](../problems/simpsons-paradox.md),
+  [St Petersburg](../problems/st-petersburg-paradox.md),
   and [Newcomb's problem](../problems/newcombs-problem.md), which Weirich
   (SEP, Fall 2024, §2.1) describes as "a dilemma for decision theory" (excerpt:
   `raw/sep-decision-causal-fall-2024-newcombs-problem.md`).

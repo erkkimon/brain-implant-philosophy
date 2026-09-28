@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -25,9 +25,9 @@ Last updated: 2026-09-27.
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-09-27): problems 11, positions 9,
-  arguments 4, thinkers 4, works 5, schools 2, persuasion 3, biases 3,
-  vocabulary 13, methods 3. `raw/` holds 96 excerpt files. Compiled: 107
+- **Pages per `knowledge/` branch** (2026-09-27): problems 40, positions 9,
+  arguments 6, thinkers 13, works 5, schools 2, persuasion 4, biases 3,
+  vocabulary 13, methods 3. `raw/` holds 345 excerpt files. Compiled: 148
   docs, 0 ghosts, 0 orphans.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
@@ -38,7 +38,15 @@ Last updated: 2026-09-27.
   [Russell](../knowledge/problems/russells-paradox.md),
   [Curry](../knowledge/problems/currys-paradox.md),
   [surprise examination](../knowledge/problems/surprise-examination-paradox.md),
-  [Newcomb](../knowledge/problems/newcombs-problem.md) — with the vocabulary
+  [Newcomb](../knowledge/problems/newcombs-problem.md) — and batch 2 (lottery
+  and preface, Moore, Fitch, Ship of Theseus, Meno, ravens, Simpson, St
+  Petersburg) and the dilemmas batch (Euthyphro, prisoner's dilemma,
+  Buridan's ass, Agrippan and Epicurean trilemmas, Heinz, dirty hands, Jim
+  and the Indians, ticking bomb) and the ethical-problems batch (abortion,
+  euthanasia, animals, famine relief, non-identity, repugnant conclusion,
+  moral luck, experience machine, murderer at the door, punishment, just
+  war, demandingness), all listed in the
+  [problems index](../knowledge/problems/index.md) — with the vocabulary
   contracts [oxymoron](../knowledge/vocabulary/oxymoron.md),
   [paradox](../knowledge/vocabulary/paradox.md) and
   [dilemma](../knowledge/vocabulary/dilemma.md).
@@ -64,29 +72,33 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
    for every later batch: [Write a batch of pages with parallel agents](../skills/write-a-batch-with-agents.md)
    — one agent per page under that skill's brief, then the review pass
    before commit.
-2. **Paradoxes batch 2 — NEXT** — preface and lottery, Moore's paradox, Fitch's
+2. ~~**Paradoxes batch 2**~~ — done 2026-09-27 — preface and lottery, Moore's paradox, Fitch's
    knowability paradox, the Ship of Theseus, Meno's paradox (*Meno* 80d–e),
    the raven paradox, Simpson's paradox, the St Petersburg paradox.
-3. **Dilemmas** — Euthyphro (*Euthyphro* 10a), the prisoner's dilemma,
+3. ~~**Dilemmas**~~ — done 2026-09-27 — Euthyphro (*Euthyphro* 10a), the prisoner's dilemma,
    Buridan's ass, the Agrippan (Münchhausen) trilemma, the Epicurean
    trilemma / problem of evil, the Heinz dilemma, dirty hands, Williams's
    Jim and the Indians, the ticking bomb.
-4. **Ethical problems** — abortion (Thomson's violinist), euthanasia, the
+4. ~~**Ethical problems**~~ — done 2026-09-27 — abortion (Thomson's violinist), euthanasia, the
    moral status of animals, Singer's drowning child, the non-identity
    problem, the repugnant conclusion, moral luck, the experience machine,
    Kant's murderer at the door, punishment, just war, demandingness.
-5. **Oxymorons** — one curated examples page (rhetorical sense, each example
+5. ~~**Oxymorons**~~ — done 2026-09-27 — one curated examples page (rhetorical sense, each example
    with literary source and locator), plus the "contradiction in terms"
    disputes reported as claims.
-6. **Supporting pages as each batch needs them** — thinker pages (Foot,
-   Thomson, Anscombe, Williams, Marcus, Eubulides, Zeno, Russell, Tarski,
-   Priest, Williamson), argument pages (double-effect conditions, the two
-   consistency arguments against moral dilemmas).
-7. **Coverage recount** against Wikipedia's "List of paradoxes" and the
+6. ~~**Supporting pages**~~ — done 2026-09-27: thinker pages Foot,
+   Thomson, Anscombe, Williams, Marcus, Eubulides, Tarski, Priest,
+   Williamson; argument pages on double effect and the consistency
+   arguments. Zeno and Russell (and Aquinas, Parfit, Singer, Nozick, Kant
+   for the ethics pages) remain as a todo.
+7. **Coverage recount — NEXT** against Wikipedia's "List of paradoxes" and the
    ethics lists, revision-pinned, in [todo/coverage.md](../todo/coverage.md).
-8. **2020 PhilPapers figures** for the trolley problem (the results site
-   returned a bot challenge on 2026-09-26; try again or use Bourget &
-   Chalmers 2023, *Philosophers' Imprint*).
+8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
+   2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
+   did not recur); question ids found by scanning result pages 4910–5010
+   by title (switch 4922, footbridge 4946, Newcomb 4886, experience
+   machine 4942, eating animals 4938, abortion 4974, capital punishment
+   4994).
 
 After that, the [MLP plan](mlp.md) (target v0.2): free will and induction
 clusters, verifying the 13 unverified-citation pages, more thinkers, works
@@ -131,7 +143,11 @@ from the repository root:
 8. **Commit and push:** remove `__pycache__` directories, `git add -A`,
    `henxels bless push`, `git commit -m "..."` (the hooks rerun the
    contract), `henxels bless push`, `git push`. Deleting files additionally
-   needs `henxels bless delete`. The maintainer has authorised agents to
+   needs `henxels bless delete`, a token that expires after 600 seconds while
+   the pre-commit (judge plus compile gate) can take longer. If a batch
+   shrinks a file (e.g. `todo/open.md`), commit everything else first, then
+   that file alone right after a fresh bless ([journal 2026-09-27](../journals/2026-09-27.md)).
+   Run long commits as background jobs; the tool call caps at 10 minutes. The maintainer has authorised agents to
    commit and push freely here, overriding the generated AGENTS.md etiquette
    line ([journal 2026-09-27](../journals/2026-09-27.md)).
 9. **Clean up:** empty `_temp/` of scratch (keep `page-brief.md` and

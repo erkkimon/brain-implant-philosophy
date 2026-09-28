@@ -18,7 +18,7 @@ about: concept
 title: <the argument's usual name>
 description: "<one sentence: what it argues, for which position>"
 tags: [argument, <field>]
-timestamp: <ISO 8601>
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # <title>
@@ -62,3 +62,8 @@ On [consciousness](../problems/consciousness.md):
 * [The zombie argument](zombie-argument.md) — Kripke, Chalmers; the survey's three-way split.
 * [The Chinese room](chinese-room.md) — Searle against Turing; the octopus and the indicator report as descendants.
 * [Leibniz's mill](leibniz-mill.md) — *Monadology* §17; the ancestor of the explanatory gap.
+
+In ethics:
+
+* [The doctrine of double effect (the four conditions)](double-effect-conditions.md) — Aquinas ST II-II q. 64 a. 7, Gury 1850, Mangan's 1949 four conditions checked with logic.py; closeness (Foot, Boyle, Davis), proportionality and intention critics, Quinn's reformulation.
+* [The consistency arguments against moral dilemmas](consistency-arguments-against-moral-dilemmas.md) — McConnell's two reductios (PC + PD; 'ought' implies 'can' + agglomeration), checked propositionally; Williams, van Fraassen, Marcus, Lemmon and Conee on which premise goes.

@@ -4,7 +4,7 @@ about: concept
 title: "Knowledge"
 description: "The epistemic state that arguments and evidence aim to produce or undermine — defined here as the target of inquiry rather than as any particular analysis, because every proposed analysis (JTB, reliabilism, virtue epistemology, knowledge-first) is itself a contested position in epistemology."
 tags: [vocabulary, epistemology]
-timestamp: 2026-09-27T12:09:48Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Knowledge
@@ -52,7 +52,7 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
   the Mind* (1996).
 - **Knowledge-first:** knowledge is primitive and unanalysable; belief and
   justification are explained in terms of knowledge, not the reverse.
-  Williamson, *Knowledge and Its Limits* (2000).
+  [Williamson](../thinkers/williamson.md), *Knowledge and Its Limits* (2000).
 - **Contextualism:** the truth conditions of knowledge attributions vary with
   the conversational context. Lewis, "Elusive Knowledge" (1996); DeRose,
   *The Case for Contextualism* (2009).
@@ -100,3 +100,10 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
   denied "that any principle or claim was synthetic a priori" and held
   logic and mathematics "to be analytic" (Uebel, SEP "Vienna Circle", Fall
   2024, preamble and §2.3).
+- Paradoxes that turn on knowledge or rational belief (listed as
+  neighbours, not as a claim about what they show):
+  [the surprise examination](../problems/surprise-examination-paradox.md),
+  [the lottery and preface](../problems/lottery-and-preface-paradoxes.md),
+  [Moore's paradox](../problems/moores-paradox.md),
+  [Fitch's knowability](../problems/fitchs-paradox-of-knowability.md) and
+  [Meno's paradox of inquiry](../problems/menos-paradox.md).

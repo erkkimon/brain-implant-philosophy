@@ -4,7 +4,7 @@ about: concept
 title: "Oxymoron"
 description: "A figure of speech that joins two ordinarily opposed terms for effect (\"darkness visible\", \"make haste slowly\") — kept apart from a contradiction in terms, the loose sense some writers reject, and from a paradox, which is an argument or claim rather than a figure."
 tags: [vocabulary, rhetoric, logic]
-timestamp: 2026-09-27T12:19:44Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Oxymoron
@@ -76,3 +76,6 @@ sense stated. Fixed 2026-09-26 ([journal](../../journals/archive/2026/09/2026-09
   overlap except that both words name two-part structures.
 - [Persuasion, rhetoric, dialectic, argumentation](persuasion-rhetoric-dialectic.md)
   — the practice oxymoron belongs to as a figure.
+- [Oxymoron (the figure of speech)](../persuasion/oxymoron-figure.md) — the
+  examples page: each instance with author, work, locator and the source
+  that labels it an oxymoron.

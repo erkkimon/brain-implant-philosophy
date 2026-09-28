@@ -4,7 +4,7 @@ about: concept
 title: "Moral patient"
 description: "An entity whose interests matter morally for their own sake — distinguished here from moral agent (one who can act morally) and from mere instrument, because the grounds of patiency are contested and the implant reports the contestation rather than settling it."
 tags: [vocabulary, ethics]
-timestamp: 2026-09-27T12:09:48Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Moral patient
@@ -89,3 +89,8 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
   is not typically proposed as a ground of patiency.
 - [AI consciousness hub](../problems/ai-consciousness.md) — collects claims
   about whether artificial entities are moral patients, with hedges.
+- Problem pages where who counts is at issue:
+  [the moral status of animals](../problems/moral-status-of-animals.md),
+  [abortion](../problems/abortion.md),
+  [the non-identity problem](../problems/non-identity-problem.md) and
+  [the repugnant conclusion](../problems/repugnant-conclusion.md).
