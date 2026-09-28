@@ -2,7 +2,7 @@
 type: skill
 title: Write a batch of pages with parallel agents
 description: "Use when adding several knowledge pages at once (a batch of 3–5 from plans/next-steps.md) by delegating one page per sub-agent. Gives the brief every sub-agent receives — nothing from memory, raw excerpt file format, the page rules — and the integration and review pass the coordinating agent runs before committing: index entries, inbound links, unsourced characterisations, arithmetic, bookkeeping."
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T11:12:50Z
 depends_on: [write-a-page.md]
 tools:
   - skills/tools/neutrality-lint.py
@@ -12,7 +12,7 @@ tools:
 # Write a batch of pages with parallel agents
 
 The batch form of [Write a page](write-a-page.md), first used for paradoxes
-batch 1 ([journal 2026-09-27](../journals/2026-09-27.md)). The order of
+batch 1 ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)). The order of
 batches is in [Next steps](../plans/next-steps.md). One sub-agent writes one
 page and its raw excerpts; the coordinating agent integrates, reviews and
 commits. Sub-agents never run git and never edit shared pages, so parallel

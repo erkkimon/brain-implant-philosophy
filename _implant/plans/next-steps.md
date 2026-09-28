@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-09-28T11:12:50Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -12,12 +12,31 @@ timestamp: 2026-09-28T07:01:48Z
 **Read this first when resuming.** It is kept current at the end of every
 working session, so the work can continue after a gap of days or weeks
 without the conversation that produced it. The episodic detail is in the
-journals ([today's](../journals/2026-09-27.md); earlier days under
+journals (latest: [2026-09-27](../journals/archive/2026/09/2026-09-27.md); all days under
 `journals/archive/`), the full queue is [todo/open.md](../todo/open.md), and
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.
 
-Last updated: 2026-09-27.
+Last updated: 2026-09-28. **Status: parked** by the maintainer on
+2026-09-28, to be resumed in a fresh conversation. Everything is committed
+and pushed; `git status` was clean ([journal 2026-09-28](../journals/2026-09-28.md)).
+
+**Resuming in a fresh conversation, in five steps:**
+
+1. Read this page, then [todo/open.md](../todo/open.md) section "Priority
+   breadth", then the skills [write-a-page](../skills/write-a-page.md) and
+   [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
+2. Run section 3, step 1 (pull, compile). Start today's journal in
+   `journals/YYYY-MM-DD.md`.
+3. Take the item marked **NEXT** in section 2 (at parking: the coverage
+   recount, item 7).
+4. For page batches, launch one agent per page with the brief in
+   write-a-batch-with-agents §2, then do its review pass (quote check
+   against `raw/`, links, template headings, rerun every `logic.py` claim,
+   lint).
+5. Keep the ledger after every batch: this page's section 1 and 2, the
+   journal, `todo/open.md` plus `todo/archive/YYYY-MM-DD.md`, and
+   `todo/coverage.md`. Then commit and push per section 3, step 8.
 
 ## 1. Where things stand
 
@@ -91,14 +110,24 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
    Williamson; argument pages on double effect and the consistency
    arguments. Zeno and Russell (and Aquinas, Parfit, Singer, Nozick, Kant
    for the ethics pages) remain as a todo.
-7. **Coverage recount — NEXT** against Wikipedia's "List of paradoxes" and the
-   ethics lists, revision-pinned, in [todo/coverage.md](../todo/coverage.md).
+7. **Coverage recount — NEXT** against Wikipedia's "List of paradoxes",
+   "List of oxymorons" and the ethics lists ("Outline of ethics", "List of
+   ethical problems" or their current titles). Pin each list's revision id
+   (Wikipedia API `action=query&prop=revisions`) in
+   [todo/coverage.md](../todo/coverage.md); record held / missing per entry.
+   Turn the missing ones into batches of 8–12 pages in `todo/open.md`,
+   chosen by a stated rule rather than taste
+   ([Selection is a stated rule](../conventions/selection-is-a-stated-rule.md)),
+   and continue with those batches.
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010
    by title (switch 4922, footbridge 4946, Newcomb 4886, experience
    machine 4942, eating animals 4938, abortion 4974, capital punishment
    4994).
+9. **Thinker pages still missing** for figures the pages lean on: Zeno of
+   Elea and Russell; for the ethics pages Aquinas, Parfit, Singer, Nozick
+   and Kant (template: [thinkers index](../knowledge/thinkers/index.md)).
 
 After that, the [MLP plan](mlp.md) (target v0.2): free will and induction
 clusters, verifying the 13 unverified-citation pages, more thinkers, works
@@ -146,10 +175,10 @@ from the repository root:
    needs `henxels bless delete`, a token that expires after 600 seconds while
    the pre-commit (judge plus compile gate) can take longer. If a batch
    shrinks a file (e.g. `todo/open.md`), commit everything else first, then
-   that file alone right after a fresh bless ([journal 2026-09-27](../journals/2026-09-27.md)).
+   that file alone right after a fresh bless ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
    Run long commits as background jobs; the tool call caps at 10 minutes. The maintainer has authorised agents to
    commit and push freely here, overriding the generated AGENTS.md etiquette
-   line ([journal 2026-09-27](../journals/2026-09-27.md)).
+   line ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
 9. **Clean up:** empty `_temp/` of scratch (keep `page-brief.md` and
    `subagent-brief.md`), stop background jobs, leave `git status` clean.
 

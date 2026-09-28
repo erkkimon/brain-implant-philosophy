@@ -4,7 +4,7 @@ about: concept
 title: An implant is not a brain
 description: "Vocabulary rule for this repository and every brain-implant-* repository: a brain is the agent's cortex (the one brainpick repo registered with --cortex) plus the implants mounted beside it; this repository is an implant, its data root is _implant/, and no page, config comment or tool calls it 'the brain'."
 tags: [convention, vocabulary, brainpick, naming]
-timestamp: 2026-09-27T12:19:44Z
+timestamp: 2026-09-28T11:12:50Z
 half_life: 0
 ---
 
@@ -32,4 +32,4 @@ the cortex plus whatever implants are mounted beside it. So:
 depends on: the implant holds what was said, the cortex holds what the agent
 concluded. Decided by erkkimon (journal entries of
 [2026-09-25](../journals/archive/2026/09/2026-09-25.md) and
-[2026-09-27](../journals/2026-09-27.md)).
+[2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
