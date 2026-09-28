@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-27T13:17:25Z
+timestamp: 2026-09-28T07:01:48Z
 ---
 
 # Open
@@ -55,29 +55,9 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 - [ ] coverage count against Wikipedia's "List of paradoxes", "List of
       oxymorons" and "Outline of ethics"/"List of ethical problems" (pin
       revision ids in [coverage](coverage.md))
-- [ ] paradoxes batch 2: the preface and lottery
-      paradoxes, Moore's paradox, Fitch's knowability, the Ship of Theseus,
-      Meno's paradox, the paradox of the ravens, Simpson's paradox,
-      St Petersburg — one page each from SEP/IEP excerpts, `logic.py`
-      where propositional
-- [ ] dilemmas: Euthyphro, prisoner's dilemma, Buridan's ass, the
-      Münchhausen (Agrippa) trilemma, the Epicurean trilemma (problem of
-      evil), Heinz, dirty hands, Jim and the Indians (Williams), the ticking
-      bomb
-- [ ] ethical problems: abortion (Thomson's violinist), euthanasia, moral
-      status of animals, Singer's drowning child and famine relief, the
-      non-identity problem, the repugnant conclusion, moral luck, the
-      experience machine, lying (Kant's murderer at the door), punishment,
-      just war, the demandingness objection
-- [ ] oxymorons: a curated examples page (rhetorical sense, each example
-      with its literary source and locator) + the "contradiction in terms"
-      disputes as reported claims
-- [ ] 2020 PhilPapers trolley figures (results site returned a bot
-      challenge on 2026-09-26; retry or use Bourget & Chalmers 2023)
-- [ ] argument pages for the double-effect conditions (Mangan 1949) and the
-      two consistency arguments against moral dilemmas
-- [ ] thinker pages: Foot, Thomson, Anscombe, Williams, Marcus, Eubulides,
-      Tarski, Priest, Williamson
+- [ ] thinker pages still wanted for figures the paradox pages lean on:
+      Zeno of Elea, Russell (Aquinas, Parfit, Singer, Nozick, Kant for the
+      ethics pages)
 
 ## Post-MVP → MLP (see [MLP plan](../plans/mlp.md))
 

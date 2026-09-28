@@ -5,7 +5,10 @@ Source: Thomas Nagel, "Moral Luck", in Mortal Questions (Cambridge:
   paginated 203–213 whose opening note reads "From Thomas Nagel, Mortal
   Questions, 1979" (anthology title not printed in the copy). The page's
   page numbers are those of this reprint, not of Mortal Questions.
-Original: Mortal Questions, Cambridge University Press, 1979, ch. 3 (Nelkin's
+Original: Mortal Questions, Cambridge University Press, 1979, ch. 3
+  (doi:10.1017/CBO9781107341050 — the 2012 Canto Classics re-issue, DOI
+  verified by content negotiation on 2026-09-28; the copy read is at
+  http://rintintin.colorado.edu/~vancecd/phil1100/Nagel1.pdf) (Nelkin's
   SEP entry cites it with pages of the reprint in Statman ed., Moral Luck,
   SUNY Press 1993) (copyrighted; excerpts only)
 Retrieved: 2026-09-27 (PDF at rintintin.colorado.edu/~vancecd/phil1100/
