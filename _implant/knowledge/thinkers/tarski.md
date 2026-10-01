@@ -4,7 +4,7 @@ about: person
 title: Alfred Tarski
 description: "Alfred Tarski (1901–1983), Polish logician, later at Berkeley: the 1933 truth monograph (Convention T, object language and metalanguage, the indefinability theorem), the hierarchy of languages as a response to the liar, and the 1936 model-theoretic definition of logical consequence."
 tags: [thinker, logic, philosophy-of-language, truth, twentieth-century, tarski]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T22:52:16Z
 ---
 
 # Alfred Tarski
@@ -158,3 +158,5 @@ Titles and editions from Gómez-Torrente's bibliography; no [works](../works/ind
 translation would be ‘accurate’"; *logical consequence* in the model-theoretic sense (compare this implant's
 [validity](../vocabulary/validity.md)); *antinomy* for [paradox](../vocabulary/paradox.md). No descriptive
 entries yet ([vocabulary](../vocabulary/index.md)).
+
+Related problems: [the knower paradox](../problems/knower-paradox.md) (Bolander §2.3: Montague's theorem generalises Tarski's), [Quine's paradox](../problems/quines-paradox.md).

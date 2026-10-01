@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-01T22:52:16Z
 ---
 
 # Open
@@ -52,10 +52,6 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
-- [ ] paradoxes batch 5, the remaining 13 unmatched "Logic" entries in list
-      order: Epimenides, Grelling–Nelson, Hilbert–Bernays, "I know that I
-      know nothing", Kleene–Rosser, knower, card, no-no, Pinocchio, Quine,
-      Yablo, Opposite Day, Richard
 - [ ] thinkers from "Persons influential in the field of ethics" in the
       Outline of ethics (34 unmatched, list order, Confucius first)
 - [ ] thinker pages still wanted for figures the paradox pages lean on:

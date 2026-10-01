@@ -4,7 +4,7 @@ about: concept
 title: "Russell's paradox: is the set of all sets that are not members of themselves a member of itself?"
 description: "The set R of all sets that are not members of themselves is a member of itself if and only if it is not — the contradiction Russell (1901) and Zermelo found in naive comprehension and Russell sent to Frege in 1902, with every response family the sources record (types, Separation, von Neumann's classes, Quine's stratification, paraconsistency) and the Barber as its disputed analogue."
 tags: [problem, paradox, logic, philosophy-of-mathematics, set-theory]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-01T22:52:16Z
 ---
 
 # Russell's paradox
@@ -159,4 +159,4 @@ Other paradox pages: [sorites](../problems/sorites-paradox.md),
 - *Set*, *class*, *comprehension*, *separation*, *type*, *stratification*,
   *antinomy* — open work in [vocabulary](../vocabulary/index.md).
 
-Related problems: [the barber paradox](barber-paradox.md) (SEP "Russell's Paradox" §4 discusses the barber).
+Related problems: [the Grelling–Nelson paradox](grelling-nelson-paradox.md) and [Richard's paradox](richards-paradox.md) (Russell 1908 lists them with the class paradox), [the barber paradox](barber-paradox.md) (SEP "Russell's Paradox" §4 discusses the barber).

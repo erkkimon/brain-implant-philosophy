@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-01T22:52:16Z
 ---
 
 # <title>
@@ -124,3 +124,16 @@ Paradoxes:
 * [The Berry paradox](berry-paradox.md) — "the least integer not nameable in fewer than nineteen syllables"; Russell 1908, definability, Chaitin and Boolos on incompleteness.
 * [The crocodile dilemma](crocodile-dilemma.md) — the crocodile's promise to return the child if the parent guesses truly; ancient sources, the liar family.
 * [The paradox of the court](paradox-of-the-court.md) — Protagoras and Euathlus (Gellius V.10): the convertible argument; proposed resolutions side by side.
+* [The Epimenides paradox](epimenides-paradox.md) — "Cretans are always liars" from a Cretan; why it can be consistently false (Prior 1958; Spade & Read); the name for the liar family.
+* [The Grelling–Nelson paradox](grelling-nelson-paradox.md) — is "heterological" heterological? Grelling & Nelson 1908, Ramsey's semantic/logical division, the Russell and liar parallels.
+* [The Hilbert–Bernays paradox](hilbert-bernays-paradox.md) — a term denoting the successor of its own denotation (1939); Priest 1997, Read's Bradwardinian treatment, the paradoxes of denotation.
+* ["I know that I know nothing"](i-know-that-i-know-nothing.md) — the Socratic formula against *Apology* 21d; Vlastos, Fine and others on whether Socrates claims it.
+* [The Kleene–Rosser paradox](kleene-rosser-paradox.md) — Kleene & Rosser 1935: the inconsistency of Church's and Curry's early systems; Curry's simplification; the Richard connection.
+* [The knower paradox](knower-paradox.md) — Kaplan & Montague 1960: "this sentence is not known"; Montague's theorem, the surprise examination link, typed and paraconsistent responses.
+* [The card paradox](card-paradox.md) — Jourdain 1913: two sides, each about the other; liar cycles, Berry as inventor (Sorensen), Tarskian hierarchies.
+* [The no-no paradox](no-no-paradox.md) — two sentences each saying the other is false: consistent assignments, no reason to choose; Buridan's sophism, Sorensen, Armour-Garb & Woodbridge, Priest.
+* [The Pinocchio paradox](pinocchio-paradox.md) — "My nose grows now" (Eldridge-Smith 2010): a liar without a semantic predicate? Beall and the dialetheist exchange.
+* [Quine's paradox](quines-paradox.md) — '"yields falsehood when preceded by its quotation" yields falsehood when preceded by its quotation': self-reference without indexicals; Quine's hierarchy and Tarski.
+* [Yablo's paradox](yablos-paradox.md) — Yablo 1993: an infinite sequence of sentences each saying all later ones are untrue; is it self-referential? Priest, Sorensen, Beall, Cook.
+* [Opposite Day](opposite-day.md) — the children's game and "Today is Opposite Day"; how Wikipedia's list files it; no philosophical literature found.
+* [Richard's paradox](richards-paradox.md) — Richard 1905: diagonalising over definable reals; Peano, Poincaré, Russell 1908, Ramsey, Gödel's footnote.
