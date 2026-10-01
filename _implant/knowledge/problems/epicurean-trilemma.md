@@ -4,7 +4,7 @@ about: concept
 title: "The Epicurean trilemma and the logical problem of evil"
 description: "Can a God who is omnipotent, omniscient and perfectly good coexist with evil? The ancient willing/able dilemma Lactantius attributes to Epicurus and Hume restates, Mackie's 1955 inconsistency charge, the responses (free will defence, soul-making, privation, skeptical theism, denying an attribute) with the case for and against each, and Rowe's evidential argument as a distinct problem."
 tags: [problem, dilemma, philosophy-of-religion, metaphysics, ethics]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:31:15Z
 ---
 
 # The Epicurean trilemma and the logical problem of evil
@@ -166,6 +166,9 @@ and a moral-deliberation objection (Almeida and Oppy 2003: 505–7; Piper
   the three-horn case. Not a [moral dilemma](moral-dilemmas.md).
 - [Validity](../vocabulary/validity.md), [classical logic](../methods/classical-logic.md) — what the checks show.
 - [Paradox](../vocabulary/paradox.md) — Wikipedia's title uses it.
+- Jung's *[Answer to Job](../works/answer-to-job.md)* (1952), which Ryan
+  (1983) reads as a work on the problem of evil, with Jung's objection to
+  the *privatio boni*.
 - Omnipotence, theodicy, defence, gratuitous evil, CORNEA — open work in
   [vocabulary](../vocabulary/index.md).
 

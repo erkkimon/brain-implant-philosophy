@@ -21,7 +21,7 @@ about: concept
 title: <the term>
 description: "<one sentence: the normative sense, in brief>"
 tags: [vocabulary, <field>]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-10-01T19:31:15Z
 ---
 
 # <term>
@@ -58,3 +58,6 @@ Linked, with the boundary between them stated.
 * [Oxymoron](oxymoron.md) — the deliberate figure ("darkness visible"), kept apart from the loose "contradiction in terms" and from a paradox.
 * [Paradox](paradox.md) — plausible premises, plausible reasoning, unacceptable conclusion; the older "against common opinion" and rhetorical senses recorded.
 * [Dilemma](dilemma.md) — the argument form (constructive/destructive, checked by logic.py), the loose hard choice, and the moral dilemma of ethics.
+* [Archetype and collective unconscious](archetype-and-collective-unconscious.md) — Jung's pair of terms, reported as his; kept apart from Platonic forms, Frye's literary archetype and ordinary usage.
+* [Synchronicity](synchronicity.md) — Jung's "acausal connecting principle" (1952) and the Pauli–Jung dual-aspect reading, kept apart from ordinary "meaningful coincidence"; statisticians' and skeptics' accounts beside it.
+* [Individuation](individuation.md) — a collision term: the scholastic principle of individuation, Schopenhauer's, Jung's psychological process, Simondon's.

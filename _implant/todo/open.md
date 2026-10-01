@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:31:15Z
 ---
 
 # Open
@@ -52,12 +52,28 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
-- [ ] coverage count against Wikipedia's "List of paradoxes", "List of
-      oxymorons" and "Outline of ethics"/"List of ethical problems" (pin
-      revision ids in [coverage](coverage.md))
+- [ ] paradoxes batch 3, the unmatched "Philosophy" entries of the pinned
+      List of paradoxes ([coverage](coverage.md), recount 2026-10-01): paradox
+      of analysis, Buridan's bridge, paradox of fiction, argument from free
+      will, Goodman's paradox (new riddle of induction), paradox of hedonism,
+      liberal paradox (Sen), paradox of nihilism, omnipotence paradox,
+      Polanyi's paradox, rule-following paradox, white horse (Gongsun Long)
+- [ ] paradoxes batch 4–5, the 26 unmatched "Logic" entries in list order
+      (Barbershop, Tortoise and Achilles, Catch-22, drinker, free choice,
+      entailment, Ross, temperature, barber, Bhartrhari, Berry, crocodile,
+      Court, Epimenides, Grelling–Nelson, Hilbert–Bernays, "I know that I
+      know nothing", Kleene–Rosser, knower, card, no-no, Pinocchio, Quine,
+      Yablo, Opposite Day, Richard)
+- [ ] thinkers from "Persons influential in the field of ethics" in the
+      Outline of ethics (34 unmatched, list order, Confucius first)
 - [ ] thinker pages still wanted for figures the paradox pages lean on:
       Zeno of Elea, Russell (Aquinas, Parfit, Singer, Nozick, Kant for the
       ethics pages)
+- [ ] Jung and de Mello, further pages if wanted: *Aion*, *Memories,
+      Dreams, Reflections* (authorship question), *The Undiscovered Self*,
+      *One Minute Wisdom*; vocabulary persona/shadow; a problem page on
+      the Pauli–Jung dual-aspect reading if a source places it there
+      ([journal](../journals/2026-10-01.md))
 
 ## Post-MVP → MLP (see [MLP plan](../plans/mlp.md))
 

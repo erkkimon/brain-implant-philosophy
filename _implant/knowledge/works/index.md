@@ -18,7 +18,7 @@ about: thing
 title: <title, with the original-language title where it differs>
 description: "<one sentence: author, date, what problems it is cited for>"
 tags: [work, <tradition>, <era>]
-timestamp: <ISO 8601>
+timestamp: 2026-10-01T19:31:15Z
 ---
 
 # <title>
@@ -52,3 +52,8 @@ Named scholarly readings that disagree, attributed and cited.
 * [*The Conscious Mind*](the-conscious-mind.md) — Chalmers 1996; the zombie argument (held bibliographically; reported via SEP and Chalmers 1995).
 * [*Consciousness Explained*](consciousness-explained.md) — Dennett 1991; the Multiple Drafts Model and the "Cartesian Theater" (held bibliographically; reported via SEP).
 * [*The Edge of Sentience*](the-edge-of-sentience.md) — Birch 2024, open access; sentience candidates, precaution, the run-ahead principle.
+* [*Psychological Types*](psychological-types.md) — Jung 1921, CW 6; the two attitudes and four functions; the type problem in classical and medieval thought, Schiller, Nietzsche, James; the Definitions chapter; MBTI as a reported derivative.
+* [*Answer to Job*](answer-to-job.md) — Jung 1952, CW 11 ¶¶553–758; the God-image, Job, the incarnation, the 1950 Assumption dogma; Victor White and Buber disputes and theological reception, as reported.
+* [*Sadhana: A Way to God*](sadhana.md) — de Mello 1978; 47 prayer exercises (Awareness, Fantasy, Devotion); the CDF 1998 Explanatory Note on it; Barnes, Fárek and Choe readings.
+* [*The Song of the Bird*](the-song-of-the-bird.md) — de Mello 1982; short stories from many traditions with the author's instructions for reading them; the 1998 CDF Notification and the cautionary note.
+* [*Awareness*](awareness.md) — de Mello, ed. Stroud, 1990 (posthumous, from retreat talks); waking up, self-observation, labels, attachment; the passages the 1998 CDF Explanatory Note cites; Moss 1992 review.

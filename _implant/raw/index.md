@@ -355,3 +355,56 @@ brainpick excludes this folder from search results; grep it.
 * `thomson-1985-the-trolley-problem-yale-law-journal.md` — Thomson, Yale LJ 94 (1985), doi 10.2307/796133: Bystander at the Switch, the name "The Trolley Problem", distributive exemption, Fat Man.
 * `thomson-2008-turning-the-trolley.md` — Thomson, Phil. & Pub. Aff. 36 (2008), doi 10.1111/j.1088-4963.2008.00144.x: Bystander's Three Options, the reversal, negative vs positive duties.
 * `sep-thought-experiment-privacy-self-defense-foot-fall-2024-on-thomson.md` — SEP Fall 2024 on Thomson: Brown & Fehige (violinist), Roessler & DeCew (privacy 1975, Scanlon, Geuss), Frowe & Parry (causal account, 1991), Hacker-Wright (Foot's reply), Woollard (Fitzpatrick 2009, doi verified).
+* `de-mello-1982-song-of-the-bird-preface-and-title-story.md` — de Mello, The Song of the Bird (1982): preface, "How to read them", "Caution", glossary, title story, closing note (read in an Internet Archive OCR text).
+* `cdf-1998-notification-writings-de-mello.md` — CDF notification on de Mello's writings, 24 June 1998 (Vatican site): "brief stories", early vs later works, "incompatible with the Catholic faith".
+* `de-mello-books-cautionary-note-and-1998-reception.md` — the "multi-religious context" note in some editions (Goodreads, Wikipedia rev. 1300353226), Outlook 1998 reception, bibliography of One Minute Wisdom and Taking Flight.
+* `jung-1952-synchronicity-acausal-connecting-principle.md` — Jung, "Synchronicity: An Acausal Connecting Principle" (1955 Pantheon trans. Hull, archive.org scan): definitions, "equal in rank to causality", scarab case, Pauli's quaternio.
+* `sep-qt-consciousness-fall-2024-pauli-jung-conjecture.md` — Atmanspacher, SEP Fall 2024 "Quantum Approaches to Consciousness" §§2, 5.2–5.3, 6: Pauli-Jung conjecture as dual-aspect monism, synchronistic correlations.
+* `diaconis-mosteller-1989-coincidences-and-synchronicity.md` — Diaconis & Mosteller, JASA 84 (1989), doi 10.1080/01621459.1989.10478847: coincidence defined, four principles, law of truly large numbers, on Jung.
+* `carroll-skepdic-synchronicity.md` — R. T. Carroll, The Skeptic's Dictionary, "synchronicity": apophenia objection.
+* `cambridge-dictionary-synchronicity.md` — Cambridge Dictionary, "synchronicity": ordinary sense, "by chance".
+* `cdf-1998-notification-de-mello-positions-listed.md` — CDF Notification on Anthony de Mello (24 June 1998, vatican.va): the positions it attributes to him, papal approval; complements `cdf-1998-notification-writings-de-mello.md`.
+* `allen-1998-ncr-de-mello-censure.md` — J. L. Allen Jr., National Catholic Reporter, 4 Sept 1998: reactions to the de Mello notification (Stroud, Major, Clarke, D'Souza), Ratzinger 1996 on Indian thought.
+* `akkara-1998-ncregister-indian-jesuits-de-mello.md` — A. Akkara, National Catholic Register, 27 Sept 1998: Indian Jesuits (d'Souza, Sauch, Mathew) on the notification; the nine official books; 1997 publisher's clarification.
+* `barnes-2014-thinking-faith-de-mello.md` — M. Barnes SJ, Thinking Faith, 19 June 2014: Sadhana, Vipassana and Goenka, defenders' case, "Catholic bodhisattva".
+* `coleman-2010-america-de-mello-seek-god-everywhere.md` — J. A. Coleman SJ, America, 25 Feb 2010: de Mello on the Spiritual Exercises, attachment, the 1998 strictures.
+* `jesuits-ireland-de-mello-biography.md` — Irish Jesuits, "Anthony de Mello": dates, formation, Sadhana Institute (1972), death 1987, 1998 reception.
+* `demello-center-and-sadhana-institute-biography.md` — DeMello Spirituality Center "Meet Tony" and Sadhana Institute history: biography, founding 1973, Goenka, awareness.
+* `outlook-1998-gospel-according-to-de-mello-further-voices.md` — Outlook (India) 1998: Pereira, Correa, Rego on the de Mello notification.
+* `choe-2025-religions-de-mello-sadhana-jung.md` — Y. U. Choe, Religions 16(9) 1207 (2025), doi 10.3390/rel16091207, abstract: Sadhana read through Jung, Gestalt and Vipassana.
+* `jung-1923-psychological-types-individuation-baynes.md` — Jung, *Psychological Types* (trans. Baynes 1923, archive.org): Definition 29 "Individuation" (pp. 561–563), individuation vs. "extreme individualism", and Jung's uses of *principium individuationis* (pp. 78, 173).
+* `jung-1939-integration-of-personality-meaning-of-individuation.md` — Jung, *The Integration of the Personality* (trans. Dell 1939, archive.org) ch. 1: individuation as making a "unique, indivisible unit or “whole man.”"; alchemy as its historical parallel.
+* `sharp-1991-jung-lexicon-individuation.md` — Sharp, *Jung Lexicon* (1991), "Individuation": CW 6 pars. 757, 758, 761 and CW 9i par. 278 locators with quotations; Sharp's glosses.
+* `sep-medieval-haecceity-fall-2024-individuation.md` — Cross, SEP Fall 2024 "Medieval Theories of Haecceity": haecceity, individuation by matter (Aquinas), Fonseca, Auriol and Ockham on primitive singularity.
+* `sep-aquinas-fall-2024-individuation-by-matter.md` — Pasnau, SEP Fall 2024 "Thomas Aquinas" §4: matter as principle of individuation; forms individuate over time.
+* `sep-suarez-fall-2024-dm-v-individuation.md` — Shields & Schwartz, SEP Fall 2024 "Francisco Suárez": DM V on individuation; nominalism.
+* `sep-schopenhauer-fall-2024-principium-individuationis.md` — Wicks, SEP Fall 2024 "Arthur Schopenhauer" §§3–5.3: principium individuationis as space and time.
+* `nietzsche-1872-birth-of-tragedy-1-principium-individuationis-haussmann.md` — Nietzsche, *Birth of Tragedy* §1 (Haussmann, Gutenberg #51356): Schopenhauer's sailor, Apollo as image of the principium individuationis.
+* `simondon-1964-individuation-psychique-position-of-the-problem-flanders.md` — Simondon, "The Position of the Problem of Ontogenesis" (trans. Flanders, Parrhesia 7, 2009): reversing the search for the principle of individuation; pre-individual, metastability.
+* `jung-1934-1954-archetypes-of-the-collective-unconscious-cw9i.md` — Jung, CW 9i (2nd edn 1968, trans. Hull), paras. 3–5, 88–99, 136, 149–160: collective unconscious and archetype defined, form without content, Jung's genealogy (Philo, Irenaeus, Augustine, Plato, Kant).
+* `frye-1957-anatomy-of-criticism-archetype.md` — Frye, *Anatomy of Criticism* (1957), pp. 99, 111–112: archetype as "communicable unit"; collective unconscious "unnecessary" for criticism.
+* `roesler-2022-iaap-report-archetype-theory.md` — Roesler, report to the IAAP (2022), pp. 45–46, 60, 68, 87, 258: Jung's Kant/Plato references, Knox's four models, inconsistency and testability, Neher and Hogenson quoted, Hillman.
+* `neher-1996-jungs-theory-of-archetypes-critique.md` — Neher, J. Humanistic Psych. 36(2) 1996, doi 10.1177/00221678960362008: abstract only.
+* `sotirova-kohli-et-al-2013-archetypal-memory-advantage.md` — Sotirova-Kohli et al., Behav. Sci. 3(4) 2013, doi 10.3390/bs3040541 (CC BY): archetypal-symbol recall experiment, result and caveat.
+* `sep-innate-acquired-fall-2024-griffiths-linquist.md` — Griffiths & Linquist, SEP Fall 2024 "Innate and Acquired Characteristics": rationalism/empiricism locus, innate = instinctive.
+* `cambridge-dictionary-archetype.md` — Cambridge Dictionary, "archetype": ordinary sense.
+* `jung-1923-psychological-types-baynes.md` — Jung, *Psychological Types*, trans. Baynes 1923 (archive.org scan, US public domain): table of contents, attitudes and four functions, Tertullian/Origen, nominalism/realism, Schiller, Apollonian/Dionysian, James's tender-/tough-minded, def. "Function".
+* `sharp-1991-jung-lexicon-psychological-types.md` — Sharp, *Jung Lexicon* (1991): entries quoting CW 6 with paragraph numbers (¶¶ 667, 757, 763, 835, 958, 972).
+* `stein-swan-2019-mbti-theory-validity.md` — Stein & Swan, SPPC 2019, doi 10.1111/spc3.12434: MBTI based on Jung's types; Briggs/Myers additions; criticisms of MBTI theory and its Jungian roots.
+* `barbuto-1997-capraro-2002-mbti-abstracts.md` — Barbuto 1997 (doi 10.2466/pr0.1997.80.2.611) and Capraro & Capraro 2002 (doi 10.1177/0013164402062004004): abstracts on MBTI's operationalisation of Jung and score reliability.
+* `princeton-up-cw6-psychological-types.md` — Princeton UP catalogue page for CW 6 (ISBN 9780691018133): bibliographic data, origin and method as the publisher describes them.
+* `de-mello-1978-sadhana-introduction-and-exercises.md` — de Mello, *Sadhana: A Way to God* (1978; Image 1984 OCR): front matter, contents, Introduction, Exercises 3, 7, 15, 33, 47, "Awareness and Contemplation"; IJS product page.
+* `de-mello-1978-sadhana-exercises-1-22-35.md` — de Mello, *Sadhana* (Image 1984 OCR): openings of Exercise 1 (silence and Scripture), 22 (Ignatian contemplation), 35 (Jesus Prayer).
+* `choe-2025-sadhana-practice-religious-psychological.md` — Y. U. Choe, Religions 16(9) 1207 (2025), doi 10.3390/rel16091207, full text §§1–2: Gestalt, Vipassana, "three central pillars", Jung.
+* `farek-2022-de-mello-via-negativa.md` — M. Fárek, Religions 13 (2022) 904, doi 10.3390/rel13100904: the CDF's reading of the Sadhana "blank" passage and a via negativa reading; Callanan on reception.
+* `cdf-1998-explanatory-note-de-mello.md` — CDF Explanatory Note to the 1998 de Mello Notification (EWTN, Wayback 2006): what it says about Sadhana (Devotion part, awareness, "a blank"), Orationis formas.
+* `cdf-1998-explanatory-note-de-mello-awareness-passages.md` — CDF Explanatory Note (1998; EWTN, Wayback 2006): the passages citing *Awareness* (Fount 1990 pages 26, 30–31, 42–43, 103, 114) and note 1 on posthumous works.
+* `farek-2022-de-mello-awareness-moss-review.md` — M. Fárek, Religions 13 (2022) 904, §2: David Moss's 1992 review of *Awareness* (J. Relig. Health 31(2), doi 10.1007/BF00986795) and the client letter it printed.
+* `encyclopedia-com-jung-reference-entries.md` — Jacobi (IESS), Fordham and Shamdasani (DSB), Shields (ESTE) on Jung via Encyclopedia.com: dates/places, 1914 break, reading of Kant/Schopenhauer/Nietzsche, MDR authorship, assessments.
+* `jung-reception-bishop-noll-campbell-records.md` — Bishop 2000 and 2016 publishers' descriptions (Jung and Kant, Nietzsche), Noll's author note, Campbell's CC review of Noll's *The Jung Cult*.
+* `jung-1952-answer-to-job-cw11.md` — Jung, "Answer to Job", CW 11 (2nd edn 1969, trans. Hull, archive.org scan), Prefatory Note and paras. 553–757: privatio boni, opposites in God, Job, incarnation, the 1950 Assumption dogma, God-image and self.
+* `shamdasani-2010-answer-to-job-foreword.md` — Shamdasani, foreword to the 2010 Princeton edition of *Answer to Job*: composition in 1951, Liber Novus theology, controversy.
+* `callot-answer-to-job-jung-and-his-critics.md` — A. Callot, cgjung.net, "Answer to Job: Jung and his critics": letters 1951–1954, Victor White, theologians.
+* `wikipedia-answer-to-job-and-victor-white.md` — Wikipedia "Answer to Job" and "Victor White (priest)" (pinned revisions): White's review, privatio boni dispute, Oates and Spong.
+* `ryan-1983-answer-to-job-dissertation-abstract.md` — P. J. Ryan, Fordham PhD 1983, abstract: individuation reading, problem of evil, reply on privatio boni.
+* `answer-to-job-reviews-1955-1956-crossref.md` — Crossref records (DOIs verified) of White 1955, Fordham 1955, Jung 1956, Hiltner 1956, Waterhouse 1956, Cunningham 1981; no text.

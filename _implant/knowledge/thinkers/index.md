@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:31:15Z
 ---
 
 # <name>
@@ -69,3 +69,8 @@ On paradoxes and logic:
 * [Tarski](tarski.md) — Convention T, the object-language/metalanguage hierarchy and the undefinability theorem (1933/1935) on the liar; model-theoretic consequence (1936).
 * [Priest](priest.md) — dialetheism; LP (1979), *In Contradiction* (1987), the inclosure schema; a hub on the liar, Curry's and Russell's paradoxes.
 * [Williamson](williamson.md) — epistemicism about the sorites (1994), knowledge first and anti-luminosity (2000), Fitch's paradox, the KK diagnosis of the surprise examination.
+
+Read philosophically (admitted 2026-10-01 under [Selection is a stated rule](../../conventions/selection-is-a-stated-rule.md); whether each counts as a philosopher is reported on the page, not decided here):
+
+* [Carl Gustav Jung](jung.md) — Swiss psychiatrist (1875–1961); who reads him as a philosopher (MacIntyre 1967, Bishop, SEP) and his own "I am an empiricist" (1938); the unconscious, religion, types, synchronicity, individuation; Buber's critique.
+* [Anthony de Mello](de-mello.md) — Indian Jesuit (1931–1987), retreat director and spiritual writer; *Sadhana*, *The Song of the Bird*, *Awareness*; the 1998 CDF Notification and its defenders, side by side.

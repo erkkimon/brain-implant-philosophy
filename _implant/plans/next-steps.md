@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-09-28T11:12:50Z
+timestamp: 2026-10-01T19:31:15Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -17,9 +17,10 @@ journals (latest: [2026-09-27](../journals/archive/2026/09/2026-09-27.md); all d
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.
 
-Last updated: 2026-09-28. **Status: parked** by the maintainer on
-2026-09-28, to be resumed in a fresh conversation. Everything is committed
-and pushed; `git status` was clean ([journal 2026-09-28](../journals/2026-09-28.md)).
+Last updated: 2026-10-01. Parked on 2026-09-28 and resumed on 2026-10-01
+([journal](../journals/2026-10-01.md)); the maintainer works it in bursts
+while the weekly quota lasts, so every session ends committed, pushed and
+ready for a cold start.
 
 **Resuming in a fresh conversation, in five steps:**
 
@@ -28,8 +29,8 @@ and pushed; `git status` was clean ([journal 2026-09-28](../journals/2026-09-28.
    [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
-3. Take the item marked **NEXT** in section 2 (at parking: the coverage
-   recount, item 7).
+3. Take the item marked **NEXT** in section 2 (paradoxes batch 3, item 10,
+   as of 2026-10-01).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
    against `raw/`, links, template headings, rerun every `logic.py` claim,
@@ -45,8 +46,8 @@ and pushed; `git status` was clean ([journal 2026-09-28](../journals/2026-09-28.
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
 - **Pages per `knowledge/` branch** (2026-09-27): problems 40, positions 9,
-  arguments 6, thinkers 13, works 5, schools 2, persuasion 4, biases 3,
-  vocabulary 13, methods 3. `raw/` holds 345 excerpt files. Compiled: 148
+  arguments 6, thinkers 15, works 10, schools 2, persuasion 4, biases 3,
+  vocabulary 16, methods 3. `raw/` holds 403 excerpt files. Compiled: 159
   docs, 0 ghosts, 0 orphans.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
@@ -85,6 +86,14 @@ dilemmas and ethical problems, as soon as possible.** The itemised lists are
 in [todo/open.md](../todo/open.md), section "Priority breadth"; work them in
 this order, one committed-and-pushed batch of 3–5 pages at a time:
 
+0. ~~**Jung and de Mello**~~ — done 2026-10-01 (requested by erkkimon that
+   day): thinkers [Jung](../knowledge/thinkers/jung.md) and
+   [de Mello](../knowledge/thinkers/de-mello.md); works *Psychological
+   Types*, *Answer to Job*, *Sadhana*, *Awareness*, *The Song of the Bird*;
+   vocabulary archetype/collective unconscious, synchronicity,
+   individuation ([todo archive](../todo/archive/2026-10-01.md)). Further candidates if wanted: Jung's *Aion*, *Memories,
+   Dreams, Reflections* (with its authorship question), *The Undiscovered
+   Self*; de Mello's *One Minute Wisdom*; a persona/shadow vocabulary page.
 1. ~~**Paradoxes batch 1**~~ — done 2026-09-27 (Zeno, Russell, Curry,
    surprise examination, Newcomb; see the
    [todo archive](../todo/archive/2026-09-27.md)). How it was done, reusable
@@ -110,15 +119,13 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
    Williamson; argument pages on double effect and the consistency
    arguments. Zeno and Russell (and Aquinas, Parfit, Singer, Nozick, Kant
    for the ethics pages) remain as a todo.
-7. **Coverage recount — NEXT** against Wikipedia's "List of paradoxes",
-   "List of oxymorons" and the ethics lists ("Outline of ethics", "List of
-   ethical problems" or their current titles). Pin each list's revision id
-   (Wikipedia API `action=query&prop=revisions`) in
-   [todo/coverage.md](../todo/coverage.md); record held / missing per entry.
-   Turn the missing ones into batches of 8–12 pages in `todo/open.md`,
-   chosen by a stated rule rather than taste
-   ([Selection is a stated rule](../conventions/selection-is-a-stated-rule.md)),
-   and continue with those batches.
+7. ~~**Coverage recount**~~ — done 2026-10-01: List of paradoxes 20 of 294
+   matched, Outline of ethics 10 of 347; no "List of oxymorons" or "List
+   of ethical problems" exists ([coverage](../todo/coverage.md)). It set the
+   order of the next batches.
+10. **Paradoxes batch 3 — NEXT:** the 12 unmatched "Philosophy" entries of
+    the pinned List of paradoxes, then the 26 "Logic" entries, then the
+    ethics thinkers; the exact lists are in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010
