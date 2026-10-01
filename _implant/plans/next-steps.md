@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-01T19:53:21Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -29,7 +29,7 @@ ready for a cold start.
    [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
-3. Take the item marked **NEXT** in section 2 (paradoxes batch 3, item 10,
+3. Take the item marked **NEXT** in section 2 (paradoxes batch 4, item 11,
    as of 2026-10-01).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
@@ -45,10 +45,9 @@ ready for a cold start.
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-09-27): problems 40, positions 9,
+- **Pages per `knowledge/` branch** (2026-10-01): problems 52, positions 9,
   arguments 6, thinkers 15, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 403 excerpt files. Compiled: 159
-  docs, 0 ghosts, 0 orphans.
+  vocabulary 16, methods 3. `raw/` holds 476 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -123,9 +122,11 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
    matched, Outline of ethics 10 of 347; no "List of oxymorons" or "List
    of ethical problems" exists ([coverage](../todo/coverage.md)). It set the
    order of the next batches.
-10. **Paradoxes batch 3 — NEXT:** the 12 unmatched "Philosophy" entries of
-    the pinned List of paradoxes, then the 26 "Logic" entries, then the
-    ethics thinkers; the exact lists are in [todo/open.md](../todo/open.md).
+10. ~~**Paradoxes batch 3**~~ — done 2026-10-01: the 12 "Philosophy"
+    entries (see the [problems index](../knowledge/problems/index.md)).
+11. **Paradoxes batches 4–5 — NEXT:** the 26 unmatched "Logic" entries of
+    the pinned List of paradoxes, in list order, 13 per batch; then the
+    ethics thinkers. Exact lists in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010

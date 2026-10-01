@@ -4,7 +4,7 @@ about: concept
 title: "Paradox"
 description: "An argument that proceeds by apparently acceptable reasoning from apparently acceptable premises to an apparently unacceptable conclusion — the sense of the sorites and the liar — kept apart from the older 'contrary to common opinion' sense, from the rhetorical figure, and from a mere surprise."
 tags: [vocabulary, logic, paradox]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:53:21Z
 ---
 
 # Paradox
@@ -96,3 +96,4 @@ party. Fixed 2026-09-26 ([journal](../../journals/archive/2026/09/2026-09-26.md)
   and [Newcomb's problem](../problems/newcombs-problem.md), which Weirich
   (SEP, Fall 2024, §2.1) describes as "a dilemma for decision theory" (excerpt:
   `raw/sep-decision-causal-fall-2024-newcombs-problem.md`).
+- Further paradox pages added 2026-10-01, from the pinned List of paradoxes: [the paradox of analysis](../problems/paradox-of-analysis.md), [Buridan's bridge](../problems/buridans-bridge.md), [the paradox of fiction](../problems/paradox-of-fiction.md), [the new riddle of induction](../problems/new-riddle-of-induction.md), [the paradox of hedonism](../problems/paradox-of-hedonism.md), [the liberal paradox](../problems/liberal-paradox.md), [the paradox of nihilism](../problems/paradox-of-nihilism.md), [the omnipotence paradox](../problems/omnipotence-paradox.md), [Polanyi's paradox](../problems/polanyis-paradox.md), [the rule-following paradox](../problems/rule-following-paradox.md), [a white horse is not a horse](../problems/white-horse-not-horse.md).

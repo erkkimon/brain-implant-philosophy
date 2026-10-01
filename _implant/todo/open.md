@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-01T19:53:21Z
 ---
 
 # Open
@@ -52,12 +52,6 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
-- [ ] paradoxes batch 3, the unmatched "Philosophy" entries of the pinned
-      List of paradoxes ([coverage](coverage.md), recount 2026-10-01): paradox
-      of analysis, Buridan's bridge, paradox of fiction, argument from free
-      will, Goodman's paradox (new riddle of induction), paradox of hedonism,
-      liberal paradox (Sen), paradox of nihilism, omnipotence paradox,
-      Polanyi's paradox, rule-following paradox, white horse (Gongsun Long)
 - [ ] paradoxes batch 4–5, the 26 unmatched "Logic" entries in list order
       (Barbershop, Tortoise and Achilles, Catch-22, drinker, free choice,
       entailment, Ross, temperature, barber, Bhartrhari, Berry, crocodile,

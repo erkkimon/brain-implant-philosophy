@@ -4,7 +4,7 @@ about: concept
 title: "The raven paradox (Hempel's paradox of confirmation)"
 description: "Hempel's (1945) 'paradoxes of confirmation': Nicod's criterion plus the equivalence condition make a non-black non-raven — a red pencil, a white shoe — confirm 'all ravens are black'. The responses on record, each with its owner: accept the conclusion (Hempel, Goodman), restrict to natural kinds (Quine), hypothetico-deductive blocking, and the Bayesian comparative and quantitative answers (Hosiasson-Lindenbaum, Good, Maher, Vranas, Fitelson & Hawthorne)."
 tags: [problem, paradox, epistemology, philosophy-of-science, logic]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:53:21Z
 ---
 
 # The raven paradox (Hempel's paradox of confirmation)
@@ -148,3 +148,5 @@ Whether such a corpus bears on (NC) is the Good–Hempel dispute above.
 - *Confirmation*, *instance*, *Nicod's criterion*, *equivalence condition*,
   *natural kind*, *likelihood ratio*, *background knowledge* — no pages yet
   in [vocabulary](../vocabulary/index.md).
+
+Related problems: [Goodman's new riddle of induction](new-riddle-of-induction.md).

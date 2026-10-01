@@ -408,3 +408,76 @@ brainpick excludes this folder from search results; grep it.
 * `wikipedia-answer-to-job-and-victor-white.md` — Wikipedia "Answer to Job" and "Victor White (priest)" (pinned revisions): White's review, privatio boni dispute, Oates and Spong.
 * `ryan-1983-answer-to-job-dissertation-abstract.md` — P. J. Ryan, Fordham PhD 1983, abstract: individuation reading, problem of evil, reply on privatio boni.
 * `answer-to-job-reviews-1955-1956-crossref.md` — Crossref records (DOIs verified) of White 1955, Fordham 1955, Jung 1956, Hiltner 1956, Waterhouse 1956, Cunningham 1981; no text.
+* `iep-paradox-of-fiction-schneider.md` — Schneider, IEP "The Paradox of Fiction": triad (1)–(3), Radford's irrationalism, Walton's pretend theory and its critics, thought, counterpart and illusion theories.
+* `sep-fiction-fall-2024-paradox-of-fiction.md` — Kroon & Voltolini, SEP Fall 2024 "Fiction" §4: (A)–(C) triad, Levinson's classification of solutions, distribution reports.
+* `sep-imagination-fall-2024-emotional-response-to-fictions.md` — Liao & Gendler, SEP Fall 2024 "Imagination", puzzles supplement §2: Response/Belief/Coordination conditions, descriptive vs normative versions.
+* `paradox-of-fiction-crossref-records.md` — Crossref records (DOIs verified) of Radford 1975, Walton 1978, Lamarque 1981, Hartz 1999; no text.
+* `wikipedia-paradox-of-nihilism-article-and-list-entry.md` — Wikipedia "List of paradoxes" rev. 1376699902 entry and "Paradox of nihilism" rev. 1328169716: metaphysical/existential/ethical variants, Hegarty, Baldwin, Bornemark, Wright; DOIs verified.
+* `iep-nihilism-pratt-definition-and-nietzsche.md` — Pratt, IEP "Nihilism": definition, Nietzsche's "every belief ... is necessarily false", postmodern antifoundationalism; no self-refutation discussion.
+* `sep-relativism-fall-2024-self-refutation.md` — Baghramian & Carter, SEP Fall 2024 "Relativism" §§1.4.1, 3, 4.3.1: global relativism's self-refutation, peritrope, Burnyeat, Mackie, Hales, Kölbel, Evans.
+* `sep-nothingness-fall-2024-subtraction-and-self-defeat.md` — Sorensen, SEP Fall 2024 "Nothingness" §§1, 7, 10: Hugo on nihilism, Baldwin's subtraction argument, Tractatus objection, Parmenides.
+* `sep-skepticism-fall-2024-is-pyrrhonian-skepticism-self-refuting.md` — Comesaña & Klein, SEP Fall 2024 "Skepticism" §2: absolute skepticism, the Commitment Iteration Principle, self-refutation charge.
+* `plato-theaetetus-171a-jowett-peritrope.md` — Plato, Theaetetus 171a–b, Jowett tr. (Gutenberg #1726, public domain): Protagoras' doctrine turned on itself.
+* `sep-free-will-foreknowledge-fall-2024-theological-fatalism.md` — Zagzebski (Hunt), SEP Fall 2024 "Foreknowledge and Free Will": Basic Argument, responses by premise, open theism, logical fatalism; Pike 1965 DOI.
+* `boethius-consolation-5-3-6-foreknowledge-james.md` — Boethius, Consolation V pr. 3 and 6, James tr. 1897 (Gutenberg #14328, public domain): the problem, eternity, two necessities.
+* `augustine-city-of-god-5-9-10-foreknowledge-dods.md` — Augustine, City of God V.9–10, Dods tr. 1887 (New Advent, public domain): against Cicero, foreknowledge and free will.
+* `swartz-iep-foreknowledge-and-free-will-modal-fallacy.md` — Swartz, IEP "Foreknowledge and Free Will": modal-fallacy reply, any foreknower, Maimonides reconstructed.
+* `wikipedia-argument-from-free-will.md` — Wikipedia "Argument from free will" rev. 1371942354 and List of paradoxes rev. 1376699902 entry: names, Maimonides, Swartz, Barker.
+* `sen-1970-impossibility-of-a-paretian-liberal.md` — Sen, J. Pol. Econ. 78(1) 1970: conditions U, P, L, L*, Theorems I–II, the Lady Chatterley example, the moral, nn. 1, 4, 5.
+* `sep-social-choice-fall-2024-liberal-paradox.md` — List, SEP Fall 2024 "Social Choice Theory" §3.4: theorem with acyclicity, Lewd/Prude cycle, domain restriction, rights-formalization critics.
+* `sep-economic-justice-fall-2024-sen-gibbard-rights.md` — Fleurbaey, SEP Fall 2024 "Normative Economics and Economic Justice" §7.1: Sen and Gibbard paradoxes, shirt colours, game forms.
+* `sep-arrows-theorem-fall-2024-paretian-libertarian.md` — Morreau, SEP Fall 2024 "Arrow's Theorem": weak Pareto "not as harmless", the "Paretian libertarian" problem, Hylland 1986 title.
+* `nozick-1974-anarchy-state-utopia-sens-argument.md` — Nozick, Anarchy, State, and Utopia pp. 164–166: "Sen's Argument", rights as constraints on social choice.
+* `liberal-paradox-crossref-records.md` — Crossref records (DOIs verified) of Gibbard 1974, Gaertner–Pattanaik–Suzumura 1992 (with indexed abstract), Sen 1976, 1992, Blau 1975, Dowding & van Hees 2003.
+* `sidgwick-1907-methods-of-ethics-paradox-of-hedonism.md` — Sidgwick, Methods of Ethics 7th ed. (Gutenberg, public domain) I.iv.2, II.iii.2: "fundamental paradox of Hedonism", Butler over-stated, practically self-limiting.
+* `mill-1873-autobiography-ch5-anti-self-consciousness.md` — Mill, Autobiography ch. V (Gutenberg, public domain): happiness attained by not making it the direct end; "Ask yourself whether you are happy".
+* `butler-1726-sermon-xi-self-love-defeats-itself.md` — Butler, Fifteen Sermons, Sermon XI (Gutenberg, public domain): engrossing self-love disappoints itself; "how much soever a paradox it may appear".
+* `sep-hedonism-fall-2024-paradox-of-hedonism-and-butler.md` — A. Moore, SEP Fall 2024 "Hedonism" §§1, 1.2: paradox of hedonism defined; Butler and Hume against motivational hedonism.
+* `sep-butler-moral-fall-2024-self-love.md` — Garrett, SEP Fall 2024 "Joseph Butler's Moral Philosophy" §5: self-love obsessing over interest, particular passions.
+* `sep-well-being-fall-2024-paradox-of-hedonism.md` — Crisp, SEP Fall 2024 "Well-Being" §4.1: indirect pursuit of pleasure in the hedonist's reply to the experience machine.
+* `dietz-2021-how-to-use-the-paradox-of-hedonism.md` — Dietz 2021, J. Moral Philosophy 18 (CC BY 4.0): paradox as objection to axiological hedonism, P1–C3, responses, backgrounding move.
+* `crossref-paradox-of-hedonism-analysis-2005-2006-glb-2022.md` — Crossref records (DOIs verified) of Timmermann 2005, Feldman 2006, Martínez & Labiano 2022 (abstract only).
+* `langford-moore-1942-paradox-of-analysis-schilpp.md` — Langford and Moore in Schilpp (ed.) 1942, pp. 323–340, 665–667: the paradox of analysis named, stated, and Moore's reply.
+* `carnap-1947-meaning-and-necessity-15-paradox-of-analysis.md` — Carnap, *Meaning and Necessity* §15, pp. 63–64: Black, White, intensional structure as solution.
+* `sep-analysis-fall-2024-paradox-of-analysis.md` — Beaney & Raysmith, SEP "Analysis" (Fall 2024) §§2, 5, s6 §4, s1 Frege 1894: the dilemma, Langford, Moore, sense/reference.
+* `sep-analytic-synthetic-moore-moral-frege-fall-2024-paradox-of-analysis.md` — Rey §3.1, Hurka §1, Zalta §3.2 (SEP Fall 2024): paradox of analysis, open question, Fregean sense.
+* `paradox-of-analysis-literature-crossref.md` — Crossref records (DOIs verified) of Black 1944, Myers 1971, Chisholm & Potter 1981, O'Connor 1982, Fumerton 1983, Dummett, Nelson, King 2007.
+* `autor-2014-polanyis-paradox-shape-of-employment-growth.md` — Autor, NBER w20485 (2014): naming "Polanyi's paradox", Polanyi 1966 as quoted, examples, Moravec footnote, environmental control vs. machine learning.
+* `autor-2015-why-are-there-still-so-many-jobs-polanyis-paradox.md` — Autor, JEP 29(3) 2015, pp. 11, 23–24: the paradox restated, "My reading of the evidence suggests otherwise", the two paths.
+* `susskind-2017-rethinking-capabilities-of-machines-polanyi.md` — Susskind, Oxford DP 825 (2017) §§2.2–2.5: Polanyi in Autor, Levy & Murnane 2003 (Tacit Dimension pp. 4, 20), two explanations of automating non-routine tasks.
+* `ryle-1949-concept-of-mind-knowing-how-unformulated-rules.md` — Ryle, Concept of Mind ch. II §3, pp. 29–30: unformulated rules, the wit's recipes, practice precedes theory, regress.
+* `sep-knowledge-how-fall-2024-ryle-and-articulability.md` — Pavese, SEP Fall 2024 "Knowledge How": Ryle's anti-intellectualism, strong intellectualism, HM, the articulability argument and replies (§7.3).
+* `sep-fall-2024-tacit-knowledge-kuhn-collins-chomsky.md` — Nickles, Fidler & Wilcox, Bermúdez & Cahen (SEP Fall 2024): Polanyi and Kuhn, Collins on tacit knowledge in experiment, Chomskyan tacit knowledge of grammar.
+* `buridan-c1350-sophismata-8-17-bridge-klima.md` — Buridan, Sophismata ch. 8, seventeenth sophism "You will throw me in the water", Klima tr. 2001, pp. 993–994 (+ ch. 8 opening, 1.7.3 promissive consequences).
+* `sep-insolubles-fall-2024-bridge-variety-and-buridan.md` — Spade & Read, SEP Fall 2024 "Insolubles" §§1.4, 3.8, 4.5: the bridge among the insolubles (Bradwardine, Buridan, Cervantes), Buridan's later theory and its assessment.
+* `sep-buridan-fall-2024-insolubles-final-solution.md` — Zupko, SEP Fall 2024 "John Buridan" §4: Summulae 9.8 on the Liar, earlier and final solutions.
+* `read-2022-paul-of-venice-socrates-will-not-cross-the-bridge.md` — Read 2022 (HPL, CC BY): Paul of Venice's definition of an insoluble and 'Socrates will not cross the bridge'.
+* `cervantes-1615-don-quixote-2-51-bridge-ormsby.md` — Cervantes, Don Quixote II.51, Ormsby tr. (Gutenberg #996, public domain): the bridge-and-gallows case, Sancho's division and mercy.
+* `wikipedia-buridans-bridge.md` — Wikipedia "Buridan's bridge" rev. 1369317058 lead and List of paradoxes rev. 1376699902 entry; Jacquette 1991 DOI, Ulatowski 2003 (not read).
+* `sep-omnipotence-fall-2024-paradox-of-the-stone.md` — Hoffman & Rosenkrantz, SEP Fall 2024 "Omnipotence" preamble, §§1–2: the stone dilemma as (S1)/(S2), essential vs. accidental omnipotence, absolute vs. maximal power, Conee.
+* `iep-omnipotence-pearce-stone-paradox-voluntarism.md` — Pearce, IEP "Omnipotence" §§1a, 1b, 2 and annotations: the Stone Paradox, its validity, voluntarism, Descartes, Frankfurt 1964, Mavrodes, Cowan, Swinburne.
+* `aquinas-st-1-q25-a3-omnipotence-contradiction.md` — Aquinas, ST I q.25 a.3, Dominican tr. 1920 (public domain): omnipotence as power over the absolutely possible; God cannot sin.
+* `pseudo-dionysius-divine-names-8-6-elymas-parker.md` — Dionysius the Areopagite, Divine Names VIII.6, Parker tr. 1897 (public domain): Elymas' objection that God cannot "deny Himself", and the reply.
+* `averroes-tahafut-al-tahafut-natural-sciences-the-impossible.md` — Averroes, Tahafut al-Tahafut, natural sciences, Van Den Bergh tr.: Ghazali's definition of the impossible; Averroes on those who give God power to combine opposites.
+* `sep-descartes-modal-fall-2024-frankfurt-eternal-truths.md` — Cunning, SEP Fall 2024 "Descartes' Modal Metaphysics": Frankfurt's 1977 reading of the eternal truths; Descartes to Arnauld and Mesland.
+* `wikipedia-omnipotence-paradox-rev-1371942568-history-and-stone.md` — Wikipedia "Omnipotence paradox" rev. 1371942568: history (Saadia, Averroes, Aquinas, Dionysius), Savage's dilemma, Mavrodes and Frankfurt quoted, Mackie 1955.
+* `gongsunlongzi-bai-ma-lun-chinese-text.md` — Gongsunlongzi ch. 2 "Bai ma lun" 白馬論, Chinese text from Wikisource (public domain): the thesis and the five arguments, commentary omitted.
+* `sep-school-names-fall-2024-white-horse.md` — Fraser, SEP Fall 2024 "School of Names" §§6–6.1, nn. 17–23: the five arguments in translation, catalogue of readings, Harbsmeier, Graham, Hansen, Fraser's identity/predication reading.
+* `sep-mohist-canons-fall-2024-white-horse-compounds.md` — Fraser, SEP Fall 2024 "Mohist Canons": one-name-one-thing, 'oxen-and-horses' vs 'white horse', parallelism.
+* `sep-chinese-logic-language-fall-2024-white-horse.md` — Willman, SEP Fall 2024 "Logic and Language in Early Chinese Philosophy": Mou's salience account; Xunzi 22 and Gongsun Long.
+* `sep-chinese-epistemology-fall-2024-gongsun-long-names.md` — Rošker, SEP Fall 2024 "Chinese Epistemology" §3.3: Gongsun Long and semantic overlapping.
+* `fung-1948-short-history-chinese-philosophy-white-horse.md` — Fung Yu-lan, A Short History of Chinese Philosophy (Bodde ed., 1948) pp. 87–88: universals reading of the white horse.
+* `yi-2018-white-horse-paradox-semantics-chinese-nouns.md` — Yi 2018 (Brill, DOI 10.1163/9789004368446_003) pp. 49–50: survey of readings (Fung, Chmielewski, Hansen mass-stuff, Mou, Thompson) and Yi's plural reading.
+* `indraccolo-2017-white-horse-is-not-horse-debate.md` — Indraccolo 2017, Philosophy Compass 12(10), abstract: the debate's standing; the composite Gongsunlongzi.
+* `wittgenstein-1953-philosophical-investigations-185-242-rule-following.md` — Wittgenstein, PI I §§185, 198, 201–202, 217, 219, 241–242 (Anscombe tr.): the +2 pupil, "This was our paradox", practice, bedrock, agreement.
+* `kripke-1982-wittgenstein-on-rules-and-private-language-quus.md` — Kripke 1982 (Harvard, ISBN 0-674-95401-7) pp. 5–110: quus, the sceptical paradox, straight vs. sceptical solution, assertability conditions, community.
+* `sep-rule-following-fall-2024-sceptical-argument-and-responses.md` — Miller & Sultanescu, SEP "Rule-Following and Intentionality" Fall 2024 §§1–5: conditions, non-factualism, dispositionalism's three problems, non-reductionism, dissolution.
+* `sep-private-language-fall-2024-kripkes-sceptical-wittgenstein.md` — Candlish & Wrisley, SEP "Private Language" Fall 2024 §§4–4.1: Kripke's sceptical Wittgenstein, their critique, the community view.
+* `sep-meaning-normativity-fall-2024-kripke-and-simple-argument.md` — Glüer, Wikforss & Ganapini, SEP "Normativity of Meaning and Content" Fall 2024 §§2, 2.1.1, 4: Kripke's normativity constraint, Boghossian's simple argument, anti-naturalism.
+* `sep-wittgenstein-fall-2024-rule-following-pi-201.md` — Biletzki & Matar, SEP "Ludwig Wittgenstein" Fall 2024 §3.5: PI 201, the Fogelin/Kripke sceptical reading and its critics.
+* `goodman-1955-fact-fiction-forecast-new-riddle-entrenchment.md` — Goodman, Fact, Fiction, and Forecast (1955) chs. III–IV pp. 63–98: old problem "dissolved", virtuous circle, lawlike vs accidental, grue/bleen symmetry, projectibility, entrenchment and the question-begging objection.
+* `sep-induction-problem-fall-2024-new-riddle.md` — Henderson, SEP Fall 2024 "The Problem of Induction" §§4.2, 5.4: the new riddle as a problem Hume "did not address", the no-rules moral, formal learning theory dispute.
+* `sep-goodman-fall-2024-new-riddle-and-solution.md` — Cohnitz & Rossberg, SEP Fall 2024 "Nelson Goodman" §§5.1–5.4: pseudo-problem, positionality reply and language relativity, entrenchment, projectibility definitions, rule-following link.
+* `sep-natural-kinds-fall-2024-quine-grue.md` — Bird & Tobin, SEP Fall 2024 "Natural Kinds" §1.2: Quine 1969 on similarity, kinds and grue emeralds.
+* `sep-confirmation-fall-2024-blite-bayesian.md` — Crupi, SEP Fall 2024 "Confirmation" §§1.2, 2.2, 3.6: blite, Howson's water example, HD and blite, the Bayesian prior result and Crupi's assessment.
+* `new-riddle-of-induction-bibliographic-records.md` — DOI-verified records (texts not read): Fitelson 2008, Gaifman 1979, Hacking 1993, Chart 2000.

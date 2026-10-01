@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:53:21Z
 ---
 
 # <title>
@@ -99,3 +99,15 @@ Paradoxes:
 * [The raven paradox](raven-paradox.md) — Hempel 1945: Nicod's criterion and the equivalence condition make a white shoe confirm "all ravens are black"; accept it, Bayesian degrees, Good's counterexample, Goodman.
 * [Simpson's paradox](simpsons-paradox.md) — an association in every subgroup reversed in the pooled data; Yule, Simpson, the Berkeley admissions data; Pearl's causal analysis against non-causal explanations.
 * [The St Petersburg paradox](st-petersburg-paradox.md) — an infinite expected payoff few would pay much for; Nicolaus and Daniel Bernoulli, Cramer, Menger, bounded utility, neglecting small probabilities, relative expectations.
+* [The paradox of analysis](paradox-of-analysis.md) — can an analysis be both correct and informative? Langford's 1942 dilemma, Moore's reply, Frege's sense/reference, Carnap's intensional structure.
+* [Buridan's bridge](buridans-bridge.md) — Sophismata ch. 8, 17th sophism: Plato's vow and "You will throw me in the water"; Buridan's answers, Bradwardine, Paul of Venice, Sancho Panza; the liar connection.
+* [The paradox of fiction](paradox-of-fiction.md) — how can we be moved by what we know does not exist? Radford's 1975 triad; irrationalist, make-believe, thought, surrogate and illusion responses, each with its owner.
+* [The argument from free will (foreknowledge and freedom)](argument-from-free-will.md) — can an act be free if a being infallibly believed in advance that it would happen? Pike 1965 and the responses, sorted by the premise each denies.
+* [Goodman's new riddle of induction (grue)](new-riddle-of-induction.md) — green vs grue emeralds, projectibility and entrenchment; positional predicates, natural kinds, Bayesian priors, formal learning theory.
+* [The paradox of hedonism](paradox-of-hedonism.md) — does aiming at one's own pleasure defeat itself? Butler, Sidgwick, Mill's Autobiography, Crisp, Dietz 2021.
+* [The liberal paradox](liberal-paradox.md) — Sen 1970: weak Pareto plus minimal liberty for two people is inconsistent with an unrestricted domain; Lady Chatterley's Lover; Gibbard, Nozick, game-form rights.
+* [The paradox of nihilism](paradox-of-nihilism.md) — does "nothing is true" or "nothing has meaning" undermine itself? Several distinct paradoxes under one name, each with its sources.
+* [The omnipotence paradox](omnipotence-paradox.md) — can an omnipotent being make a stone it cannot lift? Mavrodes, Savage, Aquinas, Descartes' universal possibilism, the definitions of omnipotence.
+* [Polanyi's paradox](polanyis-paradox.md) — "we can know more than we can tell": Polanyi 1966, Autor's 2014 naming for automation, knowing-how.
+* [The rule-following paradox](rule-following-paradox.md) — Wittgenstein PI §201 and Kripke's quus: what fact makes someone mean addition? Sceptical solution, dispositionalism, McDowell, Boghossian.
+* [A white horse is not a horse](white-horse-not-horse.md) — Gongsun Long's bái mǎ fēi mǎ; the readings side by side (universals, classes, mass nouns, part-whole, identity vs predication, use/mention).

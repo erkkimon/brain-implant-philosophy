@@ -4,7 +4,7 @@ about: concept
 title: "The liar paradox: is 'This sentence is false' true or false?"
 description: "The sentence that says of itself that it is false — true if false, false if true — from the Megarians and Epimenides through the medieval insolubilia to Tarski, Kripke and Priest, with the families of solution (deny bivalence, paracomplete, paraconsistent, substructural, Tarski's hierarchy, contextualism) and who holds each."
 tags: [problem, logic, philosophy-of-language, truth, paradox]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T19:53:21Z
 ---
 
 # The liar paradox
@@ -112,3 +112,5 @@ No survey figure is recorded.
   classical logic.
 - [Classical logic](../methods/classical-logic.md) — the logic several
   solutions revise.
+
+Related problems: [Buridan's bridge](buridans-bridge.md) (one of Buridan's insolubilia).
