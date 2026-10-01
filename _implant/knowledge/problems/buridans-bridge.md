@@ -4,7 +4,7 @@ about: concept
 title: "Buridan's bridge"
 description: "Plato vows to let Socrates cross if his first proposition is true and to throw him in the water if it is false; Socrates says 'You will throw me in the water'. What should Plato do to keep his promise? Buridan's seventeenth sophism of Sophismata ch. 8 (the insolubles), his three answers (future contingent, a promise false by self-reference, no duty to keep it), Bradwardine's earlier case, Paul of Venice's classification, Sancho Panza's two verdicts in Don Quixote II.51, and the relation to the liar."
 tags: [problem, paradox, logic, self-reference, medieval-philosophy]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Buridan's bridge
@@ -109,3 +109,5 @@ treatment reported by Wikipedia; they are left out until a source is read.
 - [Knowledge](../vocabulary/knowledge.md) — Buridan's "I cannot know whether it is true or false" of a future contingent.
 - [Classical logic](../methods/classical-logic.md) — the propositional check above.
 - *Insoluble (insolubile)*, *sophism*, *future contingent*, *promissive conditional*, *self-reference* — open work in [vocabulary](../vocabulary/index.md).
+
+Related problems: [the crocodile dilemma](crocodile-dilemma.md) (Wikipedia's List of paradoxes: "Similar to the crocodile dilemma").

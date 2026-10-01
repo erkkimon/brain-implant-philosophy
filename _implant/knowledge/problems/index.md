@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # <title>
@@ -111,3 +111,16 @@ Paradoxes:
 * [Polanyi's paradox](polanyis-paradox.md) — "we can know more than we can tell": Polanyi 1966, Autor's 2014 naming for automation, knowing-how.
 * [The rule-following paradox](rule-following-paradox.md) — Wittgenstein PI §201 and Kripke's quus: what fact makes someone mean addition? Sceptical solution, dispositionalism, McDowell, Boghossian.
 * [A white horse is not a horse](white-horse-not-horse.md) — Gongsun Long's bái mǎ fēi mǎ; the readings side by side (universals, classes, mass nouns, part-whole, identity vs predication, use/mention).
+* [The barbershop paradox](barbershop-paradox.md) — Lewis Carroll, *Mind* 1894: Allen, Brown and Carr and two hypotheticals; Cook Wilson, Johnson, Venn, Russell's material-implication reading.
+* [What the Tortoise Said to Achilles](tortoise-and-achilles.md) — Carroll, *Mind* 1895: the regress of added premises; rules vs premises (Ryle), Stroud, rule-circularity (Boghossian), Engel.
+* [Catch-22 (as a logical situation)](catch-22-logic.md) — Heller's catch as a biconditional specifying nothing (Goldstein); double binds; the airman's dilemma.
+* [The drinker paradox](drinker-paradox.md) — Smullyan 1978: someone such that if they drink, everyone drinks; a classical theorem for non-empty domains, not intuitionistically provable.
+* [The paradox of free choice permission](paradox-of-free-choice.md) — "You may have coffee or tea" seems to permit each; von Wright, Kamp 1973, pragmatic and semantic accounts.
+* [The paradoxes of entailment and material implication](paradoxes-of-material-implication.md) — explosion, "a true proposition is implied by any"; C. I. Lewis, relevance logic, paraconsistency, Core Logic.
+* [Ross's paradox](ross-paradox.md) — Ross 1941: "Mail the letter" seems to entail "Mail the letter or burn it"; imperative and deontic logic responses.
+* [The temperature paradox](temperature-paradox.md) — Partee's puzzle in Montague's PTQ: "the temperature is ninety and rising"; individual concepts, Löbner, Lasersohn, Romero.
+* [The barber paradox](barber-paradox.md) — the barber who shaves all and only those who do not shave themselves; Russell 1918, "no such barber", Quine's "pseudo paradox" vs Salmon.
+* [Bhartṛhari's paradox](bhartrharis-paradox.md) — calling something unnameable names it; the *Vākyapadīya* verses and the Herzberger, Houben, Parsons, Desnitskaya and Kak readings.
+* [The Berry paradox](berry-paradox.md) — "the least integer not nameable in fewer than nineteen syllables"; Russell 1908, definability, Chaitin and Boolos on incompleteness.
+* [The crocodile dilemma](crocodile-dilemma.md) — the crocodile's promise to return the child if the parent guesses truly; ancient sources, the liar family.
+* [The paradox of the court](paradox-of-the-court.md) — Protagoras and Euathlus (Gellius V.10): the convertible argument; proposed resolutions side by side.

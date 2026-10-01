@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -17,8 +17,8 @@ journals (latest: [2026-09-27](../journals/archive/2026/09/2026-09-27.md); all d
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.
 
-Last updated: 2026-10-01. Parked on 2026-09-28 and resumed on 2026-10-01
-([journal](../journals/2026-10-01.md)); the maintainer works it in bursts
+Last updated: 2026-10-02. Parked on 2026-09-28 and resumed on 2026-10-01
+([journal](../journals/archive/2026/10/2026-10-01.md)); the maintainer works it in bursts
 while the weekly quota lasts, so every session ends committed, pushed and
 ready for a cold start.
 
@@ -29,7 +29,7 @@ ready for a cold start.
    [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
-3. Take the item marked **NEXT** in section 2 (paradoxes batch 4, item 11,
+3. Take the item marked **NEXT** in section 2 (paradoxes batch 5, item 11,
    as of 2026-10-01).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
@@ -45,9 +45,9 @@ ready for a cold start.
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-10-01): problems 52, positions 9,
+- **Pages per `knowledge/` branch** (2026-10-02): problems 65, positions 9,
   arguments 6, thinkers 15, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 476 excerpt files.
+  vocabulary 16, methods 3. `raw/` holds 547 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -124,9 +124,9 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
    order of the next batches.
 10. ~~**Paradoxes batch 3**~~ — done 2026-10-01: the 12 "Philosophy"
     entries (see the [problems index](../knowledge/problems/index.md)).
-11. **Paradoxes batches 4–5 — NEXT:** the 26 unmatched "Logic" entries of
-    the pinned List of paradoxes, in list order, 13 per batch; then the
-    ethics thinkers. Exact lists in [todo/open.md](../todo/open.md).
+11. ~~**Paradoxes batch 4**~~ — done 2026-10-02 (13 "Logic" entries).
+    **Paradoxes batch 5 — NEXT:** the remaining 13 "Logic" entries; then
+    the ethics thinkers. Exact lists in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010

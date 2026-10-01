@@ -4,7 +4,7 @@ about: concept
 title: "Curry's paradox"
 description: "A sentence that says 'if I am true, then P' seems to prove any P, with no negation involved — Curry 1942, the principles it uses (modus ponens, conditional proof, contraction, naive truth or comprehension), and the families of response the SEP records (restrict naive principles; contraction-free; detachment-free), each with its proponents."
 tags: [problem, paradox, logic, philosophy-of-language, truth]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Curry's paradox
@@ -195,3 +195,5 @@ No survey figure is recorded in the excerpts held.
   conditional proof, naive truth (transparency), naive comprehension,
   paraconsistent, paracomplete, substructural logic — open work in
   [vocabulary](../vocabulary/index.md).
+
+Related problems: [the paradoxes of entailment and material implication](paradoxes-of-material-implication.md).

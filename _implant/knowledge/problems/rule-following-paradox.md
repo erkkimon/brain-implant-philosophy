@@ -4,7 +4,7 @@ about: concept
 title: The rule-following paradox
 description: "If every course of action can be made out to accord with a rule, what makes one continuation correct, and what fact makes someone mean addition rather than quaddition? Wittgenstein's PI §201 and §§185–242, Kripke's 1982 quus sceptic and sceptical solution, and the responses on record (non-factualism, the community view, dispositionalism and its critics, non-reductionism, McDowell's and Stroud's dissolution) with their owners."
 tags: [problem, paradox, philosophy-of-language, philosophy-of-mind, metaphysics]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # The rule-following paradox
@@ -113,3 +113,5 @@ Not in the excerpts held: the texts of McDowell 1984, Boghossian 1989, Wright, G
 - [Validity](../vocabulary/validity.md) and [classical logic](../methods/classical-logic.md) — the propositional check.
 - [Knowledge](../vocabulary/knowledge.md) — first-person knowledge of what one means (Kripke 1982: 51, as reported).
 - *Rule*, *meaning*, *disposition*, *normativity*, *non-factualism*, *assertability conditions* — open work in [vocabulary](../vocabulary/index.md).
+
+Related problems: [What the Tortoise Said to Achilles](tortoise-and-achilles.md) (Engel's and Boghossian's readings connect them).

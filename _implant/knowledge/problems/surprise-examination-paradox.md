@@ -4,7 +4,7 @@ about: concept
 title: "The surprise examination paradox"
 description: "A teacher announces a surprise test next week; the students eliminate the last day, then the one before, and conclude no surprise test is possible, while common sense says one can be given. The families of response on record (self-defeating announcement, the students cannot know it, self-reference and the knower, knowledge retention and blindspots, KK failure) and who holds each."
 tags: [problem, paradox, epistemology, logic]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # The surprise examination paradox
@@ -146,3 +146,5 @@ Kindred decision puzzle: [Newcomb's problem](newcombs-problem.md).
   [vocabulary](../vocabulary/index.md).
 - Sibling paradoxes of this batch: [Zeno's paradoxes](zenos-paradoxes.md),
   [Russell's paradox](russells-paradox.md), [Curry's paradox](currys-paradox.md).
+
+Related problems: [the Berry paradox](berry-paradox.md) (Kritchman and Raz 2011, as reported by Cantini & Bruni).

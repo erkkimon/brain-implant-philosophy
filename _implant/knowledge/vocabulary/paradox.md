@@ -4,7 +4,7 @@ about: concept
 title: "Paradox"
 description: "An argument that proceeds by apparently acceptable reasoning from apparently acceptable premises to an apparently unacceptable conclusion — the sense of the sorites and the liar — kept apart from the older 'contrary to common opinion' sense, from the rhetorical figure, and from a mere surprise."
 tags: [vocabulary, logic, paradox]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Paradox
@@ -97,3 +97,4 @@ party. Fixed 2026-09-26 ([journal](../../journals/archive/2026/09/2026-09-26.md)
   (SEP, Fall 2024, §2.1) describes as "a dilemma for decision theory" (excerpt:
   `raw/sep-decision-causal-fall-2024-newcombs-problem.md`).
 - Further paradox pages added 2026-10-01, from the pinned List of paradoxes: [the paradox of analysis](../problems/paradox-of-analysis.md), [Buridan's bridge](../problems/buridans-bridge.md), [the paradox of fiction](../problems/paradox-of-fiction.md), [the new riddle of induction](../problems/new-riddle-of-induction.md), [the paradox of hedonism](../problems/paradox-of-hedonism.md), [the liberal paradox](../problems/liberal-paradox.md), [the paradox of nihilism](../problems/paradox-of-nihilism.md), [the omnipotence paradox](../problems/omnipotence-paradox.md), [Polanyi's paradox](../problems/polanyis-paradox.md), [the rule-following paradox](../problems/rule-following-paradox.md), [a white horse is not a horse](../problems/white-horse-not-horse.md).
+- From the "Logic" section of the same list (2026-10-01): [the barbershop paradox](../problems/barbershop-paradox.md), [What the Tortoise Said to Achilles](../problems/tortoise-and-achilles.md), [Catch-22](../problems/catch-22-logic.md), [the drinker paradox](../problems/drinker-paradox.md), [free choice permission](../problems/paradox-of-free-choice.md), [entailment and material implication](../problems/paradoxes-of-material-implication.md), [Ross's paradox](../problems/ross-paradox.md), [the temperature paradox](../problems/temperature-paradox.md), [the barber paradox](../problems/barber-paradox.md), [Bhartṛhari's paradox](../problems/bhartrharis-paradox.md), [the Berry paradox](../problems/berry-paradox.md), [the crocodile dilemma](../problems/crocodile-dilemma.md), [the paradox of the court](../problems/paradox-of-the-court.md).

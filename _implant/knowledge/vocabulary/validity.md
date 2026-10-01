@@ -4,7 +4,7 @@ about: concept
 title: "Validity"
 description: "The property of an argument whose form guarantees that if all premises are true, the conclusion must be true — a mechanical relation between sentences, independent of whether anyone believes them or whether the premises are in fact true."
 tags: [vocabulary, logic]
-timestamp: 2026-09-27T12:09:48Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Validity
@@ -85,3 +85,5 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
   defines validity for this implant (G1).
 - [*Fallacy*](fallacy.md) — patterns classified as defective; some are invalid # lint: allow
   forms, others are valid but misleading.
+
+Related problems: [the paradoxes of entailment and material implication](../problems/paradoxes-of-material-implication.md), [What the Tortoise Said to Achilles](../problems/tortoise-and-achilles.md), [the temperature paradox](../problems/temperature-paradox.md).

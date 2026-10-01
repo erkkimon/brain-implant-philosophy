@@ -3,7 +3,7 @@ type: todo
 title: Coverage ledger — this implant vs Wikipedia's lists
 description: "The ledger that turns the README's 'more than Wikipedia' amount claim into a number: per branch, pages held here against the entries of a named, revision-pinned Wikipedia list, with the date counted. First count 2026-09-26: the implant is far behind on amount in every branch."
 tags: [todo, coverage, benchmark, wikipedia, amount]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Coverage ledger
@@ -32,7 +32,7 @@ Method as above. Counted by script over the pinned wikitext (bullet lines
 whose first element is an article link, `{{bl|…}}` or `{{anl|…}}`; "See
 also" and later excluded; an entry listed in two sections counted once, under the first); the
 matches were assigned by hand, one implant page per entry
-([journal](../journals/2026-10-01.md)).
+([journal](../journals/archive/2026/10/2026-10-01.md)).
 
 **[List of paradoxes](https://en.wikipedia.org/w/index.php?oldid=1376699902)
 (1376699902):** 294 unique entries, 20 matched.
@@ -71,6 +71,11 @@ entries of "Philosophy" (12), then "Logic" (26), then the 34 unmatched
 "Concepts". Within a section, entries are taken in the list's own order,
 8–12 per batch. The batches are queued in [open work](open.md).
 
+## Interim note: 2026-10-02 (after paradoxes batch 4)
+
+13 of the 26 unmatched "Logic" entries now have pages: List of paradoxes
+32 → 45 of 294 matched; "Logic" 8 → 21 of 34. Problems held: 65.
+
 ## Interim note: 2026-10-01 (after paradoxes batch 3)
 
 The 12 unmatched "Philosophy" entries of the List of paradoxes now have
@@ -80,7 +85,7 @@ section from 6 to 18 of 18. Problems held: 52.
 ## Interim note: 2026-10-01
 
 Not a recount. Added: thinkers 13 → 15 (Jung, de Mello), works 5 → 10,
-vocabulary 13 → 16 ([journal](../journals/2026-10-01.md)). Neither Jung nor
+vocabulary 13 → 16 ([journal](../journals/archive/2026/10/2026-10-01.md)). Neither Jung nor
 de Mello is on the pinned "List of philosophers of mind"; the full
 "Lists of philosophers" count (open work below) is where they would be
 matched.

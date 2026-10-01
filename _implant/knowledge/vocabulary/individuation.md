@@ -4,7 +4,7 @@ about: concept
 title: "Individuation"
 description: "A collision term kept in separate senses: the metaphysical question of what makes a thing this individual (the scholastic principium individuationis — matter, haecceity, or primitive singularity), Schopenhauer's principium individuationis as space and time, Jung's psychological process of differentiation toward the whole personality, and Simondon's individuation as an operation prior to the individual."
 tags: [vocabulary, metaphysics, psychology, individuation]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Individuation
@@ -40,7 +40,7 @@ that depend on the split: [Jung](../thinkers/jung.md),
 [archetype and collective unconscious](archetype-and-collective-unconscious.md),
 and [the Ship of Theseus](../problems/ship-of-theseus.md). The split is a
 choice of this implant, recorded with the batch that admitted Jung
-([journal 2026-10-01](../../journals/2026-10-01.md)); it is not a claim
+([journal 2026-10-01](../../journals/archive/2026/10/2026-10-01.md)); it is not a claim
 that any of the four uses is wrong
 ([Words are contracts](../../conventions/words-are-contracts.md),
 [Reporting, not endorsing](../../conventions/reporting-not-endorsing.md)).

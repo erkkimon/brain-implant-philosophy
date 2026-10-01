@@ -4,7 +4,7 @@ about: process
 title: "Classical logic"
 description: "The working logic of this implant — classical propositional and first-order logic with bivalence, excluded middle, and non-contradiction — adopted as a given (G1) because any defence of it would already use it, and documented here so that its presuppositions and its limits are visible."
 tags: [method, logic]
-timestamp: 2026-09-27T12:09:48Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Classical logic
@@ -118,3 +118,5 @@ Pages whose arguments depend on non-classical logic say so explicitly.
   dilemma as `logic.py` recognises them.
 - [Bayesian updating](bayesian-updating.md) — an alternative to classical
   logic for reasoning under uncertainty; documented with its case against.
+
+Related problems: [the drinker paradox](../problems/drinker-paradox.md), [the paradoxes of entailment and material implication](../problems/paradoxes-of-material-implication.md), [the barbershop paradox](../problems/barbershop-paradox.md).

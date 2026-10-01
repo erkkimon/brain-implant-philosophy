@@ -4,7 +4,7 @@ about: concept
 title: "Archetype and collective unconscious"
 description: "Jung's pair of terms, reported as his: the collective unconscious as an inherited layer of the psyche held to be the same in all individuals, and archetypes as its contents, which Jung calls forms without content; kept apart from Plato's forms, Frye's literary archetype, Hillman's archetypal psychology and the ordinary 'typical example'."
 tags: [vocabulary, psychology, jung, philosophy-of-mind]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-01T21:51:46Z
 ---
 
 # Archetype and collective unconscious
@@ -32,7 +32,7 @@ endorsing](../../conventions/reporting-not-endorsing.md); [Words are
 contracts](../../conventions/words-are-contracts.md); [How claims are
 graded](../../conventions/how-claims-are-graded.md)). Structural note (G4): this is a decision of
 the batch that brought Jung and de Mello into the implant, 2026-10-01
-([journal](../../journals/2026-10-01.md)). Other senses are marked where used.
+([journal](../../journals/archive/2026/10/2026-10-01.md)). Other senses are marked where used.
 
 ## Descriptive definitions
 
