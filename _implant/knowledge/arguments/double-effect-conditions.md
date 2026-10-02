@@ -4,7 +4,7 @@ about: concept
 title: The doctrine of double effect (the four conditions)
 description: "The principle that a harm may sometimes be caused as a foreseen side effect of a good act though not as a means — Aquinas's self-defence article (ST II-II q. 64 a. 7), Gury's 1850 principle and Mangan's 1949 four conditions, a propositional schema, the closeness problem (Foot 1967, Boyle, Davis), criticisms of intention, proportionality and the trolley application (Hart as Foot reports him, McIntyre 2001, Scanlon 2008, Thomson 2008) and the replies McIntyre reports (Quinn 1989, Boyle, Anscombe)."
 tags: [argument, ethics, normative-ethics, double-effect, intention, aquinas, trolley-problem]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # The doctrine of double effect (the four conditions)
@@ -157,3 +157,5 @@ direct vs. indirect agency (Quinn); proportionality; the object of the act.
 Related entries: [argument](../vocabulary/argument.md), [validity](../vocabulary/validity.md),
 [dilemma](../vocabulary/dilemma.md). Related problems: [moral dilemmas](../problems/moral-dilemmas.md),
 [dirty hands](../problems/dirty-hands.md).
+
+Related thinkers: [Aquinas](../thinkers/aquinas.md) (II-II q. 64 a. 7).

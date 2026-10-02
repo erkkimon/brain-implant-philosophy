@@ -4,7 +4,7 @@ about: thing
 title: Answer to Job (Antwort auf Hiob)
 description: "C. G. Jung's 1952 essay (Collected Works vol. 11, paras. 553–758) on the Book of Job, the God-image, the incarnation and the 1950 dogma of the Assumption; cited here for what Jung wrote, for the Victor White and Martin Buber disputes, and for its theological reception, as named authors report them."
 tags: [work, western, modern, jung, analytical-psychology, philosophy-of-religion, problem-of-evil]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Answer to Job
@@ -87,3 +87,5 @@ As CW 11 divides it (`raw/jung-1952-answer-to-job-cw11.md`):
 **Other early reviews (held bibliographically, not read).** Seward Hiltner, *Pastoral Psychology* 6 (1956), 82–83 ([doi:10.1007/bf01683147](https://doi.org/10.1007/bf01683147)); E. S. Waterhouse, *Philosophy* 31 (1956), 259–260 ([doi:10.1017/s0031819100057326](https://doi.org/10.1017/s0031819100057326)); Adrian Cunningham, "Victor White and C. G. Jung: the fateful encounter of the White Raven and the Gnostic", *New Blackfriars* 62 (1981), 320–334 ([doi:10.1111/j.1741-2005.1981.tb03298.x](https://doi.org/10.1111/j.1741-2005.1981.tb03298.x)). Shamdasani's note 9 points to Paul Bishop, *Jung's Answer to Job: A Commentary* (2002), and Lammers and Cunningham (eds), *The Jung-White Letters* (2007). Structural note (G4): this section records which positions read sources take; it does not weigh them.
 
 Related pages in this batch: [Psychological Types](psychological-types.md), [synchronicity](../vocabulary/synchronicity.md), [Anthony de Mello](../thinkers/de-mello.md), [The Song of the Bird](the-song-of-the-bird.md).
+
+Related thinkers: [Augustine](../thinkers/augustine.md) (privatio boni).

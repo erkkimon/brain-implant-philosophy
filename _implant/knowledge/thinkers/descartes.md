@@ -4,7 +4,7 @@ about: person
 title: René Descartes
 description: "Descartes on consciousness: the two tests for machines (Discourse V), 'a thinking thing' and the real distinction of mind and body (Meditations II & VI), his reception by Ryle, Strawson, Oizumi et al., and the Chinese xin as contrast."
 tags: [thinker, philosophy-of-mind, consciousness, descartes]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # René Descartes
@@ -77,3 +77,5 @@ Work page: [*Meditations on First Philosophy*](../works/meditations-on-first-phi
 *Thinking thing* (*res cogitans*), *real distinction*, *Ghost in the
 Machine* (Ryle's term, not Descartes'). Open work in
 [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Spinoza](spinoza.md) (Nadler, preamble).

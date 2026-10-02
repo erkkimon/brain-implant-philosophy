@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # <name>
@@ -74,3 +74,19 @@ Read philosophically (admitted 2026-10-01 under [Selection is a stated rule](../
 
 * [Carl Gustav Jung](jung.md) — Swiss psychiatrist (1875–1961); who reads him as a philosopher (MacIntyre 1967, Bishop, SEP) and his own "I am an empiricist" (1938); the unconscious, religion, types, synchronicity, individuation; Buber's critique.
 * [Anthony de Mello](de-mello.md) — Indian Jesuit (1931–1987), retreat director and spiritual writer; *Sadhana*, *The Song of the Bird*, *Awareness*; the 1998 CDF Notification and its defenders, side by side.
+
+From the Outline of ethics, "Persons influential in the field of ethics" (pinned revision 1369745706, in the list's order; selection rule in [coverage](../../todo/coverage.md)):
+
+* [Confucius](confucius.md) — Kongzi (trad. 551–479 BCE): ren, li, the junzi, filial piety; Analects 13.18; the compilation question.
+* [Socrates](socrates.md) — 469–399 BCE (Nails & Monoson): the Socratic problem, the elenchus, intellectualism, Euthyphro, Meno, Socratic ignorance.
+* [Plato](plato.md) — the dialogues and the dispute over their order, the forms, the Euthyphro question, recollection, justice and the tripartite soul.
+* [Aristippus and the Cyrenaics](aristippus.md) — which Aristippus founded the doctrine; present bodily pleasure; only pathê knowable.
+* [Aristotle](aristotle.md) — Nicomachean Ethics: eudaimonia, the function argument, the mean, phronesis, akrasia; inclusivist vs dominant-end readings.
+* [Mencius](mencius.md) — "human nature is good", the four sprouts, the child at the well, the debate with Gaozi; Xunzi's opposing view.
+* [Epicurus](epicurus.md) — ataraxia and aponia, katastematic vs kinetic pleasure, "death is nothing to us"; the disputed trilemma attribution.
+* [Jesus of Nazareth](jesus.md) — as an ethical figure: the Sermon on the Mount, the Golden Rule, love of enemies; what historians attribute; philosophical receptions.
+* [Epictetus](epictetus.md) — prohairesis, what is and is not in our power (Encheiridion 1); Arrian's Discourses; reception.
+* [Augustine](augustine.md) — evil as privation, will and grace, foreknowledge, De mendacio, just war.
+* [Thomas Aquinas](aquinas.md) — natural law (I-II q. 94), just war (II-II q. 40), the self-defence article read as double effect (II-II q. 64 a. 7).
+* [Spinoza](spinoza.md) — the Ethics: God or Nature, conatus, bondage to the passions, the free man; egoist and non-egoist readings.
+

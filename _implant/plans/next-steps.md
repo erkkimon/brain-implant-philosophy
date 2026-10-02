@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -46,8 +46,8 @@ ready for a cold start.
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
 - **Pages per `knowledge/` branch** (2026-10-02): problems 78, positions 9,
-  arguments 6, thinkers 15, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 613 excerpt files.
+  arguments 6, thinkers 27, works 10, schools 2, persuasion 4, biases 3,
+  vocabulary 16, methods 3. `raw/` holds 658 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -126,12 +126,12 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
     entries (see the [problems index](../knowledge/problems/index.md)).
 11. ~~**Paradoxes batch 4**~~ — done 2026-10-02 (13 "Logic" entries; [todo archive](../todo/archive/2026-10-02.md)).
     ~~**Paradoxes batch 5**~~ — done 2026-10-02 (the other 13).
-12. **Ethics thinkers — NEXT:** the 34 unmatched "Persons influential in
-    the field of ethics" of the pinned Outline of ethics, in list order,
-    ~12 per batch (Confucius, Socrates, Plato, Aristippus, Aristotle,
-    Mencius, Epicurus, Jesus, Epictetus, Augustine, Aquinas, Spinoza, …);
-    thinker template; Jesus as reported by historians and by the
-    traditions, symmetric. Then "Decision theory" and "Concepts". Exact lists in [todo/open.md](../todo/open.md).
+12. **Ethics thinkers — NEXT:** batch 1 done 2026-10-02 (Confucius …
+    Spinoza, 12 pages). Next: the remaining 22 of "Persons influential in
+    the field of ethics" in list order, Hume to Dancy (list in
+    [todo/open.md](../todo/open.md)), 11 per batch; exemplars
+    `thinkers/aquinas.md`, `thinkers/foot.md`. Then "Decision theory" and
+    "Concepts". Exact lists in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010

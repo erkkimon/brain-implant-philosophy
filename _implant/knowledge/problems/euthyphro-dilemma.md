@@ -4,7 +4,7 @@ about: concept
 title: "The Euthyphro dilemma"
 description: "Plato's question at Euthyphro 10a — is the holy loved by the gods because it is holy, or holy because it is loved? — and its monotheist restatement: does God command what is right because it is right, or is it right because God commands it? Theological voluntarism (Ockham, al-Ash'ari, Luther, Calvin, Quinn), an independent standard (the Mu'tazilites, Aquinas, Cudworth, Leibniz), and the restricted and 'God's nature' replies (Adams, Alston), with the arbitrariness and goodness objections as sourced."
 tags: [problem, dilemma, ethics, philosophy-of-religion]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # The Euthyphro dilemma
@@ -124,3 +124,5 @@ No argument pages exist yet. The arguments the sources set out:
 Related problems: [Can there be genuine moral dilemmas?](moral-dilemmas.md),
 [Meno's paradox](menos-paradox.md) (another Socratic question of
 definition). Branch: [Problems](./index.md).
+
+Related thinkers: [Socrates](../thinkers/socrates.md), [Plato](../thinkers/plato.md) (*Euthyphro* 10a), [Aquinas](../thinkers/aquinas.md) (natural law, Hare SEP §3).

@@ -4,7 +4,7 @@ about: concept
 title: "I know that I know nothing (the Socratic paradox)"
 description: "Can anyone know that they know nothing, when that knowledge would be something known? The saying credited to Socrates, what Plato's Apology (21b, 21d, 22d, 29b) has him say, the formula's ancient sources (Cicero, Academica 1.16, 1.45, 2.74; Diogenes Laertius 2.32), and the readings on record — the self-refuting formula, Arcesilaus's withdrawal of even that one item, and Vogt's and Fine's restricted readings."
 tags: [problem, paradox, epistemology, ancient-philosophy, self-reference]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # I know that I know nothing (the Socratic paradox)
@@ -136,3 +136,5 @@ items of the same Wikipedia list section.
   above is run.
 - Socratic ignorance, disavowal of knowledge, elenchus, irony, Academic
   skepticism — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Socrates](../thinkers/socrates.md), [Plato](../thinkers/plato.md).

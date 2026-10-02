@@ -4,7 +4,7 @@ about: concept
 title: "Can there be genuine moral dilemmas?"
 description: "Whether an agent can be morally required to do each of two acts that cannot both be done, with neither requirement overridden — the examples (Plato, Sartre, Agamemnon, Antigone, Sophie's Choice), the two consistency arguments whose premises make dilemmas impossible, and which premise each side gives up."
 tags: [problem, ethics, metaethics, deontic-logic, dilemma]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Can there be genuine moral dilemmas?
@@ -167,3 +167,5 @@ did not ask it; see `raw/philpapers-2009-survey-trolley-and-ethics.md`).
   not show.
 - [Paradox](../vocabulary/paradox.md) — the two arguments share a paradox's
   shape: plausible premises, an unacceptable conclusion.
+
+Related thinkers: [Plato](../thinkers/plato.md) (*Republic* I 331c), [Mencius](../thinkers/mencius.md) (4A17).

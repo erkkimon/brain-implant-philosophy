@@ -4,7 +4,7 @@ about: concept
 title: "Just war"
 description: "Can war ever be morally justified, and if so, when may it be fought (jus ad bellum), how (jus in bello) and how ended (jus post bellum)? Augustine and Aquinas's three conditions, Vitoria, Grotius, Walzer's 1977 moral equality of combatants, McMahan's revisionist challenge, Lazar's responsibility dilemma, pacifism and realism, and the Mohist and Mencian texts as reported."
 tags: [problem, ethics, political-philosophy, war]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Just war
@@ -179,3 +179,5 @@ non-intervention" (Caney 2005, per §3.1). No survey of philosophers' views on w
 - Liability, combatant, noncombatant, double effect, proportionality — open work in [vocabulary](../vocabulary/index.md).
 
 Related problems: [dirty hands](dirty-hands.md), [the ticking time bomb](ticking-bomb.md), [moral dilemmas](moral-dilemmas.md), [the trolley problem](trolley-problem.md), [the justification of punishment](justification-of-punishment.md) (Aquinas's and Grotius's punitive just cause), [moral luck](moral-luck.md). Branch: [Problems](./index.md).
+
+Related thinkers: [Augustine](../thinkers/augustine.md), [Aquinas](../thinkers/aquinas.md) (II-II q. 40), [Jesus](../thinkers/jesus.md) (pacifism, Fiala SEP §§2.1, 5.2), [Confucius](../thinkers/confucius.md) and [Mencius](../thinkers/mencius.md) (Van Norden, SEP "Mencius" §2).

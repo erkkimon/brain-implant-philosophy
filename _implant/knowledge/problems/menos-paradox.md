@@ -4,7 +4,7 @@ about: concept
 title: "Meno's paradox (the paradox of inquiry)"
 description: "How can one inquire into what one does not know, or recognise it when found? Meno's three questions at Meno 80d, Socrates' 'eristic' dilemma at 80e, recollection and the slave-boy (81a–86c), and the responses on record — Aristotle's knowing universally but not without qualification, Epicurean and Stoic preconceptions (prolepsis), al-Rāzī's twelfth-century restatement, partial knowledge, and Fine's (2014) targeting and recognition objections — each with its owner."
 tags: [problem, paradox, epistemology, ancient-philosophy]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Meno's paradox (the paradox of inquiry)
@@ -163,3 +163,5 @@ tool report "VALID".
   [vocabulary](../vocabulary/index.md).
 
 Related problems: ["I know that I know nothing"](i-know-that-i-know-nothing.md), [the paradox of analysis](paradox-of-analysis.md) (Beaney & Raysmith, SEP "Analysis" §2, trace it to the *Meno*).
+
+Related thinkers: [Socrates](../thinkers/socrates.md), [Plato](../thinkers/plato.md) (*Meno* 80d–e), [Epicurus](../thinkers/epicurus.md) (prolēpsis, O'Keefe IEP §4a).

@@ -4,7 +4,7 @@ about: person
 title: Ruth Barcan Marcus
 description: "Ruth Barcan Marcus (1921–2012), American logician and philosopher: the 1946 quantified modal logic with the Barcan formula, proper names as 'tags', and 'Moral Dilemmas and Consistency' (1980) — dilemmas without inconsistency, obligations not erased, a second-order duty to minimise conflict."
 tags: [thinker, analytic, twentieth-century, modal-logic, moral-dilemmas, marcus]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Ruth Barcan Marcus
@@ -78,3 +78,5 @@ unranked.
 - *Consistent* (of a set of rules) — Marcus 1980, p. 128: obeyable together in some possible world, a rule-set analogue of the consistency of a set of sentences, which she defines on the same page. See [dilemma](../vocabulary/dilemma.md) for the sense of "moral dilemma" this implant uses.
 - *Tag* — a proper name that "has no meaning" (Marcus 1961: 310, per SEP §4.3). No vocabulary entry yet.
 - *Barcan formula (BF)*, *converse Barcan formula (CBF)* — SEP §§2.1, 6. No vocabulary entry yet.
+
+Related thinkers: [Epictetus](epictetus.md).

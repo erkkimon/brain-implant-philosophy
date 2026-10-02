@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Open
@@ -53,7 +53,10 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
 - [ ] thinkers from "Persons influential in the field of ethics" in the
-      Outline of ethics (34 unmatched, list order, Confucius first)
+      Outline of ethics, the remaining 22 in list order: Hume, Kant,
+      Bentham, Hegel, Schopenhauer, Mill, Kierkegaard, Sidgwick, William
+      James, Nietzsche, Dewey, Gandhi, G. E. Moore, Tillich, Barth, Mackie,
+      Hare, Rawls, MacIntyre, Parfit, Singer, Dancy
 - [ ] thinker pages still wanted for figures the paradox pages lean on:
       Zeno of Elea, Russell (Aquinas, Parfit, Singer, Nozick, Kant for the
       ethics pages)

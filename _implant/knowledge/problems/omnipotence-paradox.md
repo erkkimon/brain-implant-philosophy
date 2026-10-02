@@ -4,7 +4,7 @@ about: concept
 title: "The omnipotence paradox (the paradox of the stone)"
 description: "Can an omnipotent being make a stone it cannot lift? Either answer seems to name something it cannot do. The dilemma as Savage (1967), Hoffman & Rosenkrantz (SEP) and Pearce (IEP) set it out; its forerunners in Dionysius the Areopagite, Averroes and Aquinas; Mavrodes' 'self-contradictory stone', Frankfurt's Cartesian reply, Cowan's objection, essential vs. accidental omnipotence, act vs. result theories — each with its owner."
 tags: [problem, paradox, philosophy-of-religion, metaphysics, logic]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # The omnipotence paradox (the paradox of the stone)
@@ -110,3 +110,5 @@ Hoffman & Rosenkrantz list Mele & Smith, "The New Paradox of the Stone" (1998), 
 - [Paradox](../vocabulary/paradox.md); [dilemma](../vocabulary/dilemma.md) — the stone argument is a constructive dilemma (logic check above).
 - [Validity](../vocabulary/validity.md); [classical logic](../methods/classical-logic.md) — Pearce's "not quite valid" turns on "can make" vs. "makes".
 - *Omnipotence*, *essential vs. accidental omnipotence*, *voluntarism*, *universal possibilism*, *eternal truths*, *state of affairs*, *absolute possibility* — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Aquinas](../thinkers/aquinas.md) (ST I q. 25), [Epictetus](../thinkers/epictetus.md) (Graver SEP §4.8).

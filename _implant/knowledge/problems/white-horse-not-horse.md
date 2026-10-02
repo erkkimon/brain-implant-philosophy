@@ -4,7 +4,7 @@ about: concept
 title: "A white horse is not a horse"
 description: "Can 'white horse is not horse' (bái mǎ fēi mǎ 白馬非馬), the thesis of the Gongsunlongzi's 'White Horse Discourse', be defended, and what did Gongsun Long mean by it? The five arguments of the dialogue and the readings on record side by side — universals (Fung Yu-lan), classes (Chmielewski), mass-stuff (Hansen), part-whole (Graham), extension of compounds (Hansen 1992), identity versus predication (Fraser), use/mention (Thompson), plural reference (Yi), semantic overlap (Rošker), salience (Mou), court entertainment (Harbsmeier) — each with its owner."
 tags: [problem, paradox, philosophy-of-language, logic, chinese-philosophy]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # A white horse is not a horse
@@ -126,3 +126,5 @@ the Chinese is quoted from Wikisource, the English from Fraser.
 - [Validity](../vocabulary/validity.md) and [Classical logic](../methods/classical-logic.md) — the propositional check.
 - [Fallacy](../vocabulary/fallacy.md) — Graham's phrase, as Fraser quotes it (§6): "an improbable medley of gross fallacies and logical subtleties" (1990: 193).
 - *Mass noun*, *identity vs. predication*, *intension/extension*, *use/mention*, *ming* 名 (name), *shi* 實 (stuff, reality) — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Confucius](../thinkers/confucius.md) (correcting names, Analects 13.3).

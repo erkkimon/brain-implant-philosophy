@@ -4,7 +4,7 @@ about: concept
 title: "The Epicurean trilemma and the logical problem of evil"
 description: "Can a God who is omnipotent, omniscient and perfectly good coexist with evil? The ancient willing/able dilemma Lactantius attributes to Epicurus and Hume restates, Mackie's 1955 inconsistency charge, the responses (free will defence, soul-making, privation, skeptical theism, denying an attribute) with the case for and against each, and Rowe's evidential argument as a distinct problem."
 tags: [problem, dilemma, philosophy-of-religion, metaphysics, ethics]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # The Epicurean trilemma and the logical problem of evil
@@ -175,3 +175,5 @@ and a moral-deliberation objection (Almeida and Oppy 2003: 505–7; Piper
 Related problems: [the omnipotence paradox](omnipotence-paradox.md), [the argument from free will](argument-from-free-will.md), [the Euthyphro dilemma](euthyphro-dilemma.md),
 [the Agrippan trilemma](agrippan-trilemma.md),
 [moral dilemmas](moral-dilemmas.md). Branch: [Problems](./index.md).
+
+Related thinkers: [Epicurus](../thinkers/epicurus.md) (the attribution and its dispute), [Augustine](../thinkers/augustine.md) (evil as privation).

@@ -4,7 +4,7 @@ about: organization
 title: Stoicism
 description: "Hellenistic school founded at Athens around 300 BCE by Zeno of Citium, named for the Painted Porch (stoa poikilê); members shared a three-part system of physics, logic and ethics, a propositional logic, and the end 'living in agreement with nature', and the school continued into the Roman imperial period."
 tags: [school, western, ancient, hellenistic, logic, ethics]
-timestamp: 2026-09-26T12:00:19Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Stoicism
@@ -67,7 +67,7 @@ Each member is placed in the school by Durand, §1.1.
 Cicero is not a member. Durand: "never identifying as a Stoic himself". He
 "engaged extensively with Stoic theory".
 
-No thinker pages exist yet for these figures (todo).
+Thinker pages: [Marcus Aurelius](../thinkers/marcus.md), [Epictetus](../thinkers/epictetus.md); others are open work.
 
 ## Problems characteristic of the school
 

@@ -4,7 +4,7 @@ about: concept
 title: Dualism
 description: "The position that mind and body are really distinct, or that the physical facts do not fix the phenomenal facts — Descartes' real distinction, its epiphenomenalist and property-dualist descendants, and the answer it gives to the mind–body problem."
 tags: [position, philosophy-of-mind, consciousness, dualism, descartes, epiphenomenalism, hard-problem]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-10-02T03:07:33Z
 ---
 
 # Dualism
@@ -248,3 +248,5 @@ Terms this page depends on, each open work in
 split). Descartes' "thinking thing" covers doubting, understanding,
 willing, imagining and perceiving at once (Med. II, ¶8) — a wider
 extension than the phenomenal sense used elsewhere on this branch.
+
+Related thinkers: [Spinoza](../thinkers/spinoza.md) (Nadler SEP §2.2).
