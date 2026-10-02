@@ -663,3 +663,28 @@ brainpick excludes this folder from search results; grep it.
 * `aristotle-nicomachean-ethics-ross-function-mean-akrasia-contemplation.md` — Aristotle, NE (Ross tr., Internet Classics Archive; Bekker checked on Perseus Greek): I.1 the good, I.6 friends and truth, I.7 function argument and "one swallow", II.1 habit, II.6 the mean, VI.5 and VI.13 practical wisdom, VII.1–3 akrasia and Socrates, X.7 contemplation.
 * `sep-aristotle-ethics-and-aristotle-fall-2024-life-function-mean-akrasia.md` — SEP Fall 2024, Kraut "Aristotle's Ethics" (§§1–7, 10: two Ethics, highest good, function argument, hexis and mean, objections, practical wisdom, akrasia, X.7–8 readings) and Shields "Aristotle" (life dates, Lyceum, legacy, Aquinas both camps).
 * `green-2017-secondary-happiness-intellectualist-inclusivist.md` — Green, SAGP 2017 paper: the intellectualist vs inclusivist readings of NE X.7–8 and the literature list; Hardie 1965, Ackrill 1974/1980, Kraut 1979 DOIs verified, not read.
+* `sep-sidgwick-fall-2024-life-methods-dualism-reception.md` — SEP Fall 2024, Schultz "Henry Sidgwick" (preamble, §§1–3): life and career, the three methods, Kant and Butler, the dualism of practical reason and its critics, esoteric morality, Rawls/Parfit/de Lazari-Radek & Singer reception; DOIs verified.
+* `sidgwick-1907-methods-of-ethics-three-methods-dualism-esoteric.md` — Sidgwick, *Methods of Ethics* 7th ed. (Gutenberg #46743): prefaces, III.xiii.3 "point of view of the Universe", IV.ii.2, IV.v.3 esoteric morality, Concluding Chapter §§1, 5 the dualism of practical reason.
+* `index.md` — Raw
+* `hume-1739-1751-treatise-enquiries-induction-passions-is-ought.md` — Hume 1739–1751 — Treatise and Enquiries: induction, reason the slave of the passions, is and ought, morality felt, sentiment
+* `james-1897-will-to-believe-moral-philosopher-dilemma-of-determinism.md` — James 1897 — The Will to Believe: genuine options, the moral philosopher and the "lost soul", the dilemma of determinism
+* `james-1902-varieties-religion-defined-mystical-marks.md` — James 1902 — The Varieties of Religious Experience: working definition of religion and the marks of mystical states
+* `james-1907-pragmatism-method-truth-religion.md` — James 1907 — Pragmatism: dedication to Mill, the pragmatic method, Peirce, truth as verification, God as hypothesis
+* `mill-1859-1879-on-liberty-utilitarianism-subjection.md` — Mill 1859, 1869, 1879 — On Liberty (the one very simple principle), Utilitarianism (higher pleasures, the proof), The Subjection of Women
+* `moore-1903-principia-ethica-39-47-mill.md` — Moore 1903 — Principia Ethica §§40, 47–48: the naturalistic fallacy charged against Mill; quality of pleasure
+* `nietzsche-1882-1887-gay-science-125-341-genealogy-i-10-beyond-good-evil-260.md` — Nietzsche — The Gay Science §§125, 341, 343 (Common tr.), Genealogy of Morals I §10 (Samuel tr.), Beyond Good and Evil §260 (Zimmern tr.)
+* `sep-hume-fall-2024-life-works-induction-sentimentalism-dialogues.md` — SEP "David Hume" (Morris & Brown) — life and works, Treatise vs Enquiries, induction and custom, sentimentalism, the Dialogues
+* `sep-hume-moral-fall-2024-four-theses-is-ought-readings.md` — SEP "Hume's Moral Philosophy" (Cohon) — four theses, practical reason, is and ought, readings of moral judgment
+* `sep-hume-religion-fall-2024-was-hume-an-atheist.md` — SEP "Hume on Religion" (Russell) — the readings of Hume's religious views: soft sceptic, atheist, irreligion
+* `sep-iep-nietzsche-wicks-wilkerson-elisabeth-nachlass-reception.md` — Wicks (SEP "Nietzsche's Life and Works") and Wilkerson (IEP "Nietzsche") — Elisabeth, the Nachlass, Nazi appropriation, Kaufmann and Danto
+* `sep-induction-problem-fall-2024-humes-problem-and-responses.md` — SEP "The Problem of Induction" (Henderson) — Hume as the source, and Kant, Reichenbach, Popper, inductive scepticism as responses
+* `sep-james-fall-2024-life-ethics-pragmatism-religion.md` — SEP "William James" (Goodman) — chronology, ethics, will to believe, pragmatism, religion, legacy
+* `sep-kant-fall-2024-life-works-autonomy.md` — SEP Immanuel Kant (Fall 2024) — life, works, autonomy, the postulates
+* `sep-kant-moral-fall-2024-good-will-formulas-autonomy-readings.md` — SEP Kant's Moral Philosophy (Fall 2024) — good will, the formulas, autonomy, teleological and metaethical readings
+* `sep-mill-fall-2024-life-proof-moore.md` — SEP Fall 2024, "John Stuart Mill" (Macleod) — life, the "proof" and Moore's charge
+* `sep-mill-moral-political-fall-2024-higher-pleasures-proof-harm-women.md` — SEP Fall 2024, "Mill's Moral and Political Philosophy" (Brink) — higher pleasures, the proof, the harm principle, sexual equality
+* `sep-nietzsche-fall-2024-anderson-life-critique-recurrence.md` — SEP "Friedrich Nietzsche" (Anderson, Fall 2024) — life, Elisabeth's Will to Power, God is dead, slave revolt, Kaufmann, naturalist readings, eternal recurrence
+* `sep-nietzsche-moral-political-fall-2024-leiter-critique-antirealism-politics.md` — SEP "Nietzsche's Moral and Political Philosophy" (Leiter, Fall 2024) — scope of the critique, anti-realism, naturalism, Foot 1973, the political-philosophy dispute
+* `sep-pragmatism-fall-2024-james-truth-russell-peirce.md` — SEP "Pragmatism" (Legg & Hookway) — James on truth, Russell's objection, Peirce's "pragmaticism"
+* `sep-well-being-and-hedonism-fall-2024-mill-higher-pleasures.md` — SEP Fall 2024, "Well-Being" (Crisp) and "Hedonism" (A. Moore) — Mill's higher and lower pleasures
+* `wikipedia-ones-who-walk-away-from-omelas-james-credit.md` — Wikipedia "The Ones Who Walk Away from Omelas" — Le Guin's credit to William James

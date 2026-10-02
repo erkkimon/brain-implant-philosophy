@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-02T07:52:32Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -12,15 +12,19 @@ timestamp: 2026-10-02T03:07:33Z
 **Read this first when resuming.** It is kept current at the end of every
 working session, so the work can continue after a gap of days or weeks
 without the conversation that produced it. The episodic detail is in the
-journals (latest: [2026-09-27](../journals/archive/2026/09/2026-09-27.md); all days under
+journals (latest: [2026-10-02](../journals/2026-10-02.md); earlier days under
 `journals/archive/`), the full queue is [todo/open.md](../todo/open.md), and
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.
 
-Last updated: 2026-10-02. Parked on 2026-09-28 and resumed on 2026-10-01
-([journal](../journals/archive/2026/10/2026-10-01.md)); the maintainer works it in bursts
-while the weekly quota lasts, so every session ends committed, pushed and
-ready for a cold start.
+Last updated: 2026-10-02. **Parked on 2026-10-02** at the maintainer's
+request, to resume the following week ([journal](../journals/2026-10-02.md)).
+Earlier: parked 2026-09-28, resumed 2026-10-01
+([journal](../journals/archive/2026/10/2026-10-01.md)). The maintainer works
+in bursts while the weekly quota lasts, so every session ends committed,
+pushed and ready for a cold start. On the first day back, move
+`journals/2026-10-02.md` to `journals/archive/2026/10/` before writing the
+new day's journal, and fix the links to it (grep for `journals/2026-10-02.md`).
 
 **Resuming in a fresh conversation, in five steps:**
 
@@ -29,8 +33,8 @@ ready for a cold start.
    [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
-3. Take the item marked **NEXT** in section 2 (ethics thinkers, item 12,
-   as of 2026-10-01).
+3. Take the item marked **NEXT** in section 2 (ethics thinkers batch 2, item 12,
+   as of 2026-10-02).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
    against `raw/`, links, template headings, rerun every `logic.py` claim,
@@ -46,8 +50,8 @@ ready for a cold start.
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
 - **Pages per `knowledge/` branch** (2026-10-02): problems 78, positions 9,
-  arguments 6, thinkers 27, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 658 excerpt files.
+  arguments 6, thinkers 30, works 10, schools 2, persuasion 4, biases 3,
+  vocabulary 16, methods 3. `raw/` holds 682 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -127,11 +131,20 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
 11. ~~**Paradoxes batch 4**~~ — done 2026-10-02 (13 "Logic" entries; [todo archive](../todo/archive/2026-10-02.md)).
     ~~**Paradoxes batch 5**~~ — done 2026-10-02 (the other 13).
 12. **Ethics thinkers — NEXT:** batch 1 done 2026-10-02 (Confucius …
-    Spinoza, 12 pages). Next: the remaining 22 of "Persons influential in
-    the field of ethics" in list order, Hume to Dancy (list in
-    [todo/open.md](../todo/open.md)), 11 per batch; exemplars
-    `thinkers/aquinas.md`, `thinkers/foot.md`. Then "Decision theory" and
-    "Concepts". Exact lists in [todo/open.md](../todo/open.md).
+    Spinoza, 12 pages). Batch 2 was cancelled mid-run on 2026-10-02:
+    [Mill](../knowledge/thinkers/mill.md), [Sidgwick](../knowledge/thinkers/sidgwick.md)
+    and [Nietzsche](../knowledge/thinkers/nietzsche.md) were finished,
+    reviewed and kept. The raw excerpts already fetched for Hume, Kant and
+    William James are committed and indexed in `raw/` (grep `raw/index.md`
+    for `hume-`, `sep-hume`, `sep-kant`, `james-`, `sep-james`,
+    `sep-pragmatism`, `wikipedia-ones-who-walk-away`), so those agents
+    should reuse them. Next: the remaining 19 in list order: Hume, Kant,
+    Bentham, Hegel, Schopenhauer, Kierkegaard, William James, Dewey, then
+    Gandhi … Dancy (list in [todo/open.md](../todo/open.md)), about 10 per
+    batch. Exemplars: `thinkers/aquinas.md`, `thinkers/foot.md`. When a new
+    page exists, relink the plain-text names on the Mill, Sidgwick and
+    Nietzsche pages (their "In dialogue with" sections name Bentham, Kant,
+    Hume and Schopenhauer unlinked). Then "Decision theory" and "Concepts". Exact lists in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010
@@ -141,6 +154,7 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
 9. **Thinker pages still missing** for figures the pages lean on: Zeno of
    Elea and Russell; for the ethics pages Aquinas, Parfit, Singer, Nozick
    and Kant (template: [thinkers index](../knowledge/thinkers/index.md)).
+   Aquinas was done 2026-10-02; Kant comes with item 12.
 
 After that, the [MLP plan](mlp.md) (target v0.2): free will and induction
 clusters, verifying the 13 unverified-citation pages, more thinkers, works
@@ -189,7 +203,12 @@ from the repository root:
    the pre-commit (judge plus compile gate) can take longer. If a batch
    shrinks a file (e.g. `todo/open.md`), commit everything else first, then
    that file alone right after a fresh bless ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
-   Run long commits as background jobs; the tool call caps at 10 minutes. The maintainer has authorised agents to
+   Run long commits as background jobs; the tool call caps at 10 minutes.
+   Compile embeds with the shared local bge-m3; when other implants are
+   compiling, one embedding can take more than 60 s and a compile can take an
+   hour. Run `brainpick compile --root .` alone, in the background with no
+   timeout, until it prints `compiled:`, and edit nothing until the commit
+   finishes ([journal 2026-10-02](../journals/2026-10-02.md)). The maintainer has authorised agents to
    commit and push freely here, overriding the generated AGENTS.md etiquette
    line ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
 9. **Clean up:** empty `_temp/` of scratch (keep `page-brief.md` and

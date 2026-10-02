@@ -4,7 +4,7 @@ about: concept
 title: "The paradox of nihilism"
 description: "Does a thesis of the form 'nothing is true', 'nothing exists' or 'nothing has meaning' undermine itself when applied to itself? Wikipedia lists the name for several distinct paradoxes (metaphysical, existential, ethical); the self-application charge is argued in the sources read under other names — Plato's peritrope against Protagoras, Mackie's self-refutation, Baldwin's subtraction argument — with replies by Burnyeat, Hales and Comesaña & Klein, each with its owner."
 tags: [problem, paradox, metaphysics, epistemology, ethics]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-02T07:52:32Z
 ---
 
 # The paradox of nihilism
@@ -143,3 +143,5 @@ the sources above report them, until a text is read.
 - [Validity](../vocabulary/validity.md) and [Classical logic](../methods/classical-logic.md) — the propositional check.
 - [Knowledge](../vocabulary/knowledge.md) — "nothing can be known" in the IEP definition.
 - *Self-refutation*, *peritrope*, *global/local relativism*, *metaphysical nihilism*, *subtraction argument* — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Nietzsche](../thinkers/nietzsche.md).

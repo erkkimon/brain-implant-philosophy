@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-02T07:52:32Z
 ---
 
 # <name>
@@ -88,5 +88,7 @@ From the Outline of ethics, "Persons influential in the field of ethics" (pinned
 * [Epictetus](epictetus.md) — prohairesis, what is and is not in our power (Encheiridion 1); Arrian's Discourses; reception.
 * [Augustine](augustine.md) — evil as privation, will and grace, foreknowledge, De mendacio, just war.
 * [Thomas Aquinas](aquinas.md) — natural law (I-II q. 94), just war (II-II q. 40), the self-defence article read as double effect (II-II q. 64 a. 7).
-* [Spinoza](spinoza.md) — the Ethics: God or Nature, conatus, bondage to the passions, the free man; egoist and non-egoist readings.
+* [Spinoza](spinoza.md) — the Ethics: God or Nature, conatus, bondage to the passions, the free man; egoist and non-egoist readings.* [John Stuart Mill](mill.md) — Utilitarianism (higher pleasures, the proof), On Liberty (harm principle), The Subjection of Women; Moore's charge and the defences (Macleod, Brink).
+* [Henry Sidgwick](sidgwick.md) — The Methods of Ethics: the three methods, "the point of view of the Universe", the dualism of practical reason, esoteric morality; reception.
+* [Friedrich Nietzsche](nietzsche.md) — master and slave morality, ressentiment, "God is dead", eternal recurrence; Elisabeth and the Nachlass; naturalist and other readings (Leiter, Anderson, Kaufmann).
 
