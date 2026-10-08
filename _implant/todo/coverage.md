@@ -3,7 +3,7 @@ type: todo
 title: Coverage ledger — this implant vs Wikipedia's lists
 description: "The ledger that turns the README's 'more than Wikipedia' amount claim into a number: per branch, pages held here against the entries of a named, revision-pinned Wikipedia list, with the date counted. First count 2026-09-26: the implant is far behind on amount in every branch."
 tags: [todo, coverage, benchmark, wikipedia, amount]
-timestamp: 2026-10-08T20:29:06Z
+timestamp: 2026-10-08T21:37:56Z
 ---
 
 # Coverage ledger
@@ -70,6 +70,11 @@ entries of "Philosophy" (12), then "Logic" (26), then the 34 unmatched
 "Persons influential in the field of ethics", then "Decision theory" and
 "Concepts". Within a section, entries are taken in the list's own order,
 8–12 per batch. The batches are queued in [open work](open.md).
+
+## Interim note: 2026-10-09 (after "Decision theory" batch 2)
+
+List of paradoxes "Decision theory": 18 → 28 of 28 (complete); list overall
+73 → 83 of 294. Problems held: 100.
 
 ## Interim note: 2026-10-08 (after "Decision theory" batch 1)
 

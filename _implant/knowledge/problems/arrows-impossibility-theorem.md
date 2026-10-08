@@ -4,7 +4,7 @@ about: concept
 title: "Arrow's impossibility theorem (Arrow's paradox)"
 description: "Is there any procedure that turns every possible combination of individual preference orderings over three or more alternatives into a social ordering while respecting unanimity, independence of irrelevant alternatives and non-dictatorship? Arrow's 1950/1951 theorem says no; the page sets out the conditions in the sources' wording and the responses on record side by side — Riker's reading against Mackie's, domain restriction after Black's single-peakedness, Sen's cardinal and interpersonally comparable information, grading — with their owners."
 tags: [problem, paradox, decision-theory, social-choice-theory, political-philosophy, welfare-economics]
-timestamp: 2026-10-08T20:29:06Z
+timestamp: 2026-10-08T21:37:56Z
 ---
 
 # Arrow's impossibility theorem (Arrow's paradox)
@@ -139,5 +139,5 @@ Left out: Borda counting (Morreau §5.2), judgment aggregation (Morreau §6), an
 - [Validity](../vocabulary/validity.md) — the logic check of the cycle.
 - Social welfare function, profile, weak ordering, single-peakedness, interpersonal comparability — open work in [vocabulary](../vocabulary/index.md).
 
-Related problems: [the liberal paradox](liberal-paradox.md) (Sen 1970a;
+Related problems: [no-show paradox](no-show-paradox.md) (Brandt, Geist & Peters §1), [voting paradox](voting-paradox.md) (Arrow 1950, p. 329; Morreau §1), [paradox of voting (Downs)](paradox-of-voting.md) (same name, a different problem), [the liberal paradox](liberal-paradox.md) (Sen 1970a;
 List §3.4; Morreau §4.3). Branch: [Problems](./index.md).

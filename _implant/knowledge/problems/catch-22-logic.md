@@ -4,7 +4,7 @@ about: concept
 title: Catch-22 (as a logical situation)
 description: "Heller's catch in Catch-22 (1961) — anyone who asks to be grounded for insanity shows he is sane, so nobody is grounded — read as a logical structure: Wikipedia's propositional formalisation, Goldstein's (2004) diagnosis of it as a vacuous biconditional of the form p if and only if not-p, its grouping with the barber, Russell's paradox and Protagoras and Euathlus, and the relation to Bateson's double bind. Philosophical literature on it found here is thin."
 tags: [problem, paradox, logic, self-reference, contradiction]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-08T21:37:56Z
 ---
 
 # Catch-22 (as a logical situation)
@@ -128,3 +128,5 @@ PhilPapers PDF did not download); they are left out until a source is read.
 - [Oxymoron](../vocabulary/oxymoron.md) — Goldstein's description.
 - [Classical logic](../methods/classical-logic.md) — the two-valued reading the checks use.
 - *Biconditional*, *vacuous biconditional* (Goldstein), *contradiction*, *double bind*, *self-reference* — open work in [vocabulary](../vocabulary/index.md).
+
+Related problems: [Morton's fork](mortons-fork.md) (Wikipedia "See also" both ways).

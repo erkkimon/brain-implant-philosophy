@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-08T20:29:06Z
+timestamp: 2026-10-08T21:37:56Z
 ---
 
 # Open
@@ -52,11 +52,6 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
-- [ ] List of paradoxes (pinned 1376699902), "Decision theory", batch 2
-      in list order: Morton's fork, motivation crowding theory, navigation
-      paradox, no-show paradox, paradox of voting (Downs), Parrondo's
-      paradox, preparedness paradox, prevention paradox, voting paradox
-      (Condorcet), willpower paradox
 - [ ] Outline of ethics (pinned 1369745706), "Concepts" (49 entries, 2
       matched): single principles, rights and legal concepts, guidelines and
       basic concepts, human experience, practical ethics, in list order

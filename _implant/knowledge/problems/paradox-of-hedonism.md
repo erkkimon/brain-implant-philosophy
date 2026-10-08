@@ -4,7 +4,7 @@ about: concept
 title: The paradox of hedonism
 description: "Does aiming at one's own pleasure defeat itself? Butler's Sermon XI (1726), Sidgwick's 'fundamental paradox of Hedonism' (Methods of Ethics I.iv.2, II.iii.2), Mill's Autobiography ch. 5, the SEP entries of Moore and Crisp, and Dietz's 2021 argument from the paradox against hedonism about well-being, with the replies on record and their owners."
 tags: [problem, paradox, ethics, well-being, hedonism]
-timestamp: 2026-10-02T07:52:32Z
+timestamp: 2026-10-08T21:37:56Z
 ---
 
 # The paradox of hedonism
@@ -121,3 +121,5 @@ until a source is read.
 - *Hedonism* (psychological, axiological, egoistic), *self-love*, *intrinsic desire*, *welfarism* — open work in [vocabulary](../vocabulary/index.md).
 
 Related thinkers: [Mill](../thinkers/mill.md), [Sidgwick](../thinkers/sidgwick.md), [Aristippus and the Cyrenaics](../thinkers/aristippus.md), [Epicurus](../thinkers/epicurus.md) (Martínez & Labiano 2022).
+
+Related problems: [willpower paradox](willpower-paradox.md) (Wikipedia "See also").

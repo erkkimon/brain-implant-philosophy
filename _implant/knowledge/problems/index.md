@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: 2026-10-08T20:29:06Z
+timestamp: 2026-10-08T21:37:56Z
 ---
 
 # <title>
@@ -149,4 +149,14 @@ Paradoxes:
 * [Hedgehog's dilemma](hedgehogs-dilemma.md) — Schopenhauer's porcupines (Parerga II §396, 1851); Freud's 1921 reading; Maner et al. 2007 beside the Gerber & Wheeler 2009 meta-analysis.
 * [Inventor's paradox](inventors-paradox.md) — Pólya 1945: "The more ambitious plan may have more chances of success"; strengthening the induction hypothesis (Manber 1988).
 * [Kavka's toxin puzzle](kavkas-toxin-puzzle.md) — Kavka 1983: can one intend to drink a non-deadly toxin when the intention alone is rewarded? Gauthier, Bratman, McClennen, Mele side by side.
+* [Morton's fork](mortons-fork.md) — a demand whose two horns end in the same conclusion; Bacon's 1622 report of Morton's "tradition", the Erasmus/More story of Fox (Fowler 1889, Pollard 1911); "false dilemma" per the List of paradoxes.
+* [Motivation crowding theory](motivation-crowding-theory.md) — can incentives produce less of a behaviour? Titmuss on blood, Deci, Frey's crowding-out, the Haifa day-care fine; Cameron & Pierce vs Deci, Koestner & Ryan.
+* [Navigation paradox](navigation-paradox.md) — can more precise navigation raise collision risk? Reich's term per Machol, Paielli 2000's simulation, Patlovany 1997, ICAO's strategic lateral offset.
+* [No-show paradox](no-show-paradox.md) — voting can make one's candidate lose: Fishburn & Brams 1983, Moulin 1988's theorem for Condorcet-consistent methods, later results (Brandt, Geist & Peters; Pacuit).
+* [Paradox of voting (Downs)](paradox-of-voting.md) — why vote when the cost exceeds the expected benefit? Downs 1957, Riker & Ordeshook's D term, Ferejohn & Fiorina, Green & Shapiro's critique, Edlin, Gelman & Kaplan.
+* [Parrondo's paradox](parrondos-paradox.md) — two losing games combine into a winning one (Harmer & Abbott 1999); ratchet origin, convexity and dependence explanations; the dispute over the name.
+* [Preparedness paradox](preparedness-paradox.md) — preparation that works makes the threat look overstated; Y2K and pandemic uses with named sources; sources are thin.
+* [Prevention paradox](prevention-paradox.md) — Rose 1981/1985: a measure with much benefit to the population offers little to each individual; high-risk vs population strategy; Kreitman, lay epidemiology, the inequalities challenge.
+* [Voting paradox (Condorcet's paradox)](voting-paradox.md) — Condorcet 1785: majority preferences can cycle; Black's single-peakedness; Riker vs Mackie on how often cycles occur; probability results.
+* [Willpower paradox](willpower-paradox.md) — Senay, Albarracín & Noguchi 2010: asking "Will I?" outperformed "I will"; replication record and other senses of the name (Goschke & Job) side by side.
 
