@@ -4,7 +4,7 @@ about: person
 title: Arthur Schopenhauer
 description: "Arthur Schopenhauer (1788–1860), German philosopher after Kant: The World as Will and Representation (1818/1819; vol. II 1844), compassion (Mitleid) as the basis of morality and the critique of Kant's ethics in On the Basis of Morality (1840), pessimism, the denial of the will to live, Indian sources as reported, and his reception by Nietzsche and Wittgenstein."
 tags: [thinker, german-philosophy, ethics, pessimism, nineteenth-century, schopenhauer]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # Arthur Schopenhauer
@@ -99,3 +99,5 @@ Assessments below are their authors'; none is the implant's.
 - *Principium individuationis*: space and time as what makes many individuals; a separate sense on the [individuation](../vocabulary/individuation.md) page.
 - *Denial of the will to live*: his name for ascetic renunciation (WWR I §§66–71); "will to life" in Shapshay and Anderson.
 - *Pessimism*: the label others apply (Shapshay's definition above); Wicks (preamble) reports it as how he is "Often considered".
+
+Related problems: [hedgehog's dilemma](../problems/hedgehogs-dilemma.md) (*Parerga and Paralipomena* II §396).

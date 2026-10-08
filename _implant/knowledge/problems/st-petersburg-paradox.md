@@ -4,7 +4,7 @@ about: concept
 title: "The St Petersburg paradox"
 description: "A fair coin is tossed until it lands heads and the prize doubles with every toss, so the expected payoff is infinite, yet few would pay much to play: Nicolaus Bernoulli's 1713 problem, Cramer's 1728 and Daniel Bernoulli's 1738 utility answers, Menger's restoration, and the later responses — bounded utility, unrealistic assumptions, negligible probabilities, relative expectations — with the Pasadena game as sequel, each with its owner."
 tags: [problem, paradox, decision-theory, probability, rationality]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # The St Petersburg paradox
@@ -173,3 +173,5 @@ Responses as Peterson reports them (§7): Easwaran's (2008) weak expectation, on
 - *Expected value, expected utility, marginal utility, bounded utility,
   continuity axiom, dominance, conditionally convergent series* — open work
   in [vocabulary](../vocabulary/index.md).
+
+Related problems: [Ellsberg paradox](ellsberg-paradox.md) (Briggs §3.2).

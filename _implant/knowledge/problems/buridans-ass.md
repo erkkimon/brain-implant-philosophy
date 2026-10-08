@@ -4,7 +4,7 @@ about: concept
 title: "Buridan's ass"
 description: "An animal (or agent) equally drawn to two equidistant, equal goods has no reason to take one rather than the other — does it starve, choose by an indifferent will, use a lot, or is the case impossible? From Aristotle's hungry man and al-Ghazali's two dates through Spinoza, Bayle and Leibniz to Lamport's 'Buridan's Principle' and picking vs. choosing; the example is not found in Buridan's writings."
 tags: [problem, dilemma, ethics, metaphysics, free-will, decision-theory]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # Buridan's ass
@@ -170,5 +170,5 @@ Problem of 'Buridan's Ass'", *Kant-Studien* 51 (1960): 142–175,
   sufficient reason, picking — open work in
   [vocabulary](../vocabulary/index.md).
 
-Related problems: [Buridan's bridge](buridans-bridge.md) (not this problem: a sophism about a vow), [Can there be genuine moral dilemmas?](moral-dilemmas.md),
+Related problems: [Fredkin's paradox](fredkins-paradox.md) (Burkeman 2018), [Buridan's bridge](buridans-bridge.md) (not this problem: a sophism about a vow), [Can there be genuine moral dilemmas?](moral-dilemmas.md),
 [the prisoner's dilemma](prisoners-dilemma.md). Branch: [Problems](./index.md).

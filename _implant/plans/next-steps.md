@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -33,8 +33,8 @@ the new day's journal, and fix the links to it (grep for its file name).
    [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
-3. Take the item marked **NEXT** in section 2 (Outline of ethics, Decision theory and
-   Concepts, item 14, as of 2026-10-08).
+3. Take the item marked **NEXT** in section 2 (List of paradoxes "Decision theory"
+   batch 2, item 14, as of 2026-10-08).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
    against `raw/`, links, template headings, rerun every `logic.py` claim,
@@ -49,9 +49,9 @@ the new day's journal, and fix the links to it (grep for its file name).
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-10-02): problems 78, positions 9,
+- **Pages per `knowledge/` branch** (2026-10-02): problems 90, positions 9,
   arguments 6, thinkers 52, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 786 excerpt files.
+  vocabulary 16, methods 3. `raw/` holds 847 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -138,9 +138,13 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
 13. ~~**Thinkers for the paradox pages**~~ — done 2026-10-08:
     [Zeno of Elea](../knowledge/thinkers/zeno-of-elea.md),
     [Russell](../knowledge/thinkers/russell.md), [Nozick](../knowledge/thinkers/nozick.md).
-14. **Outline of ethics, "Decision theory" and "Concepts" — NEXT:** recount
-    against the pinned revision 1369745706 first, then batch the missing
-    entries. Exact lists are in [todo/open.md](../todo/open.md).
+14. **List of paradoxes "Decision theory" — NEXT:** batch 1 (12 pages,
+    Abilene … Kavka) done 2026-10-08. Next: batch 2, the remaining 10, in
+    list order (the "Decision theory" section is in the List of paradoxes,
+    not the Outline of ethics).
+15. **Outline of ethics "Concepts":** 49 entries, 2 matched; in list order,
+    about 10 per batch; many are concepts, so check vocabulary/ and
+    positions/ templates before choosing a page type. Exact lists are in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
    2026-09-27: the live results pages loaded (the 2026-09-26 bot challenge
    did not recur); question ids found by scanning result pages 4910–5010

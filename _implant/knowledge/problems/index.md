@@ -17,7 +17,7 @@ about: concept
 title: <the problem, as a question where possible>
 description: "<one sentence: what is being asked, and what turns on it>"
 tags: [problem, <field: epistemology|metaphysics|ethics|…>]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # <title>
@@ -137,3 +137,16 @@ Paradoxes:
 * [Yablo's paradox](yablos-paradox.md) — Yablo 1993: an infinite sequence of sentences each saying all later ones are untrue; is it self-referential? Priest, Sorensen, Beall, Cook.
 * [Opposite Day](opposite-day.md) — the children's game and "Today is Opposite Day"; how Wikipedia's list files it; no philosophical literature found.
 * [Richard's paradox](richards-paradox.md) — Richard 1905: diagonalising over definable reals; Peano, Poincaré, Russell 1908, Ramsey, Gödel's footnote.
+* [Abilene paradox](abilene-paradox.md) — Harvey 1974: a family drives to Abilene though no one wanted to; mismanaged agreement, action anxiety; Kim's contrast with groupthink; Harvey's "cannot prove scientifically".
+* [Apportionment paradox](apportionment-paradox.md) — the Alabama, new states and population paradoxes: Hamilton's method and the 1880/1900/1907 cases; Balinski & Young's theorem on quota and population monotonicity.
+* [Arrow's impossibility theorem](arrows-impossibility-theorem.md) — Arrow 1950/1951: no social welfare function meets all five conditions; Riker vs. Mackie, Black's single-peakedness, Sen's interpersonal comparability, grading.
+* [Chainstore paradox](chainstore-paradox.md) — Selten 1978: backward induction against deterrence; limited rationality, the reputation models of Kreps & Wilson and Milgrom & Roberts (1982).
+* [Decision-making paradox](decision-making-paradox.md) — choosing the best multi-criteria method is itself a multi-criteria decision (Triantaphyllou & Mann 1989); AHP rank reversal, Belton & Gear, Saaty and Dyer side by side.
+* [Ellsberg paradox](ellsberg-paradox.md) — Ellsberg 1961: ambiguity aversion against Savage's sure-thing principle; maxmin and Choquet models, Al-Najjar & Weinstein's critique and Siniscalchi's reply.
+* [Fenno's paradox](fennos-paradox.md) — Fenno 1975/1978: low approval of Congress beside approval of one's own member; the explanations offered by named researchers, side by side.
+* [Fredkin's paradox](fredkins-paradox.md) — the more equally attractive two options seem, the harder the choice though it matters less (Minsky 1986, crediting Fredkin); replies.
+* [Green paradox](green-paradox.md) — Sinn 2008: can tightening climate policy make fossil-fuel owners extract faster now? Weak and strong versions; the work its authors say qualifies it.
+* [Hedgehog's dilemma](hedgehogs-dilemma.md) — Schopenhauer's porcupines (Parerga II §396, 1851); Freud's 1921 reading; Maner et al. 2007 beside the Gerber & Wheeler 2009 meta-analysis.
+* [Inventor's paradox](inventors-paradox.md) — Pólya 1945: "The more ambitious plan may have more chances of success"; strengthening the induction hypothesis (Manber 1988).
+* [Kavka's toxin puzzle](kavkas-toxin-puzzle.md) — Kavka 1983: can one intend to drink a non-deadly toxin when the intention alone is rewarded? Gauthier, Bratman, McClennen, Mele side by side.
+

@@ -4,7 +4,7 @@ about: concept
 title: "The prisoner's dilemma"
 description: "Two players each do better by defecting whatever the other does, yet both do worse if both defect than if both cooperate — Flood and Dresher's 1950 RAND game, Tucker's prison story; what rationality requires in the one-shot, replica and iterated games (dominance, cooperation with a twin, Gauthier's constrained maximization, team reasoning, Axelrod's Tit for Tat), and the game as a reading of Hobbes's state of nature."
 tags: [problem, dilemma, ethics, decision-theory, game-theory, political-philosophy]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # The prisoner's dilemma
@@ -164,7 +164,7 @@ Ross: "in experiments in which subjects play sequences of one-shot PDs (not repe
 - Dominance, Nash equilibrium, Pareto optimality, backward induction,
   subgame perfection — open work in [vocabulary](../vocabulary/index.md).
 
-Related problems: [Newcomb's problem](newcombs-problem.md),
+Related problems: [chainstore paradox](chainstore-paradox.md) (Selten 1978; Kreps & Wilson 1982), [Kavka's toxin puzzle](kavkas-toxin-puzzle.md) (Mintoff 1996), [Newcomb's problem](newcombs-problem.md),
 [Can there be genuine moral dilemmas?](moral-dilemmas.md),
 [the St Petersburg paradox](st-petersburg-paradox.md) (decision theory).
 Branch: [Problems](./index.md).

@@ -4,7 +4,7 @@ about: concept
 title: "Newcomb's problem: one box or two?"
 description: "A reliable predictor has filled an opaque box with a million dollars only if it predicted you would take that box alone; a transparent box holds a thousand. Dominance says take both, conditional expected utility says take one — the case, from William Newcomb via Nozick (1969), that split causal from evidential decision theory."
 tags: [problem, paradox, decision-theory, rationality]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-08T20:29:06Z
 ---
 
 # Newcomb's problem
@@ -179,7 +179,7 @@ is fetched.
   evidential decision theory, ratification, screening off — open work in
   [vocabulary](../vocabulary/index.md).
 
-Related problems: [the argument from free will](argument-from-free-will.md) (foreknowledge), [the sorites paradox](sorites-paradox.md),
+Related problems: [Ellsberg paradox](ellsberg-paradox.md) (Briggs §§1.1, 3.2.2), [the argument from free will](argument-from-free-will.md) (foreknowledge), [the sorites paradox](sorites-paradox.md),
 [the liar paradox](liar-paradox.md),
 [the surprise examination paradox](surprise-examination-paradox.md) (also
 about prediction). Branch: [Problems](./index.md).
