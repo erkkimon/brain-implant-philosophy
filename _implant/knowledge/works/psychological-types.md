@@ -4,7 +4,7 @@ about: thing
 title: Psychological Types (Psychologische Typen)
 description: "C. G. Jung's 1921 book (Collected Works vol. 6): the introverted and extraverted attitudes, the four functions, chapters on the type problem in classical and medieval thought, Schiller, Nietzsche and William James, and a chapter of definitions; cited here for what Jung wrote and for the Myers-Briggs reception, as named authors report it."
 tags: [work, western, modern, jung, analytical-psychology, typology]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Psychological Types
@@ -166,3 +166,5 @@ Thompson, 2009)." Barbuto (1997), while criticising the MBTI, "considers a recon
 measure of Jung's psychological types" (abstract, as above). Structural note (G4): both sides here
 concern the MBTI as an instrument; no read source assesses Jung's philosophical chapters, so that
 reception is (none recorded).
+
+Related thinkers: [William James](../thinkers/william-james.md) (ch. VIII).

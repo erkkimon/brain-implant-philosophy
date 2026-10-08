@@ -4,7 +4,7 @@ about: person
 title: Augustine of Hippo
 description: "Augustine of Hippo (354–430), Latin Christian bishop and philosopher in Roman Africa: evil as privation of good, will and grace, foreknowledge and free choice, the definition and prohibition of lying (De mendacio), and the just war; Confessions, City of God, On Free Choice of the Will."
 tags: [thinker, christian-philosophy, late-antiquity, platonism, ethics, augustine]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Augustine of Hippo
@@ -141,3 +141,5 @@ Assessments, each its author's:
   use; free choice is *liberum arbitrium*.
 - **Privatio boni** — the term Jung uses for the doctrine
   ([Answer to Job](../works/answer-to-job.md)).
+
+Related thinkers: [Kant](kant.md) (Mahon §2.3).

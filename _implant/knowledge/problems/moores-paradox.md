@@ -4,7 +4,7 @@ about: concept
 title: "Moore's paradox"
 description: "Why is it absurd to assert 'p, but I don't believe that p' (omissive) or 'I believe that p, but not-p' (commissive), when either may be true? Moore's 1942/1944 sentences, Wittgenstein's PI II.x and letter, and the responses on record (Moore's implication, self-representation, the knowledge norm, Wittgensteinian expressivism, Shoemaker's belief-first account, Hintikka's doxastic logic, Sorensen's blindspots, Smithies' asymmetry) with their owners."
 tags: [problem, paradox, epistemology, philosophy-of-language]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Moore's paradox
@@ -119,3 +119,5 @@ until a source is read.
 - *Assertion*, *omissive/commissive*, *blindspot*, *doxastic logic*, *self-intimation* — open work in [vocabulary](../vocabulary/index.md).
 
 Related problems: [the paradox of analysis](paradox-of-analysis.md) (a different Moore problem, from the same 1942 volume).
+
+Related thinkers: [G. E. Moore](../thinkers/g-e-moore.md).

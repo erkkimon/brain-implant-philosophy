@@ -4,7 +4,7 @@ about: person
 title: Friedrich Nietzsche
 description: "Friedrich Nietzsche (1844–1900), German philosopher and classical philologist: the critique of morality, master and slave morality and ressentiment (Beyond Good and Evil 1886, Genealogy 1887), 'God is dead' (Gay Science §125), eternal recurrence (§341), Elisabeth's Will to Power and the Nachlass, and the naturalist, Kaufmann and other readings side by side."
 tags: [thinker, german-philosophy, nineteenth-century, ethics, metaethics, nihilism, nietzsche]
-timestamp: 2026-10-02T07:52:32Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Friedrich Nietzsche
@@ -86,9 +86,9 @@ On how to weigh the Nachlass, Wicks (§6) lists four attitudes: "One popular app
 
 ## In dialogue with
 
-- **Schopenhauer** — read in his student years (Anderson §1, quoted above); on Reginster's reading the will to power answers Schopenhauer's pessimism: "In addition, the interpretation locates Nietzsche’s view directly athwart Schopenhauer’s efforts to motivate pessimism by appeal to a ubiquitous “will to life”." (Anderson §3.2). *The Birth of Tragedy* §1 quotes Schopenhauer's *principium individuationis* (excerpt above).
-- **Kant** — Leiter (§1.1): "Because Nietzsche’s two most common — and closely related — specific targets are, however, Christian and Kantian morality, the critique of the descriptive component of MPS figures prominently in Nietzsche’s writing,"
-- **Hume** — Leiter (§3.3): "Nietzsche is part of a tradition of moral anti-realists (and moral relativists) who are also sentimentalists, like Hume and, in the German tradition, Herder (see Forster 2017)"
+- **[Schopenhauer](schopenhauer.md)** — read in his student years (Anderson §1, quoted above); on Reginster's reading the will to power answers Schopenhauer's pessimism: "In addition, the interpretation locates Nietzsche’s view directly athwart Schopenhauer’s efforts to motivate pessimism by appeal to a ubiquitous “will to life”." (Anderson §3.2). *The Birth of Tragedy* §1 quotes Schopenhauer's *principium individuationis* (excerpt above).
+- **[Kant](kant.md)** — Leiter (§1.1): "Because Nietzsche’s two most common — and closely related — specific targets are, however, Christian and Kantian morality, the critique of the descriptive component of MPS figures prominently in Nietzsche’s writing,"
+- **[Hume](hume.md)** — Leiter (§3.3): "Nietzsche is part of a tradition of moral anti-realists (and moral relativists) who are also sentimentalists, like Hume and, in the German tradition, Herder (see Forster 2017)"
 - **[Plato](plato.md)** (Callicles in the *Gorgias*) — Leiter (§3.1): "This follows from what we may call Nietzsche’s ‘Callicleanism,’ after Plato’s Callicles in the Gorgias."
 - **[Jesus of Nazareth](jesus.md)** — *The Antichrist* §39 (Mencken tr.): "The very word "Christianity" is a misunderstanding--at bottom there was only one Christian, and he died on the cross." (`raw/kierkegaard-nietzsche-on-jesus-sep-lippitt-evans-leiter-antichrist-mencken.md`).
 - **[Augustine](augustine.md)** — Tornau (SEP "Augustine" §11) reports of Nietzsche "even, in the case of Nietzsche, outright contempt." (`raw/sep-augustine-fall-2024-tornau-life-works-evil-will-war-legacy.md`).

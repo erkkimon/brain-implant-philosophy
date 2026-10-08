@@ -4,7 +4,7 @@ about: person
 title: Epicurus
 description: "Epicurus (341–270 BCE), Athenian founder of the Garden school: pleasure as the end, defined as absence of bodily pain and mental disturbance (aponia, ataraxia), katastematic vs kinetic pleasure, 'death is nothing to us' and Lucretius' symmetry argument, justice as compact, and the problem-of-evil argument Lactantius attributes to him."
 tags: [thinker, ancient-greek, hellenistic, epicureanism, hedonism, death, epicurus]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Epicurus
@@ -100,3 +100,5 @@ Assessments, each with its owner, listed in parallel and unranked.
 - *Pleasure* (*hēdonē*) — in Epicurus' definition, "the absence of pain in the body and of trouble in the soul" (LM X.131); Konstan: "not simply a neutral or privative condition but rather a form of pleasure in its own right" (§4); the Cyrenaics deny that this condition is pleasure (DL II.89).
 - *Preconception* (*prolēpsis*) — see [Meno's paradox](../problems/menos-paradox.md).
 - *Dilemma* — the X.125 death argument and the attributed problem-of-evil argument are dilemmas in the sense of [dilemma](../vocabulary/dilemma.md).
+
+Related thinkers: [Hume](hume.md).

@@ -4,7 +4,7 @@ about: concept
 title: "The paradox of analysis"
 description: "How can an analysis be both correct and informative? Langford's 1942 dilemma (same meaning, trivial; different meaning, incorrect), Moore's 1942 reply and avowal of no clear solution, Frege's 1894 statement and the sense/reference response, Carnap's intensional structure, Black and White, the content/vehicle proposals and the metaethical use against Moore's open-question argument — each with its owner."
 tags: [problem, paradox, philosophy-of-language, metaphilosophy, logic]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # The paradox of analysis
@@ -121,3 +121,5 @@ out until a source is read.
 - [Dilemma](../vocabulary/dilemma.md) — the paradox's two-horned form.
 - [Validity](../vocabulary/validity.md) and [Classical logic](../methods/classical-logic.md) — the propositional check above.
 - *Analysandum*, *analysans* (Langford 1942, p. 323), *sense/reference (Sinn/Bedeutung)*, *intension*, *intensional isomorphism*, *L-equivalence* (Carnap 1947) — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [G. E. Moore](../thinkers/g-e-moore.md).

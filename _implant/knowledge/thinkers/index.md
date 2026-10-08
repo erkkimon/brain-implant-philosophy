@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: 2026-10-02T07:52:32Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # <name>
@@ -91,4 +91,14 @@ From the Outline of ethics, "Persons influential in the field of ethics" (pinned
 * [Spinoza](spinoza.md) — the Ethics: God or Nature, conatus, bondage to the passions, the free man; egoist and non-egoist readings.* [John Stuart Mill](mill.md) — Utilitarianism (higher pleasures, the proof), On Liberty (harm principle), The Subjection of Women; Moore's charge and the defences (Macleod, Brink).
 * [Henry Sidgwick](sidgwick.md) — The Methods of Ethics: the three methods, "the point of view of the Universe", the dualism of practical reason, esoteric morality; reception.
 * [Friedrich Nietzsche](nietzsche.md) — master and slave morality, ressentiment, "God is dead", eternal recurrence; Elisabeth and the Nachlass; naturalist and other readings (Leiter, Anderson, Kaufmann).
+* [David Hume](hume.md) — the Treatise and Enquiries: induction, reason the slave of the passions, is and ought, sentimentalism; the Dialogues; readings of his religious views.
+* [Immanuel Kant](kant.md) — the Groundwork: good will, the formulas of the categorical imperative, autonomy; the supposed right to lie; constructivist and realist readings; critics.
+* [Jeremy Bentham](bentham.md) — the Introduction to the Principles of Morals and Legislation: the two sovereign masters, the felicific calculus, "Can they suffer?"; the Panopticon; reception.
+* [G. W. F. Hegel](hegel.md) — Sittlichkeit vs Moralität, the formalism charge against Kant (PR §135), recognition and the master–slave passage; metaphysical and non-metaphysical readings.
+* [Arthur Schopenhauer](schopenhauer.md) — compassion as the basis of morality, the critique of Kant's ethics, pessimism, denial of the will; Indian influences as reported; reception.
+* [Søren Kierkegaard](kierkegaard.md) — pseudonymity, the aesthetic and the ethical, the teleological suspension of the ethical in Fear and Trembling; divine-command readings (Evans).
+* [William James](william-james.md) — The Moral Philosopher and the Moral Life (the lost soul), The Will to Believe, Pragmatism, the Varieties; Russell's objection.
+* [John Dewey](dewey.md) — moral inquiry as experimental, the means–ends continuum, Human Nature and Conduct, Theory of Valuation; reception.
+* [M. K. Gandhi](gandhi.md) — satyagraha, ahimsa and swaraj in Hind Swaraj and the Autobiography; absolute nonviolence (Fiala); critics and receptions side by side.
+* [G. E. Moore](g-e-moore.md) — Principia Ethica: the open-question argument, what Moore named "the naturalistic fallacy", ideal utilitarianism, organic unities; common sense and Moore's paradox; Frankena.
 

@@ -4,7 +4,7 @@ about: concept
 title: Panpsychism
 description: "The position that mentality is fundamental and ubiquitous in the natural world — Goff's simplicity argument, Strawson's 'real physicalism entails panpsychism', Leibniz's Monadology as ancestor, the combination problem as main objection, and the 7.55% survey figure."
 tags: [position, philosophy-of-mind, consciousness, panpsychism]
-timestamp: 2026-09-25T23:55:00Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Panpsychism
@@ -99,3 +99,5 @@ in SEP but not in the excerpts held). Survey: 7.55 %.
 
 *Panpsychism*, *micropsychism*, *combination problem*, *NE thesis*. Open
 work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [William James](../thinkers/william-james.md).

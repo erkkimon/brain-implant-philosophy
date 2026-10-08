@@ -4,7 +4,7 @@ about: person
 title: G. E. M. Anscombe
 description: "Anscombe (1919–2001), Catholic philosopher at Oxford and Cambridge: 'Modern Moral Philosophy' (1958) and the coinage of 'consequentialism', the intended/foreseen distinction and double effect ('Mr Truman's Degree', 'War and Murder'), Intention (1957), just war against pacifism."
 tags: [thinker, ethics, action-theory, twentieth-century, anscombe]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # G. E. M. Anscombe
@@ -146,3 +146,5 @@ Every assessment below belongs to the author named.
   No vocabulary entry yet ([vocabulary](../vocabulary/index.md)).
 - *Moral "ought".* The sense MMP's second thesis would jettison (PDF p. 1).
 - *Murder.* "choosing to kill the innocent as a means to your ends" (MTD, 66, via SEP §2).
+
+Related thinkers: [Hume](hume.md), [Bentham](bentham.md) (Wiland & Driver).

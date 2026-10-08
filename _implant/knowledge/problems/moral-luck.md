@@ -4,7 +4,7 @@ about: concept
 title: "Moral luck"
 description: "Can an agent be rightly judged for what depends on factors beyond their control? Kant's good will 'like a jewel', the Control Principle, Williams's Gauguin and lorry driver and Nagel's four kinds (resultant, circumstantial, constitutive, causal) from the 1976 symposium; denial (epistemic argument, Richards, Zimmerman's scope and degree), acceptance (Walker, Adams, Moore, Otsuka, Hartman), Rescher's incoherence reply, and two experimental studies."
 tags: [problem, ethics, responsibility, free-will]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Moral luck
@@ -172,4 +172,4 @@ No survey of philosophers' views on moral luck is recorded in the sources read.
   circumstantial / constitutive / causal luck — open work in [vocabulary](../vocabulary/index.md).
   Branch: [Problems](./index.md).
 
-Related thinkers: [Aristotle](../thinkers/aristotle.md) (Nelkin SEP §4.1.2).
+Related thinkers: [Kant](../thinkers/kant.md) (Groundwork 4:394), [Aristotle](../thinkers/aristotle.md) (Nelkin SEP §4.1.2).

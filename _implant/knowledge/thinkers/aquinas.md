@@ -4,7 +4,7 @@ about: person
 title: Thomas Aquinas
 description: "Thomas Aquinas (ca. 1225–1274), Dominican friar and scholastic theologian-philosopher: natural law (ST I-II q. 94), the three conditions of a just war (II-II q. 40), the self-defence article later read as the source of double effect (II-II q. 64 a. 7), omnipotence as power over the possible (I q. 25 a. 3), and the dispute between Finnis's school and its critics over how to read him."
 tags: [thinker, scholasticism, medieval, ethics, natural-law, just-war, double-effect, aquinas]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Thomas Aquinas
@@ -96,3 +96,5 @@ unranked.
 - *Praeter intentionem* ("beside the intention") — Finnis, SEP §3.4.1; the Dominican translation's "beside the intention" (II-II q. 64 a. 7). See [double-effect conditions](../arguments/double-effect-conditions.md).
 - *Omnipotent* — "possible absolutely", i.e. not implying contradiction (I q. 25 a. 3), narrower than the unrestricted sense Hoffman and Rosenkrantz attribute to Descartes. No vocabulary entry yet.
 - *Synderesis* — the intellect's power of grasping the first practical principles (Pasnau, SEP §8.2, citing *ST* 1a 79.12). No vocabulary entry yet.
+
+Related thinkers: [Kant](kant.md) (Coady §3, Mahon §2.3).

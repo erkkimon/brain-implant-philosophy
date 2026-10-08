@@ -4,7 +4,7 @@ about: person
 title: Carl Gustav Jung
 description: "Swiss psychiatrist (1875–1961), founder of analytical psychology; a hub reporting who reads him as a philosopher and who denies it, and his claims on the unconscious, religion, typology, synchronicity and the self, each attributed."
 tags: [thinker, analytical-psychology, modern, jung, philosophy-of-mind, philosophy-of-religion]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Carl Gustav Jung
@@ -116,3 +116,5 @@ source settles it, and this page does not.
 - *Synchronicity* — Jung's acausal principle, never used here as a description of an event: [synchronicity](../vocabulary/synchronicity.md).
 - *Individuation* — Jung's developmental process: [individuation](../vocabulary/individuation.md).
 - *Psychological truth* — Jung's sense: an idea is "psychologically true in as much as it exists" (1938, p. 3); it is not truth in this implant's normative sense, and pages using it name Jung as owner.
+
+Related thinkers: [Schopenhauer](schopenhauer.md), [Hegel](hegel.md) (Fordham), [William James](william-james.md) (*Psychological Types* ch. VIII).

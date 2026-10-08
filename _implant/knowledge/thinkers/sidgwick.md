@@ -4,7 +4,7 @@ about: person
 title: Henry Sidgwick
 description: "Henry Sidgwick (1838–1900), Cambridge moral philosopher in the utilitarian tradition: The Methods of Ethics (1874; 7th ed. 1907), its three methods (egoism, intuitionism, utilitarianism), the dualism of practical reason, 'the point of view of the Universe', the paradox of hedonism and esoteric morality."
 tags: [thinker, utilitarianism, ethics, nineteenth-century, victorian, sidgwick]
-timestamp: 2026-10-02T07:52:32Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # Henry Sidgwick
@@ -69,8 +69,8 @@ as Schultz (§1) gives them.
 
 ## In dialogue with
 
-- **[John Stuart Mill](mill.md)** and **Immanuel Kant** (earlier). In lecture notes printed in the Preface to the Sixth Edition: "My first adhesion to a definite Ethical system was to the Utilitarianism of Mill:" and "The rationality of self-regard seemed to me as undeniable as the rationality of self-sacrifice. I could not give up this conviction, though neither of my masters, neither Kant nor Mill, seemed willing to admit it:" Schultz (§2.1): "Sidgwick himself allowed that Kant was one of his “masters”, and he was also quite familiar with the works of Hegel."
-- **Jeremy Bentham** (earlier). Schultz (preamble) places the *Methods* at "the culmination of the classical utilitarian tradition—the tradition of Jeremy Bentham and James and John Stuart Mill—" (full sentence in the raw file).
+- **[John Stuart Mill](mill.md)** and **[Immanuel Kant](kant.md)** (earlier). In lecture notes printed in the Preface to the Sixth Edition: "My first adhesion to a definite Ethical system was to the Utilitarianism of Mill:" and "The rationality of self-regard seemed to me as undeniable as the rationality of self-sacrifice. I could not give up this conviction, though neither of my masters, neither Kant nor Mill, seemed willing to admit it:" Schultz (§2.1): "Sidgwick himself allowed that Kant was one of his “masters”, and he was also quite familiar with the works of Hegel."
+- **[Jeremy Bentham](bentham.md)** (earlier). Schultz (preamble) places the *Methods* at "the culmination of the classical utilitarian tradition—the tradition of Jeremy Bentham and James and John Stuart Mill—" (full sentence in the raw file).
 - **Joseph Butler** (earlier). "Schneewind’s reading (1977) has stressed this influence, along with the influence of Joseph Butler, whose works persuaded Sidgwick of the falsity of psychological egoism and of the reality of other than self-interested actions (Frankena 1992)." (Schultz §2.1). Sidgwick's own account of Butler is quoted above; on the paradox of hedonism he writes: "Butler has certainly over-stated his case, so far as my own experience goes;" (I.iv.2; see the problem page).
 - **G. E. Moore** (student). Schultz (§2.1): "his student G. E. Moore was willing to declare the Methods untainted by the “naturalistic fallacy”". On the dualism (§3): "Moore (1903) famously dismissed the problem on the grounds that the notion of one’s “own good” was nonsense, but Mackie (1976) sharply countered that Moore was begging the question."
 - **[G. E. M. Anscombe](anscombe.md)** (later). "Modern Moral Philosophy" (1958): "The denial of any distinction between foreseen and intended consequences, as far as responsibility is concerned, was not made by Sidgwick in developing any one "method of ethics"; he made this important move on behalf of everybody and just on its own account;" (`raw/anscombe-1958-modern-moral-philosophy.md`, PDF p. 10).
@@ -104,3 +104,5 @@ Assessments below are their authors'; none is the implant's.
 - *Dualism of the Practical Reason*: his name for the unresolved conflict of rational egoism and utilitarianism (Preface to the Second Edition); no vocabulary page yet ([vocabulary](../vocabulary/index.md)).
 - *Paradox* in "the fundamental paradox of Hedonism": Sidgwick says that "though it presents itself as a paradox, there does not seem to be any difficulty in its practical realisation" (II.iii.2). Dietz (2021, p. 388, n. 3, on the [problem page](../problems/paradox-of-hedonism.md)) calls it paradoxical "in the milder sense of being a surprising observation", not the implant's normative [paradox](../vocabulary/paradox.md), an argument to an unacceptable conclusion.
 - *Esoteric morality*: doctrines "which it is expedient to confine to an enlightened few" (IV.v.3), not taught openly; *Common Sense*: his name for the morality of ordinary moral reasoning examined in Book III.
+
+Related thinkers: [G. E. Moore](g-e-moore.md) (student, Schultz §2.1), [Hegel](hegel.md) (Schultz §2.1).

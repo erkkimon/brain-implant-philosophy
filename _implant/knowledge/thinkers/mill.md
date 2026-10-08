@@ -4,7 +4,7 @@ about: person
 title: John Stuart Mill
 description: "John Stuart Mill (1806–1873), English utilitarian, liberal and empiricist: higher and lower pleasures and the 'proof' of utility (Utilitarianism, 1861), the harm principle (On Liberty, 1859), sexual equality (The Subjection of Women, 1869), Moore's naturalistic-fallacy charge and its defences, happiness pursued indirectly (Autobiography, 1873)."
 tags: [thinker, utilitarianism, liberalism, nineteenth-century, ethics, political-philosophy, mill]
-timestamp: 2026-10-02T07:52:32Z
+timestamp: 2026-10-08T18:20:39Z
 ---
 
 # John Stuart Mill
@@ -59,8 +59,8 @@ No work pages exist yet ([works](../works/index.md)). Macleod's list: "His most 
 
 ## In dialogue with
 
-- **Jeremy Bentham** (no page yet) — Crisp (§4.1) reports Mill responding to "the charge that a Benthamite account is a ‘doctrine worthy only of swine’"; Crisp (§4.1) presents Mill's "quality" as added to Bentham's "duration and intensity".
-- **Immanuel Kant** (no page yet) — *Utilitarianism* ch. I on the universal-law formula: "he fails, almost grotesquely, to show that there would be any contradiction, any logical (not to say physical) impossibility, in the adoption by all rational beings of the most outrageously immoral rules of conduct." On the murderer at the door, Mahon places them on opposite sides (above).
+- **[Jeremy Bentham](bentham.md)** — Crisp (§4.1) reports Mill responding to "the charge that a Benthamite account is a ‘doctrine worthy only of swine’"; Crisp (§4.1) presents Mill's "quality" as added to Bentham's "duration and intensity".
+- **[Immanuel Kant](kant.md)** — *Utilitarianism* ch. I on the universal-law formula: "he fails, almost grotesquely, to show that there would be any contradiction, any logical (not to say physical) impossibility, in the adoption by all rational beings of the most outrageously immoral rules of conduct." On the murderer at the door, Mahon places them on opposite sides (above).
 - **Henry Sidgwick** ([page](sidgwick.md)) — Brink (§2.1): "Henry Sidgwick (1838–1900), for one, read Mill as a psychological egoist (The Methods of Ethics 42–44)." Sidgwick is among the critics of the higher-pleasures doctrine (Brink §2.2, under *Reception*).
 - **G. E. Moore** (no page yet) — the naturalistic-fallacy charge and the quality argument (*Principia Ethica*, 1903, §§40, 48; under *Reception*).
 - **Thomas Carlyle** (no page yet) — Mill names "the anti-self-consciousness theory of Carlyle" (*Autobiography* ch. V); the raw note to Crisp's §4.1 excerpt records the context as Carlyle's "philosophy of swine" charge (`raw/sep-well-being-and-hedonism-fall-2024-mill-higher-pleasures.md`).
@@ -90,3 +90,5 @@ Assessments are the named authors' own; none is the implant's.
 - *Higher / lower pleasures*, *quality* of pleasure, *competent judges* — ch. II; "quality" is Crisp's term for the third property Mill adds to Bentham's two. No entry yet.
 - *Desirable* — the word on which Moore's charge turns: "able to be desired" versus "what ought to be desired" (Moore §40; Macleod §4.1).
 - *Harm* — Brink (§3.6) reads Mill's real focus as "non-consensual harm", distinct from "mere offense". No entry yet.
+
+Related thinkers: [William James](william-james.md) (*Pragmatism* is dedicated to Mill), [G. E. Moore](g-e-moore.md).
