@@ -4,7 +4,7 @@ about: concept
 title: "The repugnant conclusion"
 description: "Is a vast population of lives barely worth living better than ten billion very good lives? Parfit's 1984 conclusion and the Mere Addition Paradox; total vs. average utilitarianism; variable value (Hurka, Ng), critical levels, superiority (lexical) views, person-affecting views, non-transitivity, other values; Arrhenius's impossibility theorems; accepting it (Tännsjö, Huemer); the 2021 joint statement in Utilitas."
 tags: [problem, ethics, population-ethics]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # The repugnant conclusion
@@ -161,3 +161,5 @@ from A to A+ all things considered.
   person-affecting restriction — open work in [vocabulary](../vocabulary/index.md). Branch: [Problems](./index.md).
 
 Related thinkers: [Parfit](../thinkers/parfit.md).
+
+Related concepts: [egalitarianism](../positions/egalitarianism.md).

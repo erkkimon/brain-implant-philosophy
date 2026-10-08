@@ -4,7 +4,7 @@ about: person
 title: Epictetus
 description: "Epictetus (born in the 50s CE, died around 135), Greek Stoic teacher, once a slave, who taught at Nicopolis: volition (prohairesis), the use of impressions, what is and is not in our power (Encheiridion 1), the Discourses written down by Arrian, and his reception from Marcus Aurelius to Stockdale and the founders of cognitive therapy."
 tags: [thinker, stoicism, ancient, roman-period, ethics, epictetus]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Epictetus
@@ -146,3 +146,5 @@ Assessments below are their authors'; none is the implant's.
 - *Prolēpsis* ("preconception"): see the Meno's paradox entry above.
 - *Use of impressions* (*chrēsis tōn phantasiōn*); Long translates
   "appearances", Higginson "semblances".
+
+Related concepts: [autonomy](../vocabulary/autonomy.md).

@@ -4,7 +4,7 @@ about: person
 title: John Rawls
 description: "John Rawls (1921–2002), American political philosopher in the liberal tradition: justice as fairness, the original position and veil of ignorance, the two principles and the difference principle, reflective equilibrium (A Theory of Justice, 1971), political liberalism (1993), and the critics Nozick, Harsanyi, Sandel, Sen and Cohen."
 tags: [thinker, liberalism, political-philosophy, social-contract, ethics, twentieth-century, rawls]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # John Rawls
@@ -107,3 +107,5 @@ Assessments below are their authors'; none is the implant's.
 - *Reflective equilibrium*: the implant's [method page](../methods/reflective-equilibrium.md) traces the term to Goodman (1955); Rawls's narrow/wide distinction is set out there.
 
 Related thinkers: [Nozick](nozick.md).
+
+Related concepts: [categorical imperative](../positions/categorical-imperative.md), [egalitarianism](../positions/egalitarianism.md).

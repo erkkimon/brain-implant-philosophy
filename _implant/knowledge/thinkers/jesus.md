@@ -4,7 +4,7 @@ about: person
 title: Jesus of Nazareth (as an ethical figure)
 description: "Jesus of Nazareth (c. 6–4 BCE – c. 30 CE per Britannica), the teacher of the Gospels, as an ethical figure: the Sermon on the Mount, the Golden Rule, love of enemies and the two great commandments in the King James text; what historians attribute to him; and the readings of Kant, Mill, Kierkegaard, Tolstoy, Nietzsche, Gandhi and the pacifism and just-war debate, each attributed."
 tags: [thinker, christianity, judaism, ancient, first-century, golden-rule, pacifism, just-war, jesus]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Jesus of Nazareth (as an ethical figure)
@@ -92,3 +92,5 @@ side, unranked.
 - *Non-resistance* / *nonresistance* — Tolstoy's and Ballou's term for the reading of Matthew 5:39 (Ballou: "not repaying evil for evil"); Fiala contrasts it with pacifism as active nonviolent resistance (§1.1). No vocabulary entry yet.
 - *Agape* — "the disinterested brotherly love that is described in the Greek New Testament using the word agape" (Fiala §5.2); Lippitt and Evans render Kierkegaard's *Kjerlighed* as "neighbor-love" and "a form of agape" (SEP §3.3.2). No vocabulary entry yet.
 - *Kingdom of God / kingdom of heaven* — the eschatological frame Britannica reads the ethics in (Ethics section). No vocabulary entry yet.
+
+Related concepts: [Golden Rule](../positions/golden-rule.md).

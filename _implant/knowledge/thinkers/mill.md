@@ -4,7 +4,7 @@ about: person
 title: John Stuart Mill
 description: "John Stuart Mill (1806–1873), English utilitarian, liberal and empiricist: higher and lower pleasures and the 'proof' of utility (Utilitarianism, 1861), the harm principle (On Liberty, 1859), sexual equality (The Subjection of Women, 1869), Moore's naturalistic-fallacy charge and its defences, happiness pursued indirectly (Autobiography, 1873)."
 tags: [thinker, utilitarianism, liberalism, nineteenth-century, ethics, political-philosophy, mill]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # John Stuart Mill
@@ -92,3 +92,5 @@ Assessments are the named authors' own; none is the implant's.
 - *Harm* — Brink (§3.6) reads Mill's real focus as "non-consensual harm", distinct from "mere offense". No entry yet.
 
 Related thinkers: [William James](william-james.md) (*Pragmatism* is dedicated to Mill), [G. E. Moore](g-e-moore.md).
+
+Related concepts: [harm principle](../positions/harm-principle.md), [categorical imperative](../positions/categorical-imperative.md), [Golden Rule](../positions/golden-rule.md).

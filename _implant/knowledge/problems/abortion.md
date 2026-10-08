@@ -4,7 +4,7 @@ about: concept
 title: "The ethics of abortion (Thomson's violinist and the debate)"
 description: "Is abortion morally permissible, and if so when? The conservative view (Noonan's criterion, Marquis's future like ours), the liberal personhood view (Warren's five criteria, Tooley's self-consciousness requirement), moderate and gradualist views, Thomson's violinist and bodily autonomy, Hursthouse's virtue-theoretic reframing, with each side's case and its critics' reply, and the 2020 PhilPapers survey figure."
 tags: [problem, ethics, applied-ethics, bioethics]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # The ethics of abortion (Thomson's violinist and the debate)
@@ -197,3 +197,5 @@ analogy (Thomson 1971); the infanticide objection (Warren 1982 postscript; Toole
 
 - [Moral patient](../vocabulary/moral-patient.md) — whose interests count; "full moral status" (FMS) in the SEP's usage.
 - Person (Warren's moral sense of "human", ¶24) vs. human being (genetic sense); potential person; viability — open work in [vocabulary](../vocabulary/index.md). [Dilemma](../vocabulary/dilemma.md). Branch: [Problems](./index.md).
+
+Related concepts: [autonomy](../vocabulary/autonomy.md).

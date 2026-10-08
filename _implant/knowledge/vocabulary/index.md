@@ -21,7 +21,7 @@ about: concept
 title: <the term>
 description: "<one sentence: the normative sense, in brief>"
 tags: [vocabulary, <field>]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # <term>
@@ -61,3 +61,6 @@ Linked, with the boundary between them stated.
 * [Archetype and collective unconscious](archetype-and-collective-unconscious.md) — Jung's pair of terms, reported as his; kept apart from Platonic forms, Frye's literary archetype and ordinary usage.
 * [Synchronicity](synchronicity.md) — Jung's "acausal connecting principle" (1952) and the Pauli–Jung dual-aspect reading, kept apart from ordinary "meaningful coincidence"; statisticians' and skeptics' accounts beside it.
 * [Individuation](individuation.md) — a collision term: the scholastic principle of individuation, Schopenhauer's, Jung's psychological process, Simondon's.
+* [Autonomy](autonomy.md) — a pointer term: Kantian autonomy of the will, personal autonomy, bioethical autonomy and political self-determination, side by side.
+* [Liberty (positive and negative)](liberty-positive-and-negative.md) — Berlin's two concepts, MacCallum's triadic analysis, republican non-domination, Constant's ancient and modern liberty; a pointer term.
+

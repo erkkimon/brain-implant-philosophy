@@ -4,7 +4,7 @@ about: person
 title: G. W. F. Hegel
 description: "Georg Wilhelm Friedrich Hegel (1770–1831), German idealist after Kant: the Phenomenology of Spirit (1807) and its struggle for recognition (lordship and bondage, ¶178ff), the Philosophy of Right (1820/21) with abstract right, morality (Moralität) and ethical life (Sittlichkeit), the empty-formalism charge against Kant (PR §135), punishment as 'injury of an injury'; metaphysical vs non-metaphysical readings and left vs right Hegelians side by side."
 tags: [thinker, german-idealism, nineteenth-century, ethics, political-philosophy, hegel]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # G. W. F. Hegel
@@ -106,3 +106,5 @@ Assessments below are their authors'; none is the implant's.
 - *Dialectic*: the senses of the word, including the Hegelian one, are compared on [persuasion, rhetoric, dialectic](../vocabulary/persuasion-rhetoric-dialectic.md). Brooks (§6) on Ethical Life: "This ordering is not chronological, but dialectical."
 
 Related thinkers: [Russell](russell.md) (Redding).
+
+Related concepts: [liberty, positive and negative](../vocabulary/liberty-positive-and-negative.md), [categorical imperative](../positions/categorical-imperative.md).

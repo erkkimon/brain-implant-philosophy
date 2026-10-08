@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-08T23:30:24Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Open
@@ -54,10 +54,7 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 
 - [ ] Outline of ethics (pinned 1369745706), "Concepts" (49 entries, 2
       matched: just war, moral patienthood), in list order. Single
-      principles: autonomy, self-determination, egalitarianism, Golden Rule,
-      categorical imperative, universalisability, Kingdom of Ends,
-      non-aggression principle, liberty, positive liberty, negative liberty,
-      harm principle. Rights and legal: consent, human rights, justice,
+      principles done 2026-10-09 (12 entries, 7 pages). Rights and legal: consent, human rights, justice,
       natural and legal rights, political freedom, rights, rule according to
       higher law. Guidelines and basic: good and evil, good, evil,
       commensurability, ideal, moral agency, moral responsibility, norm,

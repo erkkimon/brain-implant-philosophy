@@ -4,7 +4,7 @@ about: person
 title: Paul Tillich
 description: "Paul Tillich (1886–1965), German-American Lutheran theologian and philosopher: faith as 'ultimate concern', theonomy between autonomy and heteronomy, the law of love and agape as 'the ultimate norm for all ethical content', the 'God above God' of The Courage to Be (1952), the method of correlation and his dispute with Barth; critics (Alston, Edwards) and defenders side by side."
 tags: [thinker, theology, philosophy-of-religion, christian-ethics, existentialism, twentieth-century, german, american, tillich]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Paul Tillich
@@ -108,3 +108,5 @@ None of these terms has a page in [vocabulary](../vocabulary/index.md) yet.
 - *Kerygmatic* versus *apologetic* theology and the *method of correlation*: ST I, 4–6 and 61; Barth is his example of the kerygmatic type.
 
 Related thinkers: [Barth](barth.md), [Kierkegaard](kierkegaard.md), [Kant](kant.md), [Nietzsche](nietzsche.md), [Aquinas](aquinas.md), [Augustine](augustine.md).
+
+Related concepts: [autonomy](../vocabulary/autonomy.md).

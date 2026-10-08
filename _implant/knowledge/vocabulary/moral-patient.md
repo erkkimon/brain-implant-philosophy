@@ -4,7 +4,7 @@ about: concept
 title: "Moral patient"
 description: "An entity whose interests matter morally for their own sake — distinguished here from moral agent (one who can act morally) and from mere instrument, because the grounds of patiency are contested and the implant reports the contestation rather than settling it."
 tags: [vocabulary, ethics]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Moral patient
@@ -96,3 +96,5 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
   [the repugnant conclusion](../problems/repugnant-conclusion.md).
 
 Related thinkers: [Singer](../thinkers/singer.md), [Bentham](../thinkers/bentham.md).
+
+Related concepts: [autonomy](autonomy.md).

@@ -4,7 +4,7 @@ about: person
 title: Robert Nozick
 description: "Robert Nozick (1938–2002), American analytic philosopher at Harvard: Anarchy, State, and Utopia (1974) — rights as side constraints, the minimal state, the entitlement theory, the Wilt Chamberlain argument, the experience machine, the framework for utopia; Newcomb's problem (1969); the tracking theory of knowledge and closest-continuer identity (Philosophical Explanations, 1981); later revisions (The Examined Life, 1989)."
 tags: [thinker, libertarianism, political-philosophy, decision-theory, epistemology, twentieth-century, analytic, nozick]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Robert Nozick
@@ -97,3 +97,5 @@ Assessments below are their authors'; none is the implant's.
 - *Dilemma* in Weirich's "a dilemma for decision theory": a choice between two principles, not necessarily the implant's normative [dilemma](../vocabulary/dilemma.md).
 
 Related thinkers: [Rawls](rawls.md), [Bentham](bentham.md), [Kant](kant.md).
+
+Related concepts: [non-aggression principle](../positions/non-aggression-principle.md) (Rothbard; IEP §4).

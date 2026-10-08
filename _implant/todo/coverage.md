@@ -3,7 +3,7 @@ type: todo
 title: Coverage ledger — this implant vs Wikipedia's lists
 description: "The ledger that turns the README's 'more than Wikipedia' amount claim into a number: per branch, pages held here against the entries of a named, revision-pinned Wikipedia list, with the date counted. First count 2026-09-26: the implant is far behind on amount in every branch."
 tags: [todo, coverage, benchmark, wikipedia, amount]
-timestamp: 2026-10-08T21:37:56Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Coverage ledger
@@ -70,6 +70,11 @@ entries of "Philosophy" (12), then "Logic" (26), then the 34 unmatched
 "Persons influential in the field of ethics", then "Decision theory" and
 "Concepts". Within a section, entries are taken in the list's own order,
 8–12 per batch. The batches are queued in [open work](open.md).
+
+## Interim note: 2026-10-09 (after "Concepts" batch 1)
+
+Outline of ethics "Concepts": 2 → 14 of 49 (Single principles 12 of 12, as
+7 pages); Outline overall 44 → 56 of 347.
 
 ## Interim note: 2026-10-09 (after "Decision theory" batch 2)
 

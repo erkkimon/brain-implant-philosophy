@@ -4,7 +4,7 @@ about: person
 title: John Dewey
 description: "John Dewey (1859–1952), American pragmatist philosopher, psychologist and educator: ethics as experimental inquiry, the means-ends continuum and ends-in-view, Ethics (with Tufts, 1908), Democracy and Education (1916), Human Nature and Conduct (1922), Theory of Valuation (1939), and the criticisms of Bernstein and Rorty."
 tags: [thinker, pragmatism, ethics, philosophy-of-education, democracy, american, twentieth-century, dewey]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # John Dewey
@@ -111,3 +111,5 @@ Assessments below are their authors'; none is the implant's.
 - *Growth*: the one value Hildebrand (§6) reports Dewey treating as "(something like) ultimate"; *DE* Ch. 4.
 - *Experimental*: in "all moral judgment is experimental" (*HNC* IV.I), revisable by its outcome in conduct, not laboratory experiment.
 - *Cultural naturalism*: the name Hildebrand (preamble) reports Dewey "favored over “pragmatism” and “instrumentalism”".
+
+Related concepts: [categorical imperative](../positions/categorical-imperative.md).

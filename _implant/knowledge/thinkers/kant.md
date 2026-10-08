@@ -4,7 +4,7 @@ about: person
 title: Immanuel Kant
 description: "Immanuel Kant (1724–1804), philosopher at Königsberg: the Groundwork (1785), the categorical imperative and its formulas, the good will, autonomy, the reply to Constant on lying to a murderer (1797), retributive punishment; constructivist and realist readings; Hegel's emptiness charge, Schiller and Mill as critics."
 tags: [thinker, deontology, ethics, eighteenth-century, kant]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Immanuel Kant
@@ -107,3 +107,5 @@ Assessments below are their authors'; none is the implant's.
 - *Autonomy*: for Kant, being bound by "laws that are in some sense of one’s own making" (Johnson & Cureton §10).
 - *Lie* in the 1797 essay: Kant calls the untruthful statement a lie "though not in the jurist's sense" (Abbott p. 362); Mahon's survey of definitions is on the [problem page](../problems/murderer-at-the-door.md).
 - *Right* and *duty of justice*: the 1797 essay speaks "only of a duty of justice" (p. 362, n. 1), the domain of the Doctrine of Right, as distinct from ethics; Varden (2010) builds her reading on this.
+
+Related concepts: [liberty, positive and negative](../vocabulary/liberty-positive-and-negative.md), [categorical imperative](../positions/categorical-imperative.md), [autonomy](../vocabulary/autonomy.md).

@@ -4,7 +4,7 @@ about: concept
 title: "The demandingness objection: can morality require too much?"
 description: "Does a moral theory that requires you always to do the most good, whatever the cost to you, demand too much, and is that a reason to reject it? Williams's integrity objection, Scheffler's agent-centred prerogative, Kagan's defence of the demands, satisficing (Slote), Murphy's co-operative principle, Hooker's rule-consequentialism, Mulgan, and Sobel's reply that the objection presupposes what it opposes."
 tags: [problem, ethics, consequentialism]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # The demandingness objection
@@ -166,3 +166,5 @@ Framings.
   [vocabulary](../vocabulary/index.md). Branch: [Problems](./index.md).
 
 Related thinkers: [Singer](../thinkers/singer.md).
+
+Related concepts: [autonomy](../vocabulary/autonomy.md).

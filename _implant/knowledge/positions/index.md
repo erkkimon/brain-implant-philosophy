@@ -22,7 +22,7 @@ about: concept
 title: <the position's usual name>
 description: "<one sentence: the thesis, and which problem it answers>"
 tags: [position, <field>]
-timestamp: <ISO 8601>
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # <title>
@@ -68,3 +68,5 @@ Positions on [consciousness](../problems/consciousness.md):
 
 * [Dualism](dualism.md) · [Physicalism](physicalism.md) · [Functionalism](functionalism.md) · [Panpsychism](panpsychism.md) · [Illusionism](illusionism.md)
 * Scientific theories: [Global workspace](global-workspace.md) · [Higher-order thought](higher-order-thought.md) · [Integrated information theory](integrated-information-theory.md) · [Biological naturalism](biological-naturalism.md)
+* Ethics principles (Outline of ethics, "Single principles"): [Egalitarianism](egalitarianism.md) · [Golden Rule](golden-rule.md) · [Categorical imperative](categorical-imperative.md) (with universalisability and the Kingdom of Ends) · [Non-aggression principle](non-aggression-principle.md) · [Harm principle](harm-principle.md)
+

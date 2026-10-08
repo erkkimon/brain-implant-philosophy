@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-08T23:30:36Z
+timestamp: 2026-10-08T23:52:36Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -49,9 +49,9 @@ the new day's journal, and fix the links to it (grep for its file name).
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-10-02): problems 100, positions 9,
+- **Pages per `knowledge/` branch** (2026-10-09): problems 100, positions 14,
   arguments 6, thinkers 52, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 904 excerpt files.
+  vocabulary 18, methods 3. `raw/` holds 937 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -141,7 +141,7 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
 14. ~~**List of paradoxes "Decision theory"**~~ — done: batch 1 (12,
     Abilene … Kavka) 2026-10-08, batch 2 (10, Morton's fork … willpower)
     2026-10-09 ([journal](../journals/2026-10-09.md); [todo archive](../todo/archive/2026-10-09.md)).
-15. **Outline of ethics "Concepts" — NEXT:** 49 entries, 2 matched; in list order,
+15. **Outline of ethics "Concepts" — NEXT (batch 1, Single principles, done 2026-10-09; next: "Rights and legal concepts", 7 entries without just war):** 49 entries, 2 matched; in list order,
     about 10 per batch; many are concepts, so check vocabulary/ and
     positions/ templates before choosing a page type. Exact lists are in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
