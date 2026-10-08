@@ -4,7 +4,7 @@ about: concept
 title: "The moral status of animals"
 description: "Do non-human animals matter morally for their own sake, and how much? Bentham's 'Can they suffer?', Kant's indirect duties, Singer's equal consideration and 'speciesism', Regan's subjects-of-a-life, Carruthers's contractualist exclusion, Korsgaard's Kantian case for duties to animals, the argument from marginal cases (or species overlap), virtue, care and relational views, and the 2020 PhilPapers figures on eating animals."
 tags: [problem, ethics, applied-ethics, animal-ethics]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # The moral status of animals
@@ -142,4 +142,4 @@ records what philosophers answered in 2020, not what is right.
 - Speciesism, subject-of-a-life, indirect duty — defined above from the cited texts; no separate
   pages yet. Branch: [Problems](./index.md).
 
-Related thinkers: [Kant](../thinkers/kant.md) (indirect duties), [Bentham](../thinkers/bentham.md) ("Can they suffer?"), [Gandhi](../thinkers/gandhi.md) (ahimsa, Fiala SEP "Pacifism" §2.2), [Aquinas](../thinkers/aquinas.md) (indirect duties), [Mencius](../thinkers/mencius.md) (1A7).
+Related thinkers: [Singer](../thinkers/singer.md), [Rawls](../thinkers/rawls.md) (Carruthers' extension, IEP §1d), [Kant](../thinkers/kant.md) (indirect duties), [Bentham](../thinkers/bentham.md) ("Can they suffer?"), [Gandhi](../thinkers/gandhi.md) (ahimsa, Fiala SEP "Pacifism" §2.2), [Aquinas](../thinkers/aquinas.md) (indirect duties), [Mencius](../thinkers/mencius.md) (1A7).

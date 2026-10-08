@@ -4,7 +4,7 @@ about: person
 title: David Hume
 description: "David Hume (1711–1776), Scottish philosopher, historian and essayist: the Treatise (1739–40) and the two Enquiries (1748, 1751); the problem of induction and custom, reason as 'the slave of the passions', the is–ought paragraph (T 3.1.1.27), moral sentimentalism and the artificial virtues, Philo's restatement of 'Epicurus's old questions' in the Dialogues (1779); the readings of each side by side."
 tags: [thinker, sentimentalism, empiricism, ethics, eighteenth-century, scottish-enlightenment, hume]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # David Hume
@@ -129,3 +129,5 @@ Assessments below are their authors'; none is the implant's.
 - *Custom*: the principle that "makes us expect, for the future, a similar train of events with those which have appeared in the past." (E 5.6); the core of what Hume calls his "sceptical solution" (Morris & Brown §5.2).
 - *Sentiment*: the "pleasing sentiment of approbation" a spectator feels (M App 1.10); *artificial virtue*: per Morris & Brown (§7.4), a disposition "based on social practices and institutions that arise from conventions" (justice, fidelity to promises, allegiance).
 - *"Hume's Law"*: Hare's and others' name for the reading of T 3.1.1.27 as a thesis of logic (Cohon §5); the other readings deny that the paragraph states such a thesis.
+
+Related thinkers: [Mackie](mackie.md), [Hare](hare.md).

@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # <name>
@@ -101,4 +101,13 @@ From the Outline of ethics, "Persons influential in the field of ethics" (pinned
 * [John Dewey](dewey.md) — moral inquiry as experimental, the means–ends continuum, Human Nature and Conduct, Theory of Valuation; reception.
 * [M. K. Gandhi](gandhi.md) — satyagraha, ahimsa and swaraj in Hind Swaraj and the Autobiography; absolute nonviolence (Fiala); critics and receptions side by side.
 * [G. E. Moore](g-e-moore.md) — Principia Ethica: the open-question argument, what Moore named "the naturalistic fallacy", ideal utilitarianism, organic unities; common sense and Moore's paradox; Frankena.
+* [Paul Tillich](tillich.md) — faith as "ultimate concern", theonomy between autonomy and heteronomy, agape as the ultimate norm; The Courage to Be; critics and defenders.
+* [Karl Barth](barth.md) — ethics as the command of God in the Church Dogmatics, the 1934 Nein! to Brunner, the Barmen Declaration; divine-command readings.
+* [J. L. Mackie](mackie.md) — the error theory of Ethics: Inventing Right and Wrong (relativity, queerness); "Evil and Omnipotence" (1955) and the replies.
+* [R. M. Hare](hare.md) — universal prescriptivism, universalizability, the critical and intuitive levels of Moral Thinking (1981); critics.
+* [John Rawls](rawls.md) — justice as fairness, the original position, the two principles, reflective equilibrium, Political Liberalism; critics side by side.
+* [Alasdair MacIntyre](macintyre.md) — A Short History of Ethics, After Virtue's "disquieting suggestion", practices, narrative and tradition; the 1967 article on Jung; critics.
+* [Derek Parfit](parfit.md) — Reasons and Persons: identity "not what matters", the non-identity problem, the repugnant conclusion; On What Matters and convergence.
+* [Peter Singer](singer.md) — "Famine, Affluence, and Morality", Animal Liberation and "speciesism", Practical Ethics, effective altruism; controversies with named sources and his replies.
+* [Jonathan Dancy](dancy.md) — moral particularism, the holism of reasons, reasons vs enablers; McKeever & Ridge and other critics.
 

@@ -4,7 +4,7 @@ about: person
 title: Carl Gustav Jung
 description: "Swiss psychiatrist (1875–1961), founder of analytical psychology; a hub reporting who reads him as a philosopher and who denies it, and his claims on the unconscious, religion, typology, synchronicity and the self, each attributed."
 tags: [thinker, analytical-psychology, modern, jung, philosophy-of-mind, philosophy-of-religion]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # Carl Gustav Jung
@@ -117,4 +117,4 @@ source settles it, and this page does not.
 - *Individuation* — Jung's developmental process: [individuation](../vocabulary/individuation.md).
 - *Psychological truth* — Jung's sense: an idea is "psychologically true in as much as it exists" (1938, p. 3); it is not truth in this implant's normative sense, and pages using it name Jung as owner.
 
-Related thinkers: [Schopenhauer](schopenhauer.md), [Hegel](hegel.md) (Fordham), [William James](william-james.md) (*Psychological Types* ch. VIII).
+Related thinkers: [MacIntyre](macintyre.md) (the 1967 Encyclopedia of Philosophy article), [Schopenhauer](schopenhauer.md), [Hegel](hegel.md) (Fordham), [William James](william-james.md) (*Psychological Types* ch. VIII).

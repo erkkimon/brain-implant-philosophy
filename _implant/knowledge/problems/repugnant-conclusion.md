@@ -4,7 +4,7 @@ about: concept
 title: "The repugnant conclusion"
 description: "Is a vast population of lives barely worth living better than ten billion very good lives? Parfit's 1984 conclusion and the Mere Addition Paradox; total vs. average utilitarianism; variable value (Hurka, Ng), critical levels, superiority (lexical) views, person-affecting views, non-transitivity, other values; Arrhenius's impossibility theorems; accepting it (Tännsjö, Huemer); the 2021 joint statement in Utilitas."
 tags: [problem, ethics, population-ethics]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # The repugnant conclusion
@@ -159,3 +159,5 @@ from A to A+ all things considered.
 - [Moral patient](../vocabulary/moral-patient.md) — whose welfare counts in a population.
 - Welfare, life worth living, total and average utilitarianism, critical level, transitivity,
   person-affecting restriction — open work in [vocabulary](../vocabulary/index.md). Branch: [Problems](./index.md).
+
+Related thinkers: [Parfit](../thinkers/parfit.md).

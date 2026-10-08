@@ -4,7 +4,7 @@ about: person
 title: Bernard Williams
 description: "Bernard Williams (1929–2003), British moral philosopher: the integrity objection and Jim and the Indians (1973), moral luck and Gauguin (1976/1981), moral conflict and the agglomeration principle ('Ethical Consistency', 1965), personal identity ('The Self and the Future', 1970), and the internal reasons thesis (1981)."
 tags: [thinker, analytic-philosophy, ethics, twentieth-century, williams]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # Bernard Williams
@@ -163,3 +163,5 @@ Assessments below are the named authors'; the implant ranks none of them.
   entries yet; see [vocabulary](../vocabulary/index.md) and
   [dilemma](../vocabulary/dilemma.md) for the implant's normative sense of
   "dilemma".
+
+Related thinkers: [Hare](hare.md), [Parfit](parfit.md).

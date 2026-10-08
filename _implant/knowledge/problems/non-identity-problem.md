@@ -4,7 +4,7 @@ about: concept
 title: "The non-identity problem"
 description: "If a choice changes who will exist, and those born have lives worth living, the choice seems worse for no one; is it then not wrong? Adams, Schwartz, Kavka and Parfit's cases (the 14-year-old girl, Depletion, the slave child), the person affecting intuition, and the responses: biting the bullet, impersonal principles and Theory X, rights and wronging without harming, non-comparative harm, identity and description, probabilities, and the agent's attitudes."
 tags: [problem, ethics, population-ethics, future-generations]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # The non-identity problem
@@ -121,3 +121,5 @@ does not adjust either.
 - [Moral patient](../vocabulary/moral-patient.md) — whether merely possible people are owed anything.
 - Person affecting intuition, Time-Dependence Claim, Theory X, Q, non-comparative harm, genethics, wrongful life —
   open work in [vocabulary](../vocabulary/index.md). Branch: [Problems](./index.md).
+
+Related thinkers: [Parfit](../thinkers/parfit.md).

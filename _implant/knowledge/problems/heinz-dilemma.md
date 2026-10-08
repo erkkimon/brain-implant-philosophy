@@ -4,7 +4,7 @@ about: concept
 title: "The Heinz dilemma"
 description: "Should Heinz steal an overpriced drug to save his dying wife? Kohlberg's interview story, scored for the stage of the reasoning rather than the answer; the six stages, the Stage 5 and Stage 6 philosophers' answers, Gilligan's Amy and the care orientation, and the critiques and reviews — Hare, Simpson, Snarey, Walker, Baumrind, Rest, Turiel, Jaffee and Hyde — each with its owner."
 tags: [problem, dilemma, ethics, moral-psychology]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # The Heinz dilemma
@@ -161,3 +161,5 @@ Each objection with its reply where a read source records one.
 Related problems: [Can there be genuine moral dilemmas?](moral-dilemmas.md),
 [the trolley problem](trolley-problem.md), [dirty hands](dirty-hands.md),
 [the Euthyphro dilemma](euthyphro-dilemma.md). Branch: [Problems](./index.md).
+
+Related thinkers: [Hare](../thinkers/hare.md), [Rawls](../thinkers/rawls.md) (Kohlberg, LeBar §2).

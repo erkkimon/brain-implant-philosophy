@@ -4,7 +4,7 @@ about: concept
 title: "The Ship of Theseus"
 description: "Plutarch's report of the Athenian ship repaired plank by plank, Hobbes's addition of a second ship rebuilt from the old planks, and the identity puzzles they pose — transitivity, fission and coincident objects — with the responses on record: constitution, mereological essentialism, strict and loose identity, relative identity, four-dimensionalism and stage theory, temporary and indeterminate identity, best candidate, and deflationism, each with its owner."
 tags: [problem, paradox, metaphysics, ancient-philosophy, early-modern-philosophy]
-timestamp: 2026-10-01T19:31:15Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # The Ship of Theseus
@@ -167,3 +167,5 @@ ship by Deutsch & Garbacz (§2.5), who add: "As indicated, Kripke denies that hi
   *endurance*, *temporal part*, *stage*, *mereological essentialism*,
   *relative identity*, *fission* — open work in
   [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Parfit](../thinkers/parfit.md).

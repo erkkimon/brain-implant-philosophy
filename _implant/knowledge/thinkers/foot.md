@@ -4,7 +4,7 @@ about: person
 title: Philippa Foot
 description: "Philippa Foot (1920–2010), British moral philosopher: the trolley case in 'The Problem of Abortion and the Doctrine of the Double Effect' (1967), doing/allowing and negative vs positive rights, abortion, 'Euthanasia' (1977), the virtues, and Natural Goodness (2001)."
 tags: [thinker, analytic-philosophy, ethics, twentieth-century, foot]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # Philippa Foot
@@ -157,3 +157,5 @@ whether the cited statement supports or questions a claim of Foot's.
   provided a service (Hacker-Wright §4).
 - *Natural goodness*, *natural norms*: Foot's terms as Hacker-Wright (§6)
   reports them; no vocabulary page yet.
+
+Related thinkers: [Hare](hare.md), [MacIntyre](macintyre.md).

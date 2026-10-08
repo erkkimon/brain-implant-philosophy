@@ -4,7 +4,7 @@ about: concept
 title: "Sentience"
 description: "The capacity for phenomenal experience — the property that makes an entity a candidate for moral patiency on welfare-based accounts, distinguished here from sapience (reason), consciousness (which may be access-only), and intelligence."
 tags: [vocabulary, consciousness, ethics]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # Sentience
@@ -89,4 +89,4 @@ Fixed 2026-09-25 ([journal](../../journals/archive/2026/09/2026-09-25.md)).
 - [AI consciousness hub](../problems/ai-consciousness.md) — collects claims
   about artificial sentience with explicit hedges.
 
-Related thinkers: [Bentham](../thinkers/bentham.md).
+Related thinkers: [Singer](../thinkers/singer.md), [Bentham](../thinkers/bentham.md).

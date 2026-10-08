@@ -4,7 +4,7 @@ about: concept
 title: "Famine, affluence and morality (Singer's drowning child)"
 description: "If you ought to wade into a shallow pond to save a drowning child at the cost of muddy clothes, ought you also to give money that would save distant strangers from starvation? Singer's 1972 argument, its strong and moderate principles, the duty/charity claim, Unger 1996, and the replies on demandingness, emergency rescue, distance (Kamm), repeated sacrifice (Timmerman 2015), partiality, fair shares (Murphy) and institutional harm (Pogge), with effective altruism as the SEP describes it."
 tags: [problem, ethics, applied-ethics, global-justice]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # Famine, affluence and morality (Singer's drowning child)
@@ -149,4 +149,4 @@ NoMore=F" (run 2026-09-27); the conditional conclusion he offers instead follows
   impartiality, partiality, demandingness — open work in [vocabulary](../vocabulary/index.md).
   Branch: [Problems](./index.md).
 
-Related thinkers: [Aquinas](../thinkers/aquinas.md) (II-II q. 66 a. 7, quoted by Singer 1972).
+Related thinkers: [Singer](../thinkers/singer.md), [Aquinas](../thinkers/aquinas.md) (II-II q. 66 a. 7, quoted by Singer 1972).

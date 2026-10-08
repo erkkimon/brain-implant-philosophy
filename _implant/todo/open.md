@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:18:49Z
 ---
 
 # Open
@@ -52,12 +52,11 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
-- [ ] thinkers from "Persons influential in the field of ethics" in the
-      Outline of ethics, the remaining 9 in list order: Tillich, Barth, Mackie,
-      Hare, Rawls, MacIntyre, Parfit, Singer, Dancy
 - [ ] thinker pages still wanted for figures the paradox pages lean on:
-      Zeno of Elea, Russell, Nozick (Parfit and Singer come with the
-      ethics list; Aquinas and Kant done)
+      Zeno of Elea, Russell, Nozick
+- [ ] Outline of ethics (pinned revision 1369745706), the sections after
+      "Persons influential": "Decision theory" and "Concepts" — recount
+      against the pinned list first (todo/coverage.md), then batch the gaps
 - [ ] Jung and de Mello, further pages if wanted: *Aion*, *Memories,
       Dreams, Reflections* (authorship question), *The Undiscovered Self*,
       *One Minute Wisdom*; vocabulary persona/shadow; a problem page on
