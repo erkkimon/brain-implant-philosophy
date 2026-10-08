@@ -4,7 +4,7 @@ about: person
 title: G. W. F. Hegel
 description: "Georg Wilhelm Friedrich Hegel (1770–1831), German idealist after Kant: the Phenomenology of Spirit (1807) and its struggle for recognition (lordship and bondage, ¶178ff), the Philosophy of Right (1820/21) with abstract right, morality (Moralität) and ethical life (Sittlichkeit), the empty-formalism charge against Kant (PR §135), punishment as 'injury of an injury'; metaphysical vs non-metaphysical readings and left vs right Hegelians side by side."
 tags: [thinker, german-idealism, nineteenth-century, ethics, political-philosophy, hegel]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # G. W. F. Hegel
@@ -104,3 +104,5 @@ Assessments below are their authors'; none is the implant's.
 - *Anerkennung* (recognition, acknowledgment): Redding §3.1.1; Baillie renders it "recognised" (¶178).
 - *Herr* / *Knecht*: Baillie's "Master, or Lord" and "Bondsman" (¶189); the English label *master–slave dialectic* is not used in either SEP entry read here, which say "struggle of recognition" (Redding §3.1.1).
 - *Dialectic*: the senses of the word, including the Hegelian one, are compared on [persuasion, rhetoric, dialectic](../vocabulary/persuasion-rhetoric-dialectic.md). Brooks (§6) on Ethical Life: "This ordering is not chronological, but dialectical."
+
+Related thinkers: [Russell](russell.md) (Redding).

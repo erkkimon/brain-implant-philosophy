@@ -4,7 +4,7 @@ about: concept
 title: "The barber paradox"
 description: "A barber shaves all and only those who do not shave themselves: does he shave himself? Russell's 1918 lecture VII calls it a form of his class contradiction 'suggested to me' that 'was not valid' and 'not very difficult to solve'; the standard reply that no such barber exists; and the SEP's report of the dispute over whether it is a 'pseudo paradox' (Quine 1966) or close kin of Russell's paradox (Salmon 2013)."
 tags: [problem, paradox, logic, self-reference, set-theory]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # The barber paradox
@@ -99,3 +99,5 @@ and the UMSL and Oxford Reference pages Wikipedia cites (404 and 403 on
 - [Dilemma](../vocabulary/dilemma.md) — the two hypotheses, shaves himself or not.
 - [Classical logic](../methods/classical-logic.md) — the logic of the check.
 - *Antinomy* (Quine's term, SEP §4), *incomplete symbol* (Russell, p. 355), *self-reference* — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Russell](../thinkers/russell.md).

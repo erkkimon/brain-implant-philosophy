@@ -19,7 +19,7 @@ about: person
 title: <name>
 description: "<one sentence: era, tradition, the problems they are known for>"
 tags: [thinker, <tradition>, <era>]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # <name>
@@ -110,4 +110,7 @@ From the Outline of ethics, "Persons influential in the field of ethics" (pinned
 * [Derek Parfit](parfit.md) — Reasons and Persons: identity "not what matters", the non-identity problem, the repugnant conclusion; On What Matters and convergence.
 * [Peter Singer](singer.md) — "Famine, Affluence, and Morality", Animal Liberation and "speciesism", Practical Ethics, effective altruism; controversies with named sources and his replies.
 * [Jonathan Dancy](dancy.md) — moral particularism, the holism of reasons, reasons vs enablers; McKeever & Ridge and other critics.
+* [Zeno of Elea](zeno-of-elea.md) — the paradoxes of plurality and motion, the defence of Parmenides as Plato reports it, the testimonia in Plato, Aristotle and Simplicius; ancient and modern responses.
+* [Bertrand Russell](russell.md) — the paradox and the letter to Frege, "On Denoting", the theory of types, Principia Mathematica, logical atomism, his ethics and public life as reported; critics.
+* [Robert Nozick](nozick.md) — Anarchy, State, and Utopia (entitlement theory, Wilt Chamberlain, side constraints, the experience machine), Newcomb's problem, the tracking theory of knowledge; critics.
 

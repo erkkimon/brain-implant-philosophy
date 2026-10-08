@@ -4,7 +4,7 @@ about: person
 title: Aristotle
 description: "Aristotle (384–322 BCE), Greek philosopher from Stagira, student in Plato's Academy and founder of the Lyceum: the Nicomachean Ethics — eudaimonia as virtuous activity, the function argument (NE I.7), virtue as a mean, practical wisdom, akrasia (NE VII), contemplation (NE X.7–8) and the intellectualist vs inclusivist readings — plus his entries on the Meno, the regress, Zeno and the hungry man."
 tags: [thinker, ancient-greek, ethics, virtue-ethics, logic, aristotle]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Aristotle
@@ -103,3 +103,5 @@ Kraut's glossary renders the Greek terms; the senses below are his.
 - *Phronesis* — "practical wisdom" (Kraut glossary); defined at NE VI.5 as quoted above.
 - *Akrasia* — "incontinence (literally: lack of mastery)" (Kraut glossary); its opposite *enkrateia*, continence.
 - *Knowledge* — Aristotle's "knowing universally" (Post. An. I.1) and "knowledge proper" vs "perceptual knowledge" (NE VII.3) are distinctions within knowing; this implant's sense is in [knowledge](../vocabulary/knowledge.md).
+
+Related thinkers: [Zeno of Elea](zeno-of-elea.md).

@@ -4,7 +4,7 @@ about: concept
 title: "Zeno's paradoxes of motion"
 description: "Zeno of Elea's arguments that motion is impossible — the Dichotomy, Achilles and the tortoise, the Arrow and the Stadium — known through Aristotle's Physics, and the responses on record: Aristotle's two replies, the Russell–Grünbaum–Salmon 'received view' via Cauchy and Cantor, the at-at theory, Bergson's indivisible movement, supertasks and non-standard analysis, each with its owner."
 tags: [problem, paradox, metaphysics, philosophy-of-mathematics, ancient-philosophy]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Zeno's paradoxes of motion
@@ -200,3 +200,5 @@ No survey figure is recorded.
   [vocabulary](../vocabulary/index.md).
 
 Related problems: [What the Tortoise Said to Achilles](tortoise-and-achilles.md) (Carroll's dialogue opens on Zeno's race; a different problem).
+
+Related thinkers: [Russell](../thinkers/russell.md), [Zeno of Elea](../thinkers/zeno-of-elea.md).

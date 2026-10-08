@@ -4,7 +4,7 @@ about: concept
 title: "The Epimenides paradox"
 description: "A Cretan says that Cretans are always liars: is what he says true? The saying in Titus 1:12, Clement and Callimachus; Fowler's 1869 alternation and Russell's 1908 'oldest contradiction'; the observation, reported by Spade & Read (SEP) with Prior 1958, that the sentence can be consistently false; and the name it lends to the liar paradox."
 tags: [problem, paradox, logic, self-reference, truth]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # The Epimenides paradox
@@ -94,3 +94,5 @@ Rendel Harris's 1906–1907 *Expositor* notes and the Theodore of Mopsuestia com
 - [Validity](../vocabulary/validity.md) — the propositional check above.
 - [Classical logic](../methods/classical-logic.md) — the logic of the check.
 - *Liar* (one whose every statement is false, in the check's reading), *self-reference or reflexiveness* (Russell, p. 224), *insoluble* (SEP "Insolubles") — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Russell](../thinkers/russell.md).

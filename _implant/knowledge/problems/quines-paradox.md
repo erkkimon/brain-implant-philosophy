@@ -4,7 +4,7 @@ about: concept
 title: "Quine's paradox"
 description: "Quine's 1962 sentence that says of itself, without 'this sentence', that it is false — a nine-word phrase put down twice, the first time in quotation marks; Quine's subscript hierarchy as the response, its non-theorem twin as a route to Gödel's proof, the diagonal lemma, and later readings (Boolos, Hofstadter, Dowden)."
 tags: [problem, paradox, logic, self-reference, truth, philosophy-of-language]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Quine's paradox
@@ -108,3 +108,5 @@ which Bolander (SEP 2024, §1.6) says "does not involve self-reference at all, n
 
 - [Paradox](../vocabulary/paradox.md) — Bolander (SEP 2024, §1) defines one, citing Quine 1976, as "a seemingly sound piece of reasoning, based on apparently true assumptions, that still leads to a contradiction (Quine, 1976)."; Quine's own kinds are veridical, falsidical and antinomy. [Validity](../vocabulary/validity.md); [Classical logic](../methods/classical-logic.md), in which the logic checks above run.
 - Antinomy, pseudomenon, truth locution, quotation, indexical, demonstrative, diagonal (fixed-point) lemma, Gödel numbering, hierarchy of languages — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Russell](../thinkers/russell.md).

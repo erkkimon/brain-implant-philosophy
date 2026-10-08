@@ -4,7 +4,7 @@ about: person
 title: Mahatma Gandhi (M. K. Gandhi)
 description: "Mohandas Karamchand Gandhi (1869–1948), Indian lawyer, anti-colonial leader and writer: satyagraha, ahimsa and swaraj in Hind Swaraj (1909) and the Autobiography (1927–29), means and ends, civil disobedience and pacifism; Tolstoy, Ruskin, Thoreau and the Sermon on the Mount as his reading; King's reception, Orwell's 1949 essay and the 1936 caste exchange with Ambedkar."
 tags: [thinker, indian-philosophy, nonviolence, pacifism, civil-disobedience, twentieth-century, gandhi]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Mahatma Gandhi (M. K. Gandhi)
@@ -100,3 +100,5 @@ critical ones are interleaved, unranked.
 - *Ahimsa*: nonviolence, non-harm; Kohn & Reddy: "the Hindu concept ahimsa , or avoiding harm". *Himsa*: violence, harm (Fiala's gloss).
 - *Swaraj*: "self-rule" (Kohn & Reddy). In the 1921 Reply to Critics Gandhi distinguishes the Swaraj "pictured" in Hind Swaraj, for which he works "individually", from "Parliamentary Swaraj in accordance with the wishes of the people of India", the aim of his "corporate activity".
 - *Brahmacharya*: Fiala: "self-renunciation ( brahmacharya )"; *Sarvodaya*: "the welfare of all" (IV.18). No vocabulary pages yet ([vocabulary](../vocabulary/index.md)).
+
+Related thinkers: [Russell](russell.md) (Fiala).

@@ -4,7 +4,7 @@ about: person
 title: Graham Priest
 description: "Graham Priest (first academic post 1974; CUNY Graduate Center from 2009), co-coiner of dialetheism (1981), the view that some contradictions are true — the logic of paradox LP (1979), In Contradiction (1987) on the liar, the inclosure schema (Beyond the Limits of Thought, 1995/2002) and the dialetheic treatment of Curry's paradox, with the objections the SEP records."
 tags: [thinker, logic, analytic, contemporary, paradox, dialetheism, priest]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Graham Priest
@@ -141,3 +141,5 @@ Normative entries: [paradox](../vocabulary/paradox.md),
 [vocabulary](../vocabulary/index.md).
 
 Related problems: [the Hilbert–Bernays paradox](../problems/hilbert-bernays-paradox.md) (Priest 1997), [Yablo's paradox](../problems/yablos-paradox.md) (Priest 1997 on its self-reference), [the paradoxes of entailment and material implication](../problems/paradoxes-of-material-implication.md) (LP invalidates explosion, SEP "Paraconsistent Logic" §3.6).
+
+Related thinkers: [Russell](russell.md).

@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -33,8 +33,8 @@ the new day's journal, and fix the links to it (grep for its file name).
    [write-a-batch-with-agents](../skills/write-a-batch-with-agents.md).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
-3. Take the item marked **NEXT** in section 2 (Zeno, Russell, Nozick, item 13,
-   as of 2026-10-08).
+3. Take the item marked **NEXT** in section 2 (Outline of ethics, Decision theory and
+   Concepts, item 14, as of 2026-10-08).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
    against `raw/`, links, template headings, rerun every `logic.py` claim,
@@ -50,8 +50,8 @@ the new day's journal, and fix the links to it (grep for its file name).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
 - **Pages per `knowledge/` branch** (2026-10-02): problems 78, positions 9,
-  arguments 6, thinkers 49, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 16, methods 3. `raw/` holds 775 excerpt files.
+  arguments 6, thinkers 52, works 10, schools 2, persuasion 4, biases 3,
+  vocabulary 16, methods 3. `raw/` holds 786 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -135,9 +135,10 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
     Mill, Sidgwick, Nietzsche on 2026-10-02; batch 2, Hume … G. E. Moore,
     and batch 3, Tillich … Dancy, on 2026-10-08;
     [journal](../journals/2026-10-08.md); [todo archive](../todo/archive/2026-10-08.md)).
-13. **Thinkers for the paradox pages — NEXT:** Zeno of Elea, Russell, Nozick
-    (one small batch; exemplars `thinkers/aquinas.md`, `thinkers/sidgwick.md`).
-14. **Outline of ethics, "Decision theory" and "Concepts":** recount
+13. ~~**Thinkers for the paradox pages**~~ — done 2026-10-08:
+    [Zeno of Elea](../knowledge/thinkers/zeno-of-elea.md),
+    [Russell](../knowledge/thinkers/russell.md), [Nozick](../knowledge/thinkers/nozick.md).
+14. **Outline of ethics, "Decision theory" and "Concepts" — NEXT:** recount
     against the pinned revision 1369745706 first, then batch the missing
     entries. Exact lists are in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
@@ -146,10 +147,8 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
    by title (switch 4922, footbridge 4946, Newcomb 4886, experience
    machine 4942, eating animals 4938, abortion 4974, capital punishment
    4994).
-9. **Thinker pages still missing** for figures the pages lean on: Zeno of
-   Elea and Russell; for the ethics pages Aquinas, Parfit, Singer, Nozick
-   and Kant (template: [thinkers index](../knowledge/thinkers/index.md)).
-   Aquinas was done 2026-10-02; Kant comes with item 12.
+9. ~~**Thinker pages still missing**~~ — done: Aquinas 2026-10-02; Kant,
+   Parfit, Singer, Zeno of Elea, Russell, Nozick 2026-10-08.
 
 After that, the [MLP plan](mlp.md) (target v0.2): free will and induction
 clusters, verifying the 13 unverified-citation pages, more thinkers, works

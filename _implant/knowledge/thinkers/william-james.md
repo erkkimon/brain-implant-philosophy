@@ -4,7 +4,7 @@ about: person
 title: William James
 description: "William James (1842–1910), American psychologist and philosopher, by Goodman's (SEP) account a founder with Peirce of pragmatism: 'The Moral Philosopher and the Moral Life' (1891) and its 'lost soul' credited by Le Guin, 'The Will to Believe' (1896), 'The Dilemma of Determinism' (1884), the Varieties of Religious Experience (1902), Pragmatism (1907) and Russell's objection to its account of truth."
 tags: [thinker, pragmatism, ethics, philosophy-of-religion, free-will, american, nineteenth-century, james]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # William James
@@ -103,3 +103,5 @@ Assessments below are their authors'; none is the implant's.
 - *True* and *truth*: in *Pragmatism* (Lecture VI), what we can "VALIDATE, CORROBORATE AND VERIFY"; "Truth HAPPENS to an idea." No vocabulary page for truth yet ([vocabulary](../vocabulary/index.md)).
 - *Religion*: in the *Varieties*, a working definition he calls arbitrary (Lecture II).
 - *Stream of consciousness*: his metaphor (*Principles* I, p. 239); see [consciousness](../vocabulary/consciousness.md).
+
+Related thinkers: [Zeno of Elea](zeno-of-elea.md) (Huggett §5), [Russell](russell.md) (Legg & Hookway).

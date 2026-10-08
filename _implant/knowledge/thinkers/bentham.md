@@ -4,7 +4,7 @@ about: person
 title: Jeremy Bentham
 description: "Jeremy Bentham (1748–1832), English jurist and reformer of the classical utilitarian tradition: the principle of utility and 'two sovereign masters' (Introduction to the Principles of Morals and Legislation, 1789), the felicific calculus, 'Can they suffer?', punishment as an evil, the panopticon, 'nonsense upon stilts', the 1804 torture manuscript; Mill's 1838 assessment and later critics."
 tags: [thinker, utilitarianism, ethics, philosophy-of-law, eighteenth-century, nineteenth-century, bentham]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Jeremy Bentham
@@ -101,4 +101,4 @@ criticism are set side by side.
 - *Rights*: in *Anarchical Fallacies* only legal rights exist; "natural rights" is "simple nonsense", not the sense of rights used on problem pages that report rights theories.
 - *Suffer* / *sensitive being*: Bentham's ch. XVII note speaks of "a sensitive being"; the implant's [sentience](../vocabulary/sentience.md) page notes that Bentham does not use "sentience".
 
-Related thinkers: [Singer](singer.md) (Crimmins §3).
+Related thinkers: [Nozick](nozick.md) (Crimmins §4.3), [Singer](singer.md) (Crimmins §3).

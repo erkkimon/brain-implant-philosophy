@@ -4,7 +4,7 @@ about: concept
 title: "The experience machine"
 description: "Would you plug into a machine that gives you any experiences you want, for life? Nozick (1974) says we would not, and that something matters besides how life feels from the inside — the case against hedonism about well-being; the hedonist replies (Silverstein, Crisp), the reversed machine and status quo bias (Kolber 1994, De Brigard 2010, Weijers 2014), the desire and objective-list alternatives, and the survey figures."
 tags: [problem, ethics, well-being, hedonism]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # The experience machine
@@ -193,3 +193,5 @@ Bramble 2016; Rowland 2017; Lin 2016 and Inglis 2021 in their own texts.
   (other cases argued from intuitions about imagined lives and choices). Branch: [Problems](./index.md).
 
 Related problems: [the paradox of hedonism](paradox-of-hedonism.md).
+
+Related thinkers: [Nozick](../thinkers/nozick.md).

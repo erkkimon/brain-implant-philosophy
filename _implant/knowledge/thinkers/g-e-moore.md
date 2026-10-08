@@ -4,7 +4,7 @@ about: person
 title: G. E. Moore
 description: "G. E. Moore (1873–1958), Cambridge analytic philosopher: Principia Ethica (1903) with the open-question argument, the 'naturalistic fallacy', ideal consequentialism and organic unities; 'A Defence of Common Sense' (1925), 'Proof of an External World' (1939), Moore's paradox and the paradox of analysis."
 tags: [thinker, analytic-philosophy, ethics, metaethics, twentieth-century, moore]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # G. E. Moore
@@ -106,4 +106,4 @@ Assessments below are their authors'; none is the implant's.
 - *Imply*: in Moore 1942 and 1944, a relation that holds "though we neither assert this, nor does it follow from anything we do assert" (1944, p. 204) — not logical implication.
 - *Ideal*: the title of *Principia Ethica* ch. VI, Moore's list of intrinsic goods; *ideal utilitarianism* is a label in the secondary literature (Skelton 2011, per Hurka's bibliography).
 
-Related thinkers: [Hare](hare.md), [Mackie](mackie.md), [Parfit](parfit.md) (Hurka §1).
+Related thinkers: [Russell](russell.md) (Baldwin), [Hare](hare.md), [Mackie](mackie.md), [Parfit](parfit.md) (Hurka §1).

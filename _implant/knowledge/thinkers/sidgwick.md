@@ -4,7 +4,7 @@ about: person
 title: Henry Sidgwick
 description: "Henry Sidgwick (1838–1900), Cambridge moral philosopher in the utilitarian tradition: The Methods of Ethics (1874; 7th ed. 1907), its three methods (egoism, intuitionism, utilitarianism), the dualism of practical reason, 'the point of view of the Universe', the paradox of hedonism and esoteric morality."
 tags: [thinker, utilitarianism, ethics, nineteenth-century, victorian, sidgwick]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Henry Sidgwick
@@ -105,4 +105,4 @@ Assessments below are their authors'; none is the implant's.
 - *Paradox* in "the fundamental paradox of Hedonism": Sidgwick says that "though it presents itself as a paradox, there does not seem to be any difficulty in its practical realisation" (II.iii.2). Dietz (2021, p. 388, n. 3, on the [problem page](../problems/paradox-of-hedonism.md)) calls it paradoxical "in the milder sense of being a surprising observation", not the implant's normative [paradox](../vocabulary/paradox.md), an argument to an unacceptable conclusion.
 - *Esoteric morality*: doctrines "which it is expedient to confine to an enlightened few" (IV.v.3), not taught openly; *Common Sense*: his name for the morality of ordinary moral reasoning examined in Book III.
 
-Related thinkers: [Hare](hare.md), [Rawls](rawls.md), [Parfit](parfit.md), [Singer](singer.md) (de Lazari-Radek & Singer), [G. E. Moore](g-e-moore.md) (student, Schultz §2.1), [Hegel](hegel.md) (Schultz §2.1).
+Related thinkers: [Russell](russell.md) (Schultz), [Hare](hare.md), [Rawls](rawls.md), [Parfit](parfit.md), [Singer](singer.md) (de Lazari-Radek & Singer), [G. E. Moore](g-e-moore.md) (student, Schultz §2.1), [Hegel](hegel.md) (Schultz §2.1).

@@ -4,7 +4,7 @@ about: concept
 title: "The Berry paradox"
 description: "'The least integer not nameable in fewer than nineteen syllables' is itself named in eighteen syllables — the paradox Russell published (1906, 1908) and credited to G. G. Berry of the Bodleian; Russell's solution by assigned classes of names and the vicious-circle principle, Ramsey's 'notions of meaning', and its reuse as a proof of incompleteness by Vopěnka (1966), Chaitin (program-size complexity) and Boolos (1989)."
 tags: [problem, paradox, logic, self-reference, definability, philosophy-of-mathematics]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # The Berry paradox
@@ -122,3 +122,5 @@ Raz 2011.
   [vocabulary](../vocabulary/index.md).
 
 Related problems: [Richard's paradox](richards-paradox.md), [the Hilbert–Bernays paradox](hilbert-bernays-paradox.md) (Read 2019: "the paradoxes of denotation"), [the card paradox](card-paradox.md) (Sorensen, per Bolander §1.6, credits Berry).
+
+Related thinkers: [Russell](../thinkers/russell.md).

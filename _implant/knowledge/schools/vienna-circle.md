@@ -4,7 +4,7 @@ about: organization
 title: Vienna Circle (logical empiricism / logical positivism)
 description: "Group of scientifically trained philosophers and philosophically interested scientists meeting in Vienna under Moritz Schlick, 1924–1936, whose members shared an empiricist criterion of meaningfulness, a logicist view of mathematics and a denial of the synthetic a priori; the core of what is also called logical positivism or logical empiricism."
 tags: [school, western, modern, twentieth-century, philosophy-of-science, logical-empiricism]
-timestamp: 2026-09-26T09:54:50Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Vienna Circle
@@ -87,3 +87,5 @@ Uebel: the Circle's program "no longer represents an active research
 program". He also reports that "recent history of philosophy of science
 has unearthed much previously neglected variety and depth in the doctrines
 of the Circle’s protagonists" (preamble). Both statements are his.
+
+Related thinkers: [Russell](../thinkers/russell.md).

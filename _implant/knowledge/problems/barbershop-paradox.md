@@ -4,7 +4,7 @@ about: concept
 title: "The barbershop paradox"
 description: "Three barbers, Allen, Brown and Carr; 'if Carr is out, then if Allen is out Brown is in' and 'if Allen is out Brown is out' — can Carr ever be out? Lewis Carroll's 'A Logical Paradox' (Mind 1894) and its questions about hypotheticals, the replies of Sidgwick, Johnson, Venn, Russell (Principles §19 n. 1, material implication), Jones and Cook Wilson, the encyclopedia assessments, and a propositional check of the material-implication reading."
 tags: [problem, paradox, logic, conditionals, history-of-logic]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # The barbershop paradox
@@ -109,3 +109,5 @@ correction (p. 439), and later treatments the Wikipedia article lists.
 - [Argument](../vocabulary/argument.md) — premisses and the reductio form.
 - [Classical logic](../methods/classical-logic.md) — the propositional check above.
 - *Hypothetical*, *protasis*, *apodosis*, *material implication*, *reductio ad absurdum* — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Russell](../thinkers/russell.md).

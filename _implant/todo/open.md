@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Open
@@ -52,8 +52,6 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [oxymoron](../knowledge/vocabulary/oxymoron.md), [paradox](../knowledge/vocabulary/paradox.md),
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
-- [ ] thinker pages still wanted for figures the paradox pages lean on:
-      Zeno of Elea, Russell, Nozick
 - [ ] Outline of ethics (pinned revision 1369745706), the sections after
       "Persons influential": "Decision theory" and "Concepts" — recount
       against the pinned list first (todo/coverage.md), then batch the gaps

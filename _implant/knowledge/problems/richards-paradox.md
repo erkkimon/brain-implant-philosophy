@@ -4,7 +4,7 @@ about: concept
 title: "Richard's paradox"
 description: "The real number built by changing the nth digit of the nth finitely definable real is defined in finitely many words, yet differs from every such real — the paradox Jules Richard published in 1905; his own vicious-circle diagnosis, taken up by Poincaré (1906) and Russell (1908), Peano's 'linguistics, not mathematics', Borel, Brouwer, Weyl, Ramsey's Group B, and Gödel's 1931 analogy."
 tags: [problem, paradox, logic, self-reference, definability, diagonalisation, philosophy-of-mathematics]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Richard's paradox
@@ -128,3 +128,5 @@ which the Wikipedia list describes as "By formulating an equivalent to Richard's
 - Definability, diagonalisation, denumerable, effectively enumerable,
   impredicative / non-predicative definition, vicious-circle principle,
   Inclosure Schema — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Russell](../thinkers/russell.md).

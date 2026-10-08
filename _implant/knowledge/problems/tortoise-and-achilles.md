@@ -4,7 +4,7 @@ about: concept
 title: What the Tortoise Said to Achilles
 description: "Lewis Carroll's 1895 dialogue in Mind: the Tortoise accepts premises A and B and each added hypothetical ('If A and B are true, Z must be true'), yet withholds Z, and the list of premises grows without end. Can a rule of inference be written in as one more premise, and what makes anyone draw a conclusion? Carroll's own diagnosis, Russell's 'therefore', Ryle's knowing-how, Quine against conventionalism, Stroud's non-propositional factor, Boghossian on rule-circularity, and Engel's four readings."
 tags: [problem, paradox, logic, philosophy-of-logic, inference, epistemology]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # What the Tortoise Said to Achilles
@@ -123,3 +123,5 @@ were searched (archive HTML, 2026-10-01) and contain no mention of Carroll or th
 - [Knowledge](../vocabulary/knowledge.md) — knowing how vs knowing that (Ryle).
 - [Classical logic](../methods/classical-logic.md) — material conditional and modus ponens in the check.
 - *Modus ponens*, *rule of inference*, *rule-circularity*, *conventionalism*, *inferentialism*, *entitlement* — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Russell](../thinkers/russell.md), [Zeno of Elea](../thinkers/zeno-of-elea.md).

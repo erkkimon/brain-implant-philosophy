@@ -4,7 +4,7 @@ about: concept
 title: "Fitch's paradox of knowability"
 description: "If every truth is knowable, is every truth known? The Church–Fitch proof (Church's 1945 referee report, Fitch 1963 Theorem 5) derives 'all truths are known' from 'all truths are knowable' by principles the SEP authors call modest; taken after Hart & McGinn's (1976) rediscovery as a refutation of verificationism, it drew intuitionistic, paraconsistent, semantic and syntactic responses — Williamson, Beall, Edgington, Kvanvig, Tennant, Dummett — each with its owner."
 tags: [problem, paradox, epistemology, logic, metaphysics]
-timestamp: 2026-10-01T22:52:16Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # Fitch's paradox of knowability
@@ -147,3 +147,5 @@ Salerno's KK-based derivation are reported in SEP §§3.4, 3.5 and 5.3.
   statement*, *KK principle* — open work in [vocabulary](../vocabulary/index.md).
 
 Related problems: [the knower paradox](knower-paradox.md).
+
+Related thinkers: [Nozick](../thinkers/nozick.md).

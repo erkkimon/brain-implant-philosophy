@@ -4,7 +4,7 @@ about: concept
 title: "The liberal paradox (Sen's impossibility of a Paretian liberal)"
 description: "Can a rule for social choice respect both unanimous preference (the weak Pareto principle) and a minimal personal sphere for at least two people, for every profile of preferences? Sen's 1970 theorem, his Lady Chatterley's Lover example, Gibbard's 1974 paradox, and the responses on record (giving up Pareto, restricting the domain to non-meddlesome preferences, Nozick's rights as constraints on choice, game-form rights after Gaertner, Pattanaik and Suzumura 1992) with their owners."
 tags: [problem, paradox, ethics, political-philosophy, social-choice-theory]
-timestamp: 2026-10-01T19:53:21Z
+timestamp: 2026-10-08T19:52:29Z
 ---
 
 # The liberal paradox (Sen's impossibility of a Paretian liberal)
@@ -101,3 +101,5 @@ Listed in no order of merit. Each entry gives what its owner says for it and, wh
 - [Validity](../vocabulary/validity.md) — the propositional check reports joint inconsistency as vacuous validity.
 - [Classical logic](../methods/classical-logic.md) — the logic of the propositional check above.
 - *Weak Pareto principle*, *unrestricted domain*, *minimal liberalism*, *acyclicity*, *social decision function*, *game form*, *meddlesome preference* — open work in [vocabulary](../vocabulary/index.md).
+
+Related thinkers: [Nozick](../thinkers/nozick.md).
