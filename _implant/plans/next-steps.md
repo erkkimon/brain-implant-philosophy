@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-08T21:37:56Z
+timestamp: 2026-10-08T23:30:36Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -200,6 +200,9 @@ from the repository root:
    the pre-commit (judge plus compile gate) can take longer. If a batch
    shrinks a file (e.g. `todo/open.md`), commit everything else first, then
    that file alone right after a fresh bless ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
+   The same goes for a journal roll: commit the moved journal (plus the
+   files whose links to it changed) first, then the batch
+   ([journal 2026-10-09](../journals/2026-10-09.md)).
    Run long commits as background jobs; the tool call caps at 10 minutes.
    Compile embeds with the shared local bge-m3; when other implants are
    compiling, one embedding can take more than 60 s and a compile can take an

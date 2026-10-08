@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to do — the implant's live work queue, ordered against the MVP bar in ../plans/mvp.md.
-timestamp: 2026-10-08T21:37:56Z
+timestamp: 2026-10-08T23:30:24Z
 ---
 
 # Open
@@ -53,8 +53,23 @@ the first breadth after v0.1. Started the same day with the vocabulary pages
 [dilemma](../knowledge/vocabulary/dilemma.md) and four problem pages.
 
 - [ ] Outline of ethics (pinned 1369745706), "Concepts" (49 entries, 2
-      matched): single principles, rights and legal concepts, guidelines and
-      basic concepts, human experience, practical ethics, in list order
+      matched: just war, moral patienthood), in list order. Single
+      principles: autonomy, self-determination, egalitarianism, Golden Rule,
+      categorical imperative, universalisability, Kingdom of Ends,
+      non-aggression principle, liberty, positive liberty, negative liberty,
+      harm principle. Rights and legal: consent, human rights, justice,
+      natural and legal rights, political freedom, rights, rule according to
+      higher law. Guidelines and basic: good and evil, good, evil,
+      commensurability, ideal, moral agency, moral responsibility, norm,
+      principle, self-interest, sin, taboo, universal code, value,
+      instrumental value, intrinsic value (animal ethics), intrinsic value,
+      vice, virtue. Human experience: conscience, free will, happiness, love,
+      moral emotions, guilt, shame, suffering. Practical: dual loyalty,
+      evasion, trust. Page type: most are terms (vocabulary/ template:
+      normative definition, descriptive definitions, collisions); theses
+      such as egalitarianism or the harm principle fit positions/; free will
+      may be a problem page. Group sub-entries into one page where the
+      Outline nests them (e.g. liberty with positive and negative liberty).
 - [ ] Jung and de Mello, further pages if wanted: *Aion*, *Memories,
       Dreams, Reflections* (authorship question), *The Undiscovered Self*,
       *One Minute Wisdom*; vocabulary persona/shadow; a problem page on
