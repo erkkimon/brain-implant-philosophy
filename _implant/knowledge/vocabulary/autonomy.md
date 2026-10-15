@@ -4,7 +4,7 @@ about: concept
 title: Autonomy (and self-determination)
 description: "Self-government — a pointer term for several senses kept apart here: Kant's autonomy of the will, personal autonomy (hierarchical, coherentist and relational accounts), respect for autonomy in bioethics, and the self-determination of peoples in political philosophy and international law; the implant does not choose among them."
 tags: [vocabulary, ethics, political-philosophy, bioethics]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T16:33:30Z
 ---
 
 # Autonomy (and self-determination)
@@ -30,7 +30,7 @@ secession). The implant reports each sense with its holders and critics
 ([Reporting, not endorsing](../../conventions/reporting-not-endorsing.md);
 [Words are contracts](../../conventions/words-are-contracts.md)).
 
-Fixed 2026-10-09 ([journal](../../journals/2026-10-09.md)).
+Fixed 2026-10-09 ([journal](../../journals/archive/2026/10/2026-10-09.md)).
 
 ## Descriptive definitions
 

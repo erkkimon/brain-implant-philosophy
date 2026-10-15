@@ -4,7 +4,7 @@ about: concept
 title: "Liberty (positive and negative)"
 description: "Liberty or freedom as a political and social ideal, used here as a pointer to the debate over what it consists in — negative liberty (absence of interference), positive liberty (self-mastery, self-determination), republican liberty (non-domination), and MacCallum's single triadic concept — without adopting any one of them."
 tags: [vocabulary, ethics, political-philosophy]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T16:33:30Z
 ---
 
 # Liberty (positive and negative)
@@ -32,7 +32,7 @@ the agent, the constraint and the purpose (MacCallum's three variables), so
 the pointer must be split at least that finely. "Liberty" in this sense is
 kept apart from free will (see Collisions).
 
-Fixed 2026-10-09 ([journal](../../journals/2026-10-09.md)).
+Fixed 2026-10-09 ([journal](../../journals/archive/2026/10/2026-10-09.md)).
 Excerpts: `raw/sep-liberty-positive-negative-fall-2024-berlin-maccallum-republican.md`,
 `raw/sep-republicanism-fall-2024-non-domination-negative-positive.md`,
 `raw/constant-1819-liberte-des-anciens-comparee-modernes.md`,

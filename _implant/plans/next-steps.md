@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T16:33:30Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -12,7 +12,7 @@ timestamp: 2026-10-08T23:52:36Z
 **Read this first when resuming.** It is kept current at the end of every
 working session, so the work can continue after a gap of days or weeks
 without the conversation that produced it. The episodic detail is in the
-journals (latest: [2026-10-09](../journals/2026-10-09.md); earlier days under
+journals (latest: [2026-10-09](../journals/archive/2026/10/2026-10-09.md); earlier days under
 `journals/archive/`), the full queue is [todo/open.md](../todo/open.md), and
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.
@@ -140,7 +140,7 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
     [Russell](../knowledge/thinkers/russell.md), [Nozick](../knowledge/thinkers/nozick.md).
 14. ~~**List of paradoxes "Decision theory"**~~ — done: batch 1 (12,
     Abilene … Kavka) 2026-10-08, batch 2 (10, Morton's fork … willpower)
-    2026-10-09 ([journal](../journals/2026-10-09.md); [todo archive](../todo/archive/2026-10-09.md)).
+    2026-10-09 ([journal](../journals/archive/2026/10/2026-10-09.md); [todo archive](../todo/archive/2026-10-09.md)).
 15. **Outline of ethics "Concepts" — NEXT (batch 1, Single principles, done 2026-10-09; next: "Rights and legal concepts", 7 entries without just war):** 49 entries, 2 matched; in list order,
     about 10 per batch; many are concepts, so check vocabulary/ and
     positions/ templates before choosing a page type. Exact lists are in [todo/open.md](../todo/open.md).
@@ -202,7 +202,7 @@ from the repository root:
    that file alone right after a fresh bless ([journal 2026-09-27](../journals/archive/2026/09/2026-09-27.md)).
    The same goes for a journal roll: commit the moved journal (plus the
    files whose links to it changed) first, then the batch
-   ([journal 2026-10-09](../journals/2026-10-09.md)).
+   ([journal 2026-10-09](../journals/archive/2026/10/2026-10-09.md)).
    Run long commits as background jobs; the tool call caps at 10 minutes.
    Compile embeds with the shared local bge-m3; when other implants are
    compiling, one embedding can take more than 60 s and a compile can take an
