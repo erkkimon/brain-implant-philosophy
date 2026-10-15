@@ -4,7 +4,7 @@ about: concept
 title: Consent
 description: "Agreement or permission given by a party to what another does or proposes — a pointer term for several senses kept apart here: consent as a normative power (the 'moral magic'), informed consent in medicine and research, consent of the governed in political philosophy, and consent in sexual ethics and law; the implant does not choose among their analyses."
 tags: [vocabulary, ethics, political-philosophy, bioethics, law]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:07:11Z
 ---
 
 # Consent
@@ -34,7 +34,7 @@ The implant reports each sense with its holders and critics
 ([Reporting, not endorsing](../../conventions/reporting-not-endorsing.md);
 [Words are contracts](../../conventions/words-are-contracts.md)).
 
-Fixed 2026-10-15 ([journal](../../journals/2026-10-15.md)).
+Fixed 2026-10-15 ([journal](../../journals/archive/2026/10/2026-10-15.md)).
 
 ## Descriptive definitions
 

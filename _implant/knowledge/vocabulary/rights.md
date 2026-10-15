@@ -4,7 +4,7 @@ about: concept
 title: Rights (natural and legal rights)
 description: "Entitlements to act, to be in a state, or that others act — a pointer term for the senses kept apart here: moral, natural and legal rights, Hohfeld's four incidents, and the will and interest theories of what rights do; the implant does not choose among them."
 tags: [vocabulary, ethics, political-philosophy, philosophy-of-law]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:07:11Z
 ---
 
 # Rights (natural and legal rights)
@@ -35,7 +35,7 @@ The implant reports each sense with its holders and critics
 ([Reporting, not endorsing](../../conventions/reporting-not-endorsing.md);
 [Words are contracts](../../conventions/words-are-contracts.md)).
 
-Fixed 2026-10-15 ([journal](../../journals/2026-10-15.md)).
+Fixed 2026-10-15 ([journal](../../journals/archive/2026/10/2026-10-15.md)).
 
 ## Descriptive definitions
 

@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:07:11Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -12,7 +12,7 @@ timestamp: 2026-10-15T16:52:18Z
 **Read this first when resuming.** It is kept current at the end of every
 working session, so the work can continue after a gap of days or weeks
 without the conversation that produced it. The episodic detail is in the
-journals (latest: [2026-10-15](../journals/2026-10-15.md); earlier days under
+journals (latest: [2026-10-15](../journals/archive/2026/10/2026-10-15.md); earlier days under
 `journals/archive/`), the full queue is [todo/open.md](../todo/open.md), and
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.

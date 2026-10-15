@@ -4,7 +4,7 @@ about: concept
 title: Political freedom
 description: "Political freedom, used here as a pointer to several senses kept apart — the civil and political liberties listed in the ICCPR (1966), participation in government, Arendt's freedom as action in public, Hayek's contrast of 'political freedom' with personal freedom, Sen's political freedoms as instrumental freedoms, the Marxist contrast of political with human emancipation, and freedom as scored by indices — without adopting any one of them."
 tags: [vocabulary, ethics, political-philosophy, law]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:07:11Z
 ---
 
 # Political freedom
@@ -38,7 +38,7 @@ Granularity: the senses differ in who is free (an individual, a citizen, a
 people), from what, and whether participation is the freedom itself or a
 means to something else, so the pointer is split at least that finely.
 
-Fixed 2026-10-15 ([journal](../../journals/2026-10-15.md)).
+Fixed 2026-10-15 ([journal](../../journals/archive/2026/10/2026-10-15.md)).
 
 ## Descriptive definitions
 
