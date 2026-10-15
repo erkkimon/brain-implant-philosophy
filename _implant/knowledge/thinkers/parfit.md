@@ -4,7 +4,7 @@ about: person
 title: Derek Parfit
 description: "Derek Parfit (1942–2017), Oxford moral philosopher: Reasons and Persons (1984) on self-defeating theories, rationality and time, reductionism about personal identity ('identity is not what matters'), the non-identity problem and the repugnant conclusion; On What Matters (2011–2017) and the triple theory ('climbing the same mountain on different sides')."
 tags: [thinker, analytic-philosophy, ethics, personal-identity, population-ethics, twentieth-century, parfit]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Derek Parfit
@@ -107,3 +107,5 @@ Assessments below are their authors'; none is the implant's.
 - *Self-effacing* vs. *self-defeating*: a theory that tells us to believe another theory is self-effacing; this "is not to be self-defeating" (§9).
 - *Repugnant* in "the Repugnant Conclusion": Parfit's name for a conclusion he found unacceptable (Arrhenius et al., preamble: "As the name indicates, Parfit finds the Repugnant Conclusion unacceptable and many philosophers agree."), not an implant verdict; on whether it is a [paradox](../vocabulary/paradox.md), see the problem page.
 - *Triple theory*: the conjunction "optimific, uniquely universally willable, and not reasonably rejectable" (Ashford & Mulgan §5); *optimific*: in O'Grady's paraphrase of the related Kantian rule consequentialism, the principles "whose universal acceptance would make things go best".
+
+Related concepts: [self-interest](../vocabulary/self-interest.md).

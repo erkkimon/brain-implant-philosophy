@@ -4,7 +4,7 @@ about: person
 title: R. M. Hare
 description: "R. M. Hare (1919–2002), Oxford moral philosopher: universal prescriptivism in The Language of Morals (1952), universalizability and the Golden-Rule argument of Freedom and Reason (1963), the critical and intuitive levels ('archangels' and 'proles') of Moral Thinking (1981); imperative logic, the Frege-Geach objection, and critics including Williams, Mackie and Foot."
 tags: [thinker, ethics, metaethics, utilitarianism, prescriptivism, twentieth-century, analytic, hare]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # R. M. Hare
@@ -110,4 +110,4 @@ Assessments below are their authors'; none is the implant's.
 - *Archangel* and *prole*: the critical and intuitive levels of thinking, "not two social castes, but two roles" (Price §7). Price (§7) reports that Hare "came to deprecate that phrase (1981: 38)" — "rules of thumb" — in favour of "prima facie principles".
 - *Paradox* in "Ross's paradox": the implant's normative sense is at [paradox](../vocabulary/paradox.md); the problem page reports the uses.
 
-Related concepts: [Golden Rule](../positions/golden-rule.md).
+Related concepts: [principle](../vocabulary/principle.md), [ideal](../vocabulary/ideal.md), [Golden Rule](../positions/golden-rule.md).

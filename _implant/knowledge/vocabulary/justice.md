@@ -4,7 +4,7 @@ about: concept
 title: Justice
 description: "Justice as a pointer term — rendering each their due, in whichever sense a cited source gives it: Plato's justice of soul and city, Aristotle's lawful, distributive and rectificatory justice, the Roman-law formula, Hume's artificial virtue, Rawls's justice of institutions, Nozick's entitlement, retributive, restorative and global justice; the implant does not choose among them."
 tags: [vocabulary, ethics, political-philosophy, philosophy-of-law]
-timestamp: 2026-10-15T22:07:11Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Justice
@@ -168,3 +168,5 @@ Listed roughly by date of the source, not ranked.
 
 Grading: [How claims are graded](../../conventions/how-claims-are-graded.md);
 branch: [vocabulary index](index.md).
+
+Related concepts: [ideal](ideal.md).

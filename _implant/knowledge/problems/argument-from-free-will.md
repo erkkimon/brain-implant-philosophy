@@ -4,7 +4,7 @@ about: concept
 title: "The argument from free will (foreknowledge and freedom)"
 description: "If a being infallibly believed yesterday what you will do tomorrow, can you do otherwise, and do you act freely? The theological-fatalism argument (Boethius V.3, Augustine on Cicero, Maimonides, Pike 1965, the SEP Basic Argument) and the responses on record, each by the premise it denies: future contingents, limited foreknowledge, Boethian eternity, Ockhamism, dependence, Molinism, Augustine/Frankfurt on PAP, open theism, theological determinism, the modal-fallacy reply."
 tags: [problem, paradox, philosophy-of-religion, metaphysics, free-will]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # The argument from free will (foreknowledge and freedom)
@@ -144,3 +144,5 @@ C. S. Lewis' passage (quoted by Wikipedia); they are left out until a source is 
 - *Temporal (accidental) necessity*, *soft fact*, *middle knowledge*, *PAP*, *future contingent* — open work in [vocabulary](../vocabulary/index.md).
 
 Related thinkers: [William James](../thinkers/william-james.md) (the dilemma of determinism), [Augustine](../thinkers/augustine.md), [Aquinas](../thinkers/aquinas.md) (SCG I.66), [Aristotle](../thinkers/aristotle.md) (the sea battle).
+
+Related concepts: [moral agency and responsibility](../vocabulary/moral-agency.md).

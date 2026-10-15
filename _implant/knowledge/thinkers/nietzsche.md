@@ -4,7 +4,7 @@ about: person
 title: Friedrich Nietzsche
 description: "Friedrich Nietzsche (1844–1900), German philosopher and classical philologist: the critique of morality, master and slave morality and ressentiment (Beyond Good and Evil 1886, Genealogy 1887), 'God is dead' (Gay Science §125), eternal recurrence (§341), Elisabeth's Will to Power and the Nachlass, and the naturalist, Kaufmann and other readings side by side."
 tags: [thinker, german-philosophy, nineteenth-century, ethics, metaethics, nihilism, nietzsche]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Friedrich Nietzsche
@@ -125,3 +125,5 @@ On how to weigh the Nachlass, Wicks (§6) lists four attitudes: "One popular app
 - **Ressentiment.** Nietzsche's term as Anderson (§2) reports it (quoted above); Samuel's 1913 translation renders it "resentment" (GM I 10).
 - **Nihilism.** In Reginster's account as Anderson reports it, the crisis in which "the highest values de-value themselves"; compare the IEP definition on [the paradox of nihilism](../problems/paradox-of-nihilism.md). No vocabulary page yet.
 - **Good/bad and good/evil.** The two patterns of valuation (Anderson §2; BGE 260 "MASTER-MORALITY and SLAVE-MORALITY").
+
+Related concepts: [good and evil](../vocabulary/good-and-evil.md).

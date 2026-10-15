@@ -4,7 +4,7 @@ about: process
 title: "Reflective equilibrium"
 description: "The method of adjusting general principles and particular judgements until they cohere — adopted here as a descriptive account of how ethical and epistemic reasoning actually proceeds, with its presuppositions and objections recorded so that the method itself is subject to the same scrutiny it applies to other methods."
 tags: [method, ethics, epistemology]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Reflective equilibrium
@@ -119,3 +119,5 @@ method. It is documented here because:
   evaluating positions that rely on it.
 
 Related thinkers: [Rawls](../thinkers/rawls.md), [Singer](../thinkers/singer.md) (Singer 2005).
+
+Related concepts: [principle](../vocabulary/principle.md).

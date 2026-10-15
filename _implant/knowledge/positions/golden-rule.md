@@ -4,7 +4,7 @@ about: concept
 title: Golden Rule
 description: "The principle of treating others as one would wish to be treated (positive form) or not doing to others what one would not want done to oneself (negative form) — its statements in the Analects, Leviticus, Hillel, the Gospels and the Mahabharata, Kant's footnote, Shaw's quip, the masochist and judge objections, and Hare's and Gensler's readings."
 tags: [position, ethics, normative-ethics, golden-rule, reciprocity]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Golden Rule
@@ -166,4 +166,4 @@ names them; *reciprocity* as Legge renders the Analects' word (15.23);
 *universalizability* in Hare's sense. No vocabulary entry for these
 terms yet ([vocabulary](../vocabulary/index.md)).
 
-Related concepts: [consent](../vocabulary/consent.md).
+Related concepts: [universal code](../vocabulary/universal-code.md), [consent](../vocabulary/consent.md).

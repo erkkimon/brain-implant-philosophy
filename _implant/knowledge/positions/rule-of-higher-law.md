@@ -4,7 +4,7 @@ about: concept
 title: Rule according to higher law
 description: "The position that positive law is bound by, and in grave cases void or not binding against, a higher law — natural, divine or of reason — from Cicero's 'true law' and Aquinas's 'perversion of law' (ST I-II q. 95 a. 2) to the Radbruch formula (1946) and King's Letter (1963), with the legal positivist replies of Bentham, Austin and Hart and the Hart–Fuller exchange."
 tags: [position, philosophy-of-law, ethics, natural-law, legal-positivism]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Rule according to higher law
@@ -114,3 +114,5 @@ Legal positivists named in the sources (Green & Adams §§1–2): Bentham, Austi
 - *Positive law* — law "posited" by social-fact sources (Green & Adams §1; Finnis preamble).
 - *Justice* — used in each holder's own sense; see [Justice](../vocabulary/justice.md).
 - *Rights* — natural versus legal rights in Bentham's dispute; see [Rights](../vocabulary/rights.md).
+
+Related concepts: [norm](../vocabulary/norm.md).

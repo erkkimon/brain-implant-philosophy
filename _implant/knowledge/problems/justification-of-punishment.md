@@ -4,7 +4,7 @@ about: concept
 title: "The justification of punishment"
 description: "What, if anything, justifies the state in deliberately burdening and condemning offenders? Kant's retributivism and island example, Bentham's 'all punishment in itself is evil', the punishing-the-innocent objection (Carritt, McCloskey) and Rawls's 'telishment' reply, Hart's mixed account, Feinberg's expressive and Duff's communicative theories, abolitionism and restorative justice, and the NRC 2012 conclusion on capital-punishment deterrence studies."
 tags: [problem, ethics, political-philosophy, philosophy-of-law]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # The justification of punishment
@@ -169,4 +169,4 @@ protection, not the validity of the form.
   Related terms: [dilemma](../vocabulary/dilemma.md), [moral patient](../vocabulary/moral-patient.md).
   Branch: [Problems](./index.md).
 
-Related concepts: [justice](../vocabulary/justice.md).
+Related concepts: [moral agency and responsibility](../vocabulary/moral-agency.md), [justice](../vocabulary/justice.md).

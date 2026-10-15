@@ -4,7 +4,7 @@ about: concept
 title: "Paradox of voting (Downs paradox)"
 description: "If a single vote almost never decides an election, why does a rational person bear the cost of voting? The page sets out the problem as Downs's 1957 analysis is reported, and the responses on record side by side — Riker and Ordeshook's duty term, Ferejohn and Fiorina's minimax regret, mandate, causal, expressive and duty accounts, Edlin, Gelman and Kaplan's social preferences, laboratory tests — and the critique of rational-choice explanation by Green and Shapiro, each with its owner."
 tags: [problem, paradox, decision-theory, political-philosophy, rational-choice, voting]
-timestamp: 2026-10-08T21:37:56Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Paradox of voting (Downs paradox)
@@ -145,3 +145,5 @@ Left out: Downs 1957 and Riker & Ordeshook 1968 beyond what secondary sources an
 Related problems: [Arrow's impossibility theorem](arrows-impossibility-theorem.md)
 (the Condorcet "paradox of voting", a different problem under the same name;
 Morreau, SEP §1, as quoted there). Branch: [Problems](./index.md).
+
+Related concepts: [self-interest](../vocabulary/self-interest.md).

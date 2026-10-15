@@ -4,7 +4,7 @@ about: person
 title: Jonathan Dancy
 description: "Jonathan Dancy (born 1946), British moral philosopher (Keele, Reading, Texas at Austin): moral particularism, the holism of reasons, the distinction between reasons and enabling conditions (Moral Reasons 1993, Ethics Without Principles 2004), and motivating reasons as facts (Practical Reality 2000); with the generalist replies of Hooker, Crisp, Raz, McKeever and Ridge."
 tags: [thinker, analytic-philosophy, ethics, metaethics, twentieth-century, twenty-first-century, particularism, dancy]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Jonathan Dancy
@@ -109,3 +109,5 @@ replies are placed beside each objection.
 - *Enabler, defeater, intensifier, attenuator*: considerations that are relevant without being reasons (SEP §6; McKeever & Ridge §3).
 - *Motivating / normative* reason: for Dancy two roles of one kind of thing, not two kinds (Alvarez §1); *the normative constraint* (Dancy 1995, 2000), as above.
 - *Dilemma* in "Prisoner’s Dilemma": Dancy uses the [prisoner's dilemma](../problems/prisoners-dilemma.md) only as an example of reasons that depend on one another (SEP §5: "in the Prisoner’s Dilemma one prisoner only has reasons if the other one does"), not in the implant's sense of [dilemma](../vocabulary/dilemma.md).
+
+Related concepts: [principle](../vocabulary/principle.md).

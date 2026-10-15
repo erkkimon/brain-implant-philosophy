@@ -4,7 +4,7 @@ about: person
 title: J. L. Mackie
 description: "J. L. Mackie (1917–1981), Australian-born philosopher at Sydney, Otago, York and Oxford: the moral error theory of Ethics: Inventing Right and Wrong (1977) with its arguments from relativity and from queerness, the logical problem of evil of 'Evil and Omnipotence' (1955), the paradox of omnipotence, and The Miracle of Theism (1982) with its reply to Plantinga's free will defence."
 tags: [thinker, analytic-philosophy, metaethics, philosophy-of-religion, twentieth-century, mackie]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # J. L. Mackie
@@ -110,3 +110,5 @@ Assessments below are their authors'; none is the implant's.
 - *Paradox of omnipotence*: for Mackie "can an omnipotent being make things which he cannot control?" (*Miracle* ch. 9(c), p. 160); see the implant's [paradox](../vocabulary/paradox.md) entry for its own sense of the word.
 
 Related thinkers: [Hume](hume.md), [G. E. Moore](g-e-moore.md), [Sidgwick](sidgwick.md), [Plato](plato.md), [Epicurus](epicurus.md), [Hare](hare.md), [Parfit](parfit.md).
+
+Related concepts: [ideal](../vocabulary/ideal.md), [good and evil](../vocabulary/good-and-evil.md).

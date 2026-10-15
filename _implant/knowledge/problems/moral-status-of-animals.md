@@ -4,7 +4,7 @@ about: concept
 title: "The moral status of animals"
 description: "Do non-human animals matter morally for their own sake, and how much? Bentham's 'Can they suffer?', Kant's indirect duties, Singer's equal consideration and 'speciesism', Regan's subjects-of-a-life, Carruthers's contractualist exclusion, Korsgaard's Kantian case for duties to animals, the argument from marginal cases (or species overlap), virtue, care and relational views, and the 2020 PhilPapers figures on eating animals."
 tags: [problem, ethics, applied-ethics, animal-ethics]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # The moral status of animals
@@ -143,3 +143,5 @@ records what philosophers answered in 2020, not what is right.
   pages yet. Branch: [Problems](./index.md).
 
 Related thinkers: [Nozick](../thinkers/nozick.md), [Singer](../thinkers/singer.md), [Rawls](../thinkers/rawls.md) (Carruthers' extension, IEP §1d), [Kant](../thinkers/kant.md) (indirect duties), [Bentham](../thinkers/bentham.md) ("Can they suffer?"), [Gandhi](../thinkers/gandhi.md) (ahimsa, Fiala SEP "Pacifism" §2.2), [Aquinas](../thinkers/aquinas.md) (indirect duties), [Mencius](../thinkers/mencius.md) (1A7).
+
+Related concepts: [intrinsic and instrumental value](../vocabulary/value.md).

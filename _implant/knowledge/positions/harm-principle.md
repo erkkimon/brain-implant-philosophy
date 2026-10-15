@@ -4,7 +4,7 @@ about: concept
 title: Harm principle
 description: "The position that preventing harm to others is the only legitimate ground for coercing a person — Mill's 'one very simple principle' (On Liberty, 1859), Feinberg's harm and offense principles (1984–88), the Hart–Devlin debate on legal moralism, and the objections from what counts as harm, paternalism and offence, with replies."
 tags: [position, ethics, political-philosophy, philosophy-of-law, liberty]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Harm principle
@@ -141,4 +141,4 @@ No survey proportions recorded.
 - *Paternalism, soft and hard; legal moralism; offence; weak and strong
   sufficiency* — defined above in their owners' words.
 
-Related concepts: [consent](../vocabulary/consent.md).
+Related concepts: [principle](../vocabulary/principle.md), [consent](../vocabulary/consent.md).

@@ -4,7 +4,7 @@ about: person
 title: Alasdair MacIntyre
 description: "Alasdair MacIntyre (1929–2025), Scottish-born moral and political philosopher, Marxist, then atheist, then Aristotelian and Thomist: A Short History of Ethics (1966), After Virtue (1981) with its 'disquieting suggestion', emotivism and the failed Enlightenment project, practices, narrative and tradition; Whose Justice? Which Rationality? (1988), Three Rival Versions (1990), Dependent Rational Animals (1999); critics on relativism and community."
 tags: [thinker, virtue-ethics, aristotelianism, thomism, communitarianism, twentieth-century, macintyre]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Alasdair MacIntyre
@@ -91,3 +91,5 @@ replies are set side by side.
 - *Emotivism*: for MacIntyre both a metaethical theory (Stevenson's) and, as Lutz reports, the name of a culture — "the culture of emotivism" (§4.a.i).
 - *Virtue*: in the first-level definition, a quality relative to practices (AV, p. 191, as Lutz quotes it), wider in the second and third levels; not a normative definition of this implant.
 - *Enquiry*: MacIntyre's spelling, used in the titles *Three Rival Versions of Moral Enquiry* and in "traditions of enquiry".
+
+Related concepts: [virtue and vice](../vocabulary/virtue-and-vice.md).

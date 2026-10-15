@@ -21,7 +21,7 @@ about: concept
 title: <the term>
 description: "<one sentence: the normative sense, in brief>"
 tags: [vocabulary, <field>]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # <term>
@@ -67,3 +67,15 @@ Linked, with the boundary between them stated.
 * [Justice](justice.md) — a pointer term: Plato's, Aristotle's distributive and corrective, Justinian's "his due", Hume's circumstances, Rawls's fairness, Nozick's entitlement, retributive and restorative, global.
 * [Rights (natural and legal)](rights.md) — Hohfeld's incidents reported as his; will vs interest theories; natural rights (Hobbes, Locke) vs legal rights (Bentham, legal positivism).
 * [Political freedom](political-freedom.md) — civil and political liberties (ICCPR), Arendt's freedom as action, Hayek, Sen's instrumental freedoms, Marx's political emancipation, freedom indices and their critics; kept apart from liberty.
+* [Good and evil](good-and-evil.md) — a pointer term: Moore's indefinable good, Geach's attributive good, good simpliciter and good-for, Nietzsche's "good and bad" vs "good and evil", the privation theory, the secular concept-of-evil debate.
+* [Commensurability](commensurability.md) — incommensurability vs incomparability (Chang's parity, Raz, Griffin), value pluralism; the Kuhn–Feyerabend sense kept apart.
+* [Ideal](ideal.md) — moral ideals beyond duty, Hare's ideals and "fanaticism", Strawson's social morality and individual ideal, Rawls's ideal and non-ideal theory.
+* [Moral agency (and moral responsibility)](moral-agency.md) — Aristotle on voluntariness, Strawson's reactive attitudes, Frankfurt cases, reasons-responsiveness, attributability vs accountability, responsibility scepticism, artificial agents.
+* [Norm](norm.md) — social, legal, moral, epistemic norms; deontic logic, von Wright, Kelsen's basic norm; the statistical sense kept apart.
+* [Principle](principle.md) — generalism vs particularism (Dancy, McKeever & Ridge), Ross's prima facie duties, the four principles of biomedical ethics and their critics, reflective equilibrium.
+* [Self-interest](self-interest.md) — psychological, ethical and rational egoism; Butler, Hobbes, Sidgwick's dualism, Parfit's self-interest theory, the empathy-altruism studies and their critics.
+* [Sin](sin.md) — each tradition's concept as its texts and scholars state it (Hebrew Bible terms, original sin, mortal and venial, Islamic and Indian terms), Kierkegaard, Kant's radical evil, Tillich, Nietzsche's critique.
+* [Taboo](taboo.md) — Cook's 1777 report from Tonga, Frazer, Freud, Steiner, Douglas; the harmless-taboo, dumbfounding and taboo trade-off studies, with critics.
+* [Universal code](universal-code.md) — proposals for a universal ethic (the 1993 Global Ethic declaration, UNESCO, Bok), human universals (Brown), the cooperation study (Curry et al.) and its critics; relativism side by side.
+* [Value: intrinsic and instrumental](value.md) — intrinsic vs extrinsic and final vs instrumental (Korsgaard), Moore's isolation test, Regan's inherent value, the intrinsic value of animals in Dutch law, Taylor's inherent worth.
+* [Virtue and vice](virtue-and-vice.md) — Aristotle's mean, the cardinal and theological virtues, Confucian and Mencian virtue, Hume's "monkish virtues", MacIntyre, the situationist challenge and replies, the capital vices.

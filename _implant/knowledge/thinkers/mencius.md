@@ -4,7 +4,7 @@ about: person
 title: Mencius (Mengzi)
 description: "Mencius (Mengzi, Meng Ke; trad. 372–289 BCE, 4th c. BCE), Confucian philosopher: 'human nature is good', the four sprouts, the child at the well (2A6), the ox (1A7), the Niu mountain (6A8), the debate with Gaozi (6A1–6) and Xunzi's opposing view, read side by side."
 tags: [thinker, confucianism, chinese-philosophy, ancient, ethics, human-nature, mencius]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Mencius (Mengzi)
@@ -140,3 +140,5 @@ Assessments below are their authors'; none is the implant's.
 - *Sprouts* (duān): Legge translates "principles" in 2A6; Van Norden "sprouts".
 - *Benevolence* (rén), *righteousness* (yì), *wisdom* (zhì), *propriety* (lĭ): the four, per Van Norden §2; Legge renders zhì "knowledge".
 - *Extension* (tui and related terms) and *reflection* (sī): Van Norden §2.
+
+Related concepts: [virtue and vice](../vocabulary/virtue-and-vice.md), [self-interest](../vocabulary/self-interest.md), [good and evil](../vocabulary/good-and-evil.md).

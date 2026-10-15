@@ -4,7 +4,7 @@ about: person
 title: Plato
 description: "Plato (429?–347 B.C.E., Kraut; 427–347 in Diogenes Laertius' sources), Athenian philosopher, pupil of Socrates: the dialogues and the dispute over their order, the forms, the Euthyphro question, Meno's paradox and recollection, justice and the tripartite soul in the Republic, the Gorgias and the Philebus."
 tags: [thinker, ancient-greek, classical, ethics, epistemology, plato]
-timestamp: 2026-10-08T19:52:29Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Plato
@@ -120,3 +120,5 @@ Dialogues cited on this page: *Apology*, *Euthyphro*, *Meno*, *Gorgias*,
 - **justice** (*Republic* IV 433a): "to do one's own business and not to be a busybody"; in the soul, per Frede & Lee (§3.2), the harmony of its three parts. No vocabulary page yet.
 
 Related thinkers: [Zeno of Elea](zeno-of-elea.md).
+
+Related concepts: [self-interest](../vocabulary/self-interest.md).

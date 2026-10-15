@@ -4,7 +4,7 @@ about: concept
 title: "Ross's paradox"
 description: "From 'Slip the letter into the letter-box!' classical disjunction introduction yields 'Slip the letter into the letter-box or burn it!'. Alf Ross 1941 (Theoria 7) on satisfaction versus validity of imperatives; the deontic form OB m, therefore OB(m ∨ b), as the first challenge to the inheritance principle RM (SEP 'Deontic Logic'); the responses on record — elementary confusion (Føllesdal & Hilpinen), pragmatics (Castañeda; Hare per Vranas), rejecting RM (Jackson, Goble, Cariani, Hansson), intensional disjunction and choice-offering free-choice readings (Aloni)."
 tags: [problem, paradox, logic, deontic-logic, imperative-logic]
-timestamp: 2026-10-01T21:51:46Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Ross's paradox
@@ -109,3 +109,5 @@ only as the cited secondary sources report them.
 - [Validity](../vocabulary/validity.md) — Ross's "logically valid" and his separate "validity" of an imperative (a term he leaves to be "further defined", §11).
 - [Classical logic](../methods/classical-logic.md) — disjunction introduction, the propositional check above.
 - *Imperative*, *satisfaction*, *deontic operator*, *RM (inheritance)*, *free choice permission*, *implicature* — open work in [vocabulary](../vocabulary/index.md).
+
+Related concepts: [norm](../vocabulary/norm.md).

@@ -4,7 +4,7 @@ about: concept
 title: "Lying to the murderer at the door (Kant and Constant)"
 description: "May you lie to a murderer who asks whether the friend he pursues is hiding in your house? Constant's 1797 objection, Kant's reply 'On a Supposed Right to Lie' (Ak. 8:425 ff.), the universalizability test, Korsgaard's 1986 Universal Law vs. Humanity reading, Varden's Doctrine of Right reading, definitional escapes (Grotius, Donagan), and utilitarian and virtue-ethical treatments."
 tags: [problem, ethics, kant, lying, deontology]
-timestamp: 2026-10-08T19:18:49Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Lying to the murderer at the door (Kant and Constant)
@@ -196,3 +196,5 @@ remaining silent or even lying." Deontology and virtue ethics, they write, "aim 
   virtue — open work in [vocabulary](../vocabulary/index.md). Branch: [Problems](./index.md).
 
 Related thinkers: [MacIntyre](../thinkers/macintyre.md) (Mahon §2.3), [Rawls](../thinkers/rawls.md) (Korsgaard), [Kant](../thinkers/kant.md), [Augustine](../thinkers/augustine.md) (*De mendacio*; Mahon SEP §2.3), [Aquinas](../thinkers/aquinas.md).
+
+Related concepts: [ideal](../vocabulary/ideal.md).

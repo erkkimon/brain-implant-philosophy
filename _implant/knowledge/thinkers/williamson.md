@@ -4,7 +4,7 @@ about: person
 title: Timothy Williamson
 description: "Timothy Williamson (b. 1955), Oxford logician and epistemologist: epistemicism about vagueness and the sorites (Vagueness, 1994), knowledge first and anti-luminosity (Knowledge and its Limits, 2000), Fitch's knowability paradox, the KK diagnosis of the surprise examination, the knowledge norm of assertion."
 tags: [thinker, analytic-philosophy, contemporary, epistemology, logic, vagueness, williamson]
-timestamp: 2026-09-28T07:01:48Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Timothy Williamson
@@ -157,3 +157,5 @@ For and against, each as its author states it.
   [knowledge](../vocabulary/knowledge.md), whose knowledge-first entry
   cites *Knowledge and Its Limits* (2000).
 - *KK principle* — knowing that one knows (Hemp, IEP).
+
+Related concepts: [norm](../vocabulary/norm.md).

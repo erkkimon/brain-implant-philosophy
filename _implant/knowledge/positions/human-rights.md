@@ -4,7 +4,7 @@ about: concept
 title: Human rights
 description: "The position that there are rights held by all humans as such — the Universal Declaration of Human Rights (1948), the naturalistic or orthodox conception (Griffin 2008, normative agency) and the political conception (Rawls 1999, Beitz 2009, Raz), with the critics side by side: Bentham, Burke, Marx, MacIntyre, the AAA 1947 Statement and the 'Asian values' debate."
 tags: [position, ethics, political-philosophy, philosophy-of-law, rights]
-timestamp: 2026-10-15T16:52:18Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Human rights
@@ -128,3 +128,5 @@ No survey proportions of philosophers recorded.
 - *Inalienable* — used by the UDHR preamble; Nickel & Etinson (§1): "It is doubtful that all human rights are inalienable in this sense."
 - *Naturalistic, orthodox, political conception; normative agency;
   "Asian values"* — defined above in their owners' words.
+
+Related concepts: [universal code](../vocabulary/universal-code.md).

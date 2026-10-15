@@ -4,7 +4,7 @@ about: person
 title: Confucius (Kongzi)
 description: "Confucius (Kongzi, trad. 551–479 BCE), Chinese teacher from Lu as the sources report him: ren, li, the junzi and filial piety (xiao) in the Analects; the 13.18 case of the father who stole a sheep; the disputed compilation of the Analects; and the virtue-ethics, Fingarette and role-ethics readings."
 tags: [thinker, chinese-philosophy, confucianism, ancient, ethics, confucius]
-timestamp: 2026-10-02T03:07:33Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Confucius (Kongzi)
@@ -92,3 +92,5 @@ Translations differ; the terms have no vocabulary entries yet.
 - *Junzi* 君子 — Legge: "superior man"; "gentleman" (Csikszentmihalyi); "exemplary person" (Ames and Rosemont 1998, per Wong §2.1).
 - *Xiao* 孝 — "filial piety" (Legge, Csikszentmihalyi, Wong).
 - *Dilemma* — Wong's "dramatic moral dilemmas" uses the word in the sense of [dilemma](../vocabulary/dilemma.md).
+
+Related concepts: [virtue and vice](../vocabulary/virtue-and-vice.md).

@@ -4,7 +4,7 @@ about: concept
 title: Categorical imperative (universalisability, Kingdom of Ends)
 description: "Kant's supreme principle of morality and its formulas (universal law 4:421, humanity 4:429, autonomy 4:432, Kingdom of Ends 4:433–439); universalisability as a broader thesis (Hare, M. G. Singer); Mill's and Hegel's objections, counterexamples, and the replies of Korsgaard and others."
 tags: [position, ethics, normative-ethics, kant, deontology]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T22:14:26Z
 ---
 
 # Categorical imperative (universalisability, Kingdom of Ends)
@@ -146,3 +146,5 @@ As opponents and critical commentators state it:
 *Perfect / imperfect duty*, *contradiction in conception / in the will*: as in Varieties.
 *Universalisability* is used here in Jollimore's rough sense quoted under Varieties; spelling follows the Outline of ethics, quotations keep their sources' "universalizability".
 *Kingdom of Ends* translates "Reich der Zwecke" (4:433). See also [moral patient](../vocabulary/moral-patient.md) for the status question raised in §11.
+
+Related concepts: [principle](../vocabulary/principle.md).
