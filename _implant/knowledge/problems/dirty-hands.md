@@ -4,7 +4,7 @@ about: concept
 title: "The problem of dirty hands"
 description: "Whether political leaders may, or must, violate deep moral constraints to achieve great goods or avert disaster — Machiavelli, Weber, Walzer's 1973 naming after Sartre, the charge of incoherence, the consequentialist and absolutist dissolutions, conflict within morality, and the share of democratic citizens."
 tags: [problem, dilemma, ethics, political-philosophy]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # The problem of dirty hands
@@ -93,3 +93,5 @@ Grouped by the question each answers; order is not rank.
 - [Validity](../vocabulary/validity.md) — what the logic check above does and does not show.
 
 Related thinkers: [Kant](../thinkers/kant.md) (Perpetual Peace, App. I), [Augustine](../thinkers/augustine.md), [Aquinas](../thinkers/aquinas.md) (absolutists, Coady SEP §3).
+
+Related concepts: [consent](../vocabulary/consent.md).

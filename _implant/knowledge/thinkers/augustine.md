@@ -4,7 +4,7 @@ about: person
 title: Augustine of Hippo
 description: "Augustine of Hippo (354–430), Latin Christian bishop and philosopher in Roman Africa: evil as privation of good, will and grace, foreknowledge and free choice, the definition and prohibition of lying (De mendacio), and the just war; Confessions, City of God, On Free Choice of the Will."
 tags: [thinker, christian-philosophy, late-antiquity, platonism, ethics, augustine]
-timestamp: 2026-10-08T18:20:39Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # Augustine of Hippo
@@ -143,3 +143,5 @@ Assessments, each its author's:
   ([Answer to Job](../works/answer-to-job.md)).
 
 Related thinkers: [Kant](kant.md) (Mahon §2.3).
+
+Related concepts: [rule according to higher law](../positions/rule-of-higher-law.md).

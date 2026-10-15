@@ -4,7 +4,7 @@ about: concept
 title: Egalitarianism
 description: "The position that people should get the same, be treated the same, or relate as equals in some respect — its luck-egalitarian and relational varieties, the levelling-down objection and the pluralist reply, and the contrasts with prioritarianism and sufficientarianism, as reported in the SEP entries by Arneson and Gosepath."
 tags: [position, ethics, political-philosophy, distributive-justice, egalitarianism]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # Egalitarianism
@@ -133,3 +133,5 @@ luck-egalitarian social order to individuals' "capacity for autonomy"),
 [Liberty, positive and negative](../vocabulary/liberty-positive-and-negative.md)
 (Lamont & Favor §2 report that strict equality is criticised as
 restricting freedom).
+
+Related concepts: [justice](../vocabulary/justice.md).

@@ -4,7 +4,7 @@ about: concept
 title: "Liberty (positive and negative)"
 description: "Liberty or freedom as a political and social ideal, used here as a pointer to the debate over what it consists in — negative liberty (absence of interference), positive liberty (self-mastery, self-determination), republican liberty (non-domination), and MacCallum's single triadic concept — without adopting any one of them."
 tags: [vocabulary, ethics, political-philosophy]
-timestamp: 2026-10-15T16:33:30Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # Liberty (positive and negative)
@@ -154,3 +154,5 @@ citations.
   [Reporting, not endorsing](../../conventions/reporting-not-endorsing.md),
   [How claims are graded](../../conventions/how-claims-are-graded.md),
   [vocabulary index](index.md).
+
+Related concepts: [rights](rights.md), [political freedom](political-freedom.md).

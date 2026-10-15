@@ -4,7 +4,7 @@ about: concept
 title: Autonomy (and self-determination)
 description: "Self-government — a pointer term for several senses kept apart here: Kant's autonomy of the will, personal autonomy (hierarchical, coherentist and relational accounts), respect for autonomy in bioethics, and the self-determination of peoples in political philosophy and international law; the implant does not choose among them."
 tags: [vocabulary, ethics, political-philosophy, bioethics]
-timestamp: 2026-10-15T16:33:30Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # Autonomy (and self-determination)
@@ -159,3 +159,5 @@ Feinberg's list, as Christman reports it (§1.2): "Feinberg has claimed that the
 
 Grading: [How claims are graded](../../conventions/how-claims-are-graded.md);
 branch: [vocabulary index](index.md).
+
+Related concepts: [consent](consent.md), [rights](rights.md).

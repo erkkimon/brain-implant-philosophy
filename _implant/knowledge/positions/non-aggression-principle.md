@@ -4,7 +4,7 @@ about: concept
 title: Non-aggression principle
 description: "The libertarian principle that no one may initiate force against the person or property of another — Rothbard's 'nonaggression axiom' (1973), Rand's ban on initiating physical force, Nozick's side constraints; Zwolinski's critique of moralized aggression and absolutism, the pollution objection, the anarchist challenge, and the replies, all as their holders state them."
 tags: [position, ethics, political-philosophy, libertarianism]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # Non-aggression principle
@@ -168,3 +168,5 @@ NAP that "still has important libertarian implications".
 - *Side constraint* — Nozick's term (p. 32).
 - *Self-ownership*, *minimal state*, *anarcho-capitalism* — as used in
   the sources above. Open work in [vocabulary](../vocabulary/index.md).
+
+Related concepts: [rights](../vocabulary/rights.md).

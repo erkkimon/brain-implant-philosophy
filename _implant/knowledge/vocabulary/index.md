@@ -21,7 +21,7 @@ about: concept
 title: <the term>
 description: "<one sentence: the normative sense, in brief>"
 tags: [vocabulary, <field>]
-timestamp: 2026-10-08T23:52:36Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # <term>
@@ -63,4 +63,7 @@ Linked, with the boundary between them stated.
 * [Individuation](individuation.md) — a collision term: the scholastic principle of individuation, Schopenhauer's, Jung's psychological process, Simondon's.
 * [Autonomy](autonomy.md) — a pointer term: Kantian autonomy of the will, personal autonomy, bioethical autonomy and political self-determination, side by side.
 * [Liberty (positive and negative)](liberty-positive-and-negative.md) — Berlin's two concepts, MacCallum's triadic analysis, republican non-domination, Constant's ancient and modern liberty; a pointer term.
-
+* [Consent](consent.md) — a pointer term: consent's normative power ("moral magic", Hurd), informed consent in medicine and research, consent of the governed (Locke, and Hume's critique), legal consent, side by side.
+* [Justice](justice.md) — a pointer term: Plato's, Aristotle's distributive and corrective, Justinian's "his due", Hume's circumstances, Rawls's fairness, Nozick's entitlement, retributive and restorative, global.
+* [Rights (natural and legal)](rights.md) — Hohfeld's incidents reported as his; will vs interest theories; natural rights (Hobbes, Locke) vs legal rights (Bentham, legal positivism).
+* [Political freedom](political-freedom.md) — civil and political liberties (ICCPR), Arendt's freedom as action, Hayek, Sen's instrumental freedoms, Marx's political emancipation, freedom indices and their critics; kept apart from liberty.

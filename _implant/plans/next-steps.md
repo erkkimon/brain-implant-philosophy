@@ -4,7 +4,7 @@ about: concept
 title: "Next steps: where the work stands and how to resume it"
 description: "The resume point for any agent or maintainer picking this implant up cold, without the chat that produced it: the current state (v0.1 tagged, counts per branch), the decided next steps in order (paradoxes, dilemmas, ethical problems, oxymoron examples, then MLP), the exact per-batch working routine with commands, and the rules that set direction and boundaries. Update it at the end of every working session."
 tags: [plan, handoff, roadmap, resume, process]
-timestamp: 2026-10-15T16:33:30Z
+timestamp: 2026-10-15T16:52:18Z
 ---
 
 # Next steps: where the work stands and how to resume it
@@ -12,12 +12,12 @@ timestamp: 2026-10-15T16:33:30Z
 **Read this first when resuming.** It is kept current at the end of every
 working session, so the work can continue after a gap of days or weeks
 without the conversation that produced it. The episodic detail is in the
-journals (latest: [2026-10-09](../journals/archive/2026/10/2026-10-09.md); earlier days under
+journals (latest: [2026-10-15](../journals/2026-10-15.md); earlier days under
 `journals/archive/`), the full queue is [todo/open.md](../todo/open.md), and
 the release bars are the [MVP](mvp.md) and [MLP](mlp.md) plans. This page
 does not duplicate them; it says which item comes next and how to do it.
 
-Last updated: 2026-10-09, resumed after a park on 2026-10-02 at the
+Last updated: 2026-10-15, resumed after a park on 2026-10-02 at the
 maintainer's request ([journal](../journals/archive/2026/10/2026-10-02.md)).
 Earlier: parked 2026-09-28, resumed 2026-10-01
 ([journal](../journals/archive/2026/10/2026-10-01.md)). The maintainer works
@@ -34,7 +34,7 @@ the new day's journal, and fix the links to it (grep for its file name).
 2. Run section 3, step 1 (pull, compile). Start today's journal in
    `journals/YYYY-MM-DD.md`.
 3. Take the item marked **NEXT** in section 2 (Outline of ethics "Concepts", item 15,
-   as of 2026-10-09).
+   as of 2026-10-15).
 4. For page batches, launch one agent per page with the brief in
    write-a-batch-with-agents §2, then do its review pass (quote check
    against `raw/`, links, template headings, rerun every `logic.py` claim,
@@ -49,9 +49,9 @@ the new day's journal, and fix the links to it (grep for its file name).
   [MVP ship checklist](mvp.md) is closed ([archive of 2026-09-26](../todo/archive/2026-09-26.md)).
   No GitHub release page exists yet (the tag carries the release note);
   creating one from the tag is optional.
-- **Pages per `knowledge/` branch** (2026-10-09): problems 100, positions 14,
+- **Pages per `knowledge/` branch** (2026-10-15): problems 100, positions 16,
   arguments 6, thinkers 52, works 10, schools 2, persuasion 4, biases 3,
-  vocabulary 18, methods 3. `raw/` holds 937 excerpt files.
+  vocabulary 22, methods 3. `raw/` holds 980 excerpt files.
 - **Exemplar clusters:** consciousness / AI consciousness (the first), and
   paradoxes, dilemmas and ethics — [trolley problem](../knowledge/problems/trolley-problem.md),
   [moral dilemmas](../knowledge/problems/moral-dilemmas.md),
@@ -141,7 +141,7 @@ this order, one committed-and-pushed batch of 3–5 pages at a time:
 14. ~~**List of paradoxes "Decision theory"**~~ — done: batch 1 (12,
     Abilene … Kavka) 2026-10-08, batch 2 (10, Morton's fork … willpower)
     2026-10-09 ([journal](../journals/archive/2026/10/2026-10-09.md); [todo archive](../todo/archive/2026-10-09.md)).
-15. **Outline of ethics "Concepts" — NEXT (batch 1, Single principles, done 2026-10-09; next: "Rights and legal concepts", 7 entries without just war):** 49 entries, 2 matched; in list order,
+15. **Outline of ethics "Concepts" — NEXT (batch 1, Single principles, done 2026-10-09; batch 2, Rights and legal concepts, done 2026-10-15 — [todo archive](../todo/archive/2026-10-15.md); next: "Guidelines and basic concepts", 20 entries without moral patienthood, in two batches):** 49 entries, 2 matched; in list order,
     about 10 per batch; many are concepts, so check vocabulary/ and
     positions/ templates before choosing a page type. Exact lists are in [todo/open.md](../todo/open.md).
 8. ~~**2020 PhilPapers figures**~~ for the trolley problem — done
